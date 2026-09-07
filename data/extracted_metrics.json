@@ -1,0 +1,6836 @@
+[
+ {
+  "file": "001_Analysis of temporal sar and optical data for rice mapping",
+  "paper_no": "001",
+  "doi_in_text": "",
+  "n_oa_mentions": 5,
+  "oa_max": 93.77,
+  "oa_median": 93.0,
+  "oa_min": 69.0,
+  "oa_values": [
+   69.0,
+   93.77,
+   87.0,
+   93.19,
+   93.0
+  ],
+  "oa_snippets": [
+   "Overall accuracy = 86,69%",
+   "Overall accuracy = 93.77%",
+   "overall accuracy increased from 87%",
+   "Overall accuracy = 93.19%",
+   "overall accuracy was increased from 87 to 93%"
+  ],
+  "kappa_max": 0.9263,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 23.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "002_Mapping of fractional coverage of paddy fields over East Asia using MODIS data",
+  "paper_no": "002",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "Japan",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "003_Mapping paddy rice agriculture in southern China using multi-temporal MODIS images",
+  "paper_no": "003",
+  "doi_in_text": "10.1016/j.rse.2004.12.009",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "004_Mapping paddy rice agriculture in South and Southeast Asia using multi-temporal MODIS images",
+  "paper_no": "004",
+  "doi_in_text": "10.1016/j.rse.2005.10.004",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "005_Application of ENVISAT ASAR Data in Mapping Rice Crop Growth in Southern China",
+  "paper_no": "005",
+  "doi_in_text": "10.1109/lgrs.2007.896996",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "006_Monitoring rice-crop growth with ENVISAT-1ASAR alternating polarization mode",
+  "paper_no": "006",
+  "doi_in_text": "10.1117/1.2977791",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "",
+  "method_basis": "none",
+  "methods_all": [],
+  "sensors": [
+   "Landsat",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 50.0,
+  "region": "Japan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "007_Rice Mapping and Monitoring Using ENVISAT ASAR Data",
+  "paper_no": "007",
+  "doi_in_text": "10.1109/lgrs.2007.912089",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "008_Multi-year monitoring of rice crop phenology through time series analysis of MODIS images",
+  "paper_no": "008",
+  "doi_in_text": "10.1080/01431160802632249",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Italy",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "009_Monitoring of the Rice Cropping System in the Mekong Delta Using ENVISATASAR Dual Polarization Data",
+  "paper_no": "009",
+  "doi_in_text": "10.1109/tgrs.2008.2007963",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Vietnam",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "010_Mapping paddy rice with multi-date moderate-resolution imaging spectroradiometer (MODIS) data in China",
+  "paper_no": "010",
+  "doi_in_text": "10.1631/jzus.a0820536",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "011_Mapping paddy rice with multitemporal ALOSPALSAR imagery in southeast China",
+  "paper_no": "011",
+  "doi_in_text": "10.1080/01431160902842391",
+  "n_oa_mentions": 1,
+  "oa_max": 80.1,
+  "oa_median": 80.1,
+  "oa_min": 80.1,
+  "oa_values": [
+   80.1
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80.1%"
+  ],
+  "kappa_max": 0.95,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "013_Use of ENVISATASAR wide-swath data for timely rice fields mapping in the Mekong River Delta",
+  "paper_no": "013",
+  "doi_in_text": "10.1016/j.rse.2010.12.014",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "014_Mapping rice areas of South Asia using MODIS multitemporal data",
+  "paper_no": "014",
+  "doi_in_text": "10.1117/1.3619838",
+  "n_oa_mentions": 2,
+  "oa_max": 80.0,
+  "oa_median": 80.0,
+  "oa_min": 80.0,
+  "oa_values": [
+   80.0,
+   80.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80%",
+   "overall accuracy of 80%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "India",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "016_Detection and estimation of mixed paddy rice cropping patterns with MODIS data",
+  "paper_no": "016",
+  "doi_in_text": "10.1016/j.jag.2010.06.001",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": 2.5,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "017_Monitoring Rice Agriculture in the Sacramento Valley, USA With Multitemporal PALSAR and MODIS Imagery",
+  "paper_no": "017",
+  "doi_in_text": "10.1109/jstars.2010.2091493",
+  "n_oa_mentions": 3,
+  "oa_max": 96.0,
+  "oa_median": 96.0,
+  "oa_min": 95.0,
+  "oa_values": [
+   95.0,
+   96.0,
+   96.0
+  ],
+  "oa_snippets": [
+   "overall accuracies (95%",
+   "overall accuracy of 96%",
+   "overall accuracy of 96%"
+  ],
+  "kappa_max": 0.91,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 12.5,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "018_Rice mapping using ALOS PALSAR dual polarization data",
+  "paper_no": "018",
+  "doi_in_text": "10.11834/jrs.20110019",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.77,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "020_Interpreting RADARSAT-2 Quad-Polarization SAR Signatures From Rice Paddy Based on Experiments",
+  "paper_no": "020",
+  "doi_in_text": "10.1109/lgrs.2011.2160613",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "021_Relationship between X-band backscattering coefficients from high-resolution satellite SAR and biophysical variables in ",
+  "paper_no": "021",
+  "doi_in_text": "10.1080/2150704x.2012.725482",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "body",
+  "methods_all": [
+   "Object-Based"
+  ],
+  "sensors": [
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "Japan",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "022_Rice-Planted Area Mapping Using Small Sets of Multi-Temporal SAR Data",
+  "paper_no": "022",
+  "doi_in_text": "10.1109/lgrs.2013.2261049",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Japan",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "023_Multi-year monitoring of paddy rice planting area in Northeast China using MODIS time series data",
+  "paper_no": "023",
+  "doi_in_text": "10.1631/jzus.b1200352",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "024_A Phenology-Based Classification of Time-Series MODIS Data for Rice Crop Monitoring in Mekong Delta, Vietnam",
+  "paper_no": "024",
+  "doi_in_text": "10.3390/rs6010135",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.814,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "025_Complementarity of Two Rice Mapping Approaches Characterizing Strata Mapped by Hypertemporal MODIS and Rice Paddy Identi",
+  "paper_no": "025",
+  "doi_in_text": "10.3390/rs61212789",
+  "n_oa_mentions": 5,
+  "oa_max": 90.4,
+  "oa_median": 90.0,
+  "oa_min": 61.7,
+  "oa_values": [
+   90.0,
+   87.2,
+   61.7,
+   90.4,
+   90.4
+  ],
+  "oa_snippets": [
+   "overall accuracy of 90%",
+   "overall accuracy of 87.2%",
+   "overall accuracy of 61.7%",
+   "overall accuracy was 90.4%",
+   "overall accuracy of 90.4%"
+  ],
+  "kappa_max": 0.72,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Philippines",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "026_Capability of C-band backscattering coefficients from high-resolution satellite SAR sensors to assess biophysical variab",
+  "paper_no": "026",
+  "doi_in_text": "10.1016/j.rse.2013.09.001",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "body",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "027_Monitoring Changes in Rice Cultivated Area from SAR and Optical Satellite Images in Ben Tre and Tra Vinh Provinces in Me",
+  "paper_no": "027",
+  "doi_in_text": "10.3390/rs6054090",
+  "n_oa_mentions": 2,
+  "oa_max": 80.0,
+  "oa_median": 78.5,
+  "oa_min": 77.0,
+  "oa_values": [
+   80.0,
+   77.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80%",
+   "overall accuracy of 77%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "029_Object-Based Flood Mapping and Affected Rice Field Estimation with Landsat 8 OLI and MODIS Data",
+  "paper_no": "029",
+  "doi_in_text": "10.3390/rs70505077",
+  "n_oa_mentions": 2,
+  "oa_max": 96.68,
+  "oa_median": 95.84,
+  "oa_min": 95.0,
+  "oa_values": [
+   95.0,
+   96.68
+  ],
+  "oa_snippets": [
+   "overall accuracy of higher than 95%",
+   "overall accuracy 96.68%"
+  ],
+  "kappa_max": 0.93,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 0.5,
+  "region": "Cambodia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "030_Mapping paddy rice distribution using multi-temporal Landsat imagery in the Sanjiang Plain, northeast China",
+  "paper_no": "030",
+  "doi_in_text": "10.1007/s11707-015-0518-3",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.95,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "031_Mapping rice paddy extent and intensification in the Vietnamese Mekong River Delta with dense time stacks of Landsat dat",
+  "paper_no": "031",
+  "doi_in_text": "10.1016/j.rse.2015.08.004",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "032_Rice-planted area extraction by time series analysis of ENVISAT ASAR WS data using a phenology-based classification appr",
+  "paper_no": "032",
+  "doi_in_text": "10.3390/rs71215808",
+  "n_oa_mentions": 2,
+  "oa_max": 85.3,
+  "oa_median": 85.3,
+  "oa_min": 85.3,
+  "oa_values": [
+   85.3,
+   85.3
+  ],
+  "oa_snippets": [
+   "overall accuracy of 85.3%",
+   "overall accuracy of 85.3%"
+  ],
+  "kappa_max": 0.74,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 150.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "034_Mapping rice-planted areas using time-series synthetic aperture radar data for the Asia-RiCE activity",
+  "paper_no": "034",
+  "doi_in_text": "10.1007/s10333-015-0515-x",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 8.0,
+  "region": "Japan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "035_Monitoring Spatio-Temporal Distribution of Rice Planting Area in the Yangtze River Delta Region Using MODIS Images",
+  "paper_no": "035",
+  "doi_in_text": "10.3390/rs70708883",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "036_Mapping Flooded Rice Paddies Using Time Series of MODIS Imagery in the Krishna River Basin, India",
+  "paper_no": "036",
+  "doi_in_text": "10.3390/rs70708858",
+  "n_oa_mentions": 1,
+  "oa_max": 78.0,
+  "oa_median": 78.0,
+  "oa_min": 78.0,
+  "oa_values": [
+   78.0
+  ],
+  "oa_snippets": [
+   "Overall Accuracy 78%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "037_Mapping paddy rice planting area in wheat-rice double-cropped areas through integration of Landsat-8 OLI, MODIS and PALS",
+  "paper_no": "037",
+  "doi_in_text": "10.1038/srep10088",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.898,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "body",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "038_Comparison of NDVIs from GOCI and MODIS Data towards Improved Assessment of Crop Temporal Dynamics in the Case of Paddy ",
+  "paper_no": "038",
+  "doi_in_text": "10.3390/rs70911326",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "Korea",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "039_Mapping paddy rice planting areas through time series analysis of MODIS land surface temperature and vegetation index da",
+  "paper_no": "039",
+  "doi_in_text": "10.1016/j.isprsjprs.2015.05.011",
+  "n_oa_mentions": 3,
+  "oa_max": 97.0,
+  "oa_median": 97.0,
+  "oa_min": 97.0,
+  "oa_values": [
+   97.0,
+   97.0,
+   97.0
+  ],
+  "oa_snippets": [
+   "overall accuracy was 97%",
+   "overall accuracy = 97%",
+   "overall accuracy of 97%"
+  ],
+  "kappa_max": 0.92,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1"
+  ],
+  "spatial_res_m": 463.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "040_Mapping Paddy Rice in China in 2002, 2005, 2010 and 2014 with MODIS Time Series",
+  "paper_no": "040",
+  "doi_in_text": "10.3390/rs8050434",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.77,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 8.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "041_Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth ",
+  "paper_no": "041",
+  "doi_in_text": "10.1016/j.isprsjprs.2016.05.010",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.71,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "042_Evolution of regional to global paddy rice mapping methods A review",
+  "paper_no": "042",
+  "doi_in_text": "10.1016/j.rse.2016.02.016",
+  "n_oa_mentions": 1,
+  "oa_max": 98.0,
+  "oa_median": 98.0,
+  "oa_min": 98.0,
+  "oa_values": [
+   98.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 98%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "043_Paddy-Rice Phenology Classification Based on Machine-Learning Methods Using Multitemporal Co-Polar X-Band SAR Images",
+  "paper_no": "043",
+  "doi_in_text": "10.1109/jstars.2016.2547843",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "Spain",
+  "validation": "spatial/independent",
+  "validations_all": [
+   "spatial/independent",
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "044_Mapping rice extent and cropping scheme in the Mekong Delta using Sentinel-1A data",
+  "paper_no": "044",
+  "doi_in_text": "10.1080/2150704x.2016.1225172",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.74,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "045_Object-Based Paddy Rice Mapping Using HJ-1AB Data and Temporal Features Extracted from Time Series MODIS NDVI Data",
+  "paper_no": "045",
+  "doi_in_text": "10.3390/rs8060479",
+  "n_oa_mentions": 1,
+  "oa_max": 93.0,
+  "oa_median": 93.0,
+  "oa_min": 93.0,
+  "oa_values": [
+   93.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 93%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "SPOT",
+   "HJ-1"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "046_An Object-Based Paddy Rice Classification Using Multi-Spectral Data and Crop Phenology in Assam, Northeast India",
+  "paper_no": "046",
+  "doi_in_text": "10.3390/s17010010",
+  "n_oa_mentions": 2,
+  "oa_max": 90.62,
+  "oa_median": 87.5,
+  "oa_min": 84.37,
+  "oa_values": [
+   90.62,
+   84.37
+  ],
+  "oa_snippets": [
+   "overall accuracy of 90.62%",
+   "overall accuracy of 84.37%"
+  ],
+  "kappa_max": 0.8437,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "Gaofen",
+   "HJ-1"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "047_Mapping paddy rice planting area in rice-wetland coexistent areas through analysis of Landsat 8 OLI and MODIS images",
+  "paper_no": "047",
+  "doi_in_text": "10.1016/j.jag.2015.11.001",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "048_Mapping rice areas with Sentinel-1 time series and superpixel segmentation",
+  "paper_no": "048",
+  "doi_in_text": "10.1080/01431161.2017.1404162",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "PlanetScope",
+   "SPOT",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "049_Mapping Rice Fields in Urban Shanghai, Southeast China, Using Sentinel-1A and Landsat 8 Datasets",
+  "paper_no": "049",
+  "doi_in_text": "10.3390/rs9030257",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.81,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "050_European Rice Cropland Mapping with Sentinel-1 Data The Mediterranean Region Case Study",
+  "paper_no": "050",
+  "doi_in_text": "10.3390/w9060392",
+  "n_oa_mentions": 1,
+  "oa_max": 77.7,
+  "oa_median": 77.7,
+  "oa_min": 77.7,
+  "oa_values": [
+   77.7
+  ],
+  "oa_snippets": [
+   "overall accuracies (in quotation {}) ranging from 77.7%"
+  ],
+  "kappa_max": 0.87,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "051_Mapping paddy rice fields by applying machine learning algorithms to multi-temporal Sentinel-1A and Landsat data",
+  "paper_no": "051",
+  "doi_in_text": "10.1080/01431161.2017.1395969",
+  "n_oa_mentions": 2,
+  "oa_max": 99.0,
+  "oa_median": 89.8,
+  "oa_min": 80.6,
+  "oa_values": [
+   80.6,
+   99.0
+  ],
+  "oa_snippets": [
+   "overall accuracy increased from 80.6%",
+   "overall accuracies that were signi\ufb01cant at the 99%"
+  ],
+  "kappa_max": 0.93,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "052_Monitoring Rice Agriculture across Myanmar Using Time Series Sentinel-1 Assisted by Landsat-8 and PALSAR-2",
+  "paper_no": "052",
+  "doi_in_text": "10.3390/rs9020119",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.92,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "053_Mapping Double and Single Crop Paddy Rice With Sentinel-1A at Varying Spatial Scales and Polarizations in Hanoi, Vietnam",
+  "paper_no": "053",
+  "doi_in_text": "10.1109/jstars.2017.2784784",
+  "n_oa_mentions": 4,
+  "oa_max": 95.0,
+  "oa_median": 91.25,
+  "oa_min": 87.0,
+  "oa_values": [
+   93.5,
+   87.0,
+   95.0,
+   89.0
+  ],
+  "oa_snippets": [
+   "overall accuracy (93.5%",
+   "overall accuracy of 87%",
+   "overall accuracy for rice maps ranging from 71\u201395%",
+   "overall accuracy of 89%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "054_Mapping Rice Planted Area Using a New Normalized EVI and SAVI (NVI) Derived From Landsat-8 OLI",
+  "paper_no": "054",
+  "doi_in_text": "10.1109/lgrs.2018.2865516",
+  "n_oa_mentions": 1,
+  "oa_max": 96.8,
+  "oa_median": 96.8,
+  "oa_min": 96.8,
+  "oa_values": [
+   96.8
+  ],
+  "oa_snippets": [
+   "overall accuracy of 96.8%"
+  ],
+  "kappa_max": 0.97,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "spatial/independent",
+  "validations_all": [
+   "spatial/independent",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "055_MAPPING RICE CROPPING SYSTEM IN THE LOWER GANGETIC PLAIN USING LANDASAT 8 (OLI) AND MODIS IMAGERY",
+  "paper_no": "055",
+  "doi_in_text": "10.5194/isprs-archives-xlii-5-271-2018",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "056_Sen4Rice A Processing Chain for Differentiating Early and Late Transplanted Rice Using Time-Series Sentinel-1 SAR Data W",
+  "paper_no": "056",
+  "doi_in_text": "10.1109/lgrs.2018.2865816",
+  "n_oa_mentions": 2,
+  "oa_max": 85.0,
+  "oa_median": 85.0,
+  "oa_min": 85.0,
+  "oa_values": [
+   85.0,
+   85.0
+  ],
+  "oa_snippets": [
+   "overall accuracy >85%",
+   "overall accuracy >85%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "057_OPERATIONAL NEAR REAL TIME RICE AREA MAPPING USING MULTI-TEMPORAL SENTINEL-1 SAR OBSERVATIONS",
+  "paper_no": "057",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "058_Rice crop phenology mapping at high spatial and temporal resolution using downscaled MODIS time-series",
+  "paper_no": "058",
+  "doi_in_text": "10.1080/15481603.2018.1423725",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "HJ-1"
+  ],
+  "spatial_res_m": 15.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "059_Salinity stress detection in rice crops using time series MODIS VI data",
+  "paper_no": "059",
+  "doi_in_text": "10.1080/01431161.2018.1513667",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "060_Classification and Mapping of Paddy Rice by Combining Landsat and SAR Time Series Data",
+  "paper_no": "060",
+  "doi_in_text": "10.3390/rs10030447",
+  "n_oa_mentions": 1,
+  "oa_max": 90.0,
+  "oa_median": 90.0,
+  "oa_min": 90.0,
+  "oa_values": [
+   90.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 90%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "SPOT"
+  ],
+  "spatial_res_m": 6.25,
+  "region": "Korea",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "061_Mapping of Rice Varieties and Sowing Date Using X-Band SAR Data",
+  "paper_no": "061",
+  "doi_in_text": "10.3390/s18010316",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "062_Semi-automatic classification method for mapping the rice-planted areas of Japan using multi-temporal Landsat images",
+  "paper_no": "062",
+  "doi_in_text": "10.1016/j.rsase.2018.02.001",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Japan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "063_Incorporating crop phenological trajectory and texture for paddy rice detection with time series MODIS, HJ-1A and ALOS P",
+  "paper_no": "063",
+  "doi_in_text": "10.1080/22797254.2018.1556568",
+  "n_oa_mentions": 2,
+  "oa_max": 96.98,
+  "oa_median": 93.03,
+  "oa_min": 89.09,
+  "oa_values": [
+   89.09,
+   96.98
+  ],
+  "oa_snippets": [
+   "overall accuracy of 89.09%",
+   "overall accuracy (96.98%"
+  ],
+  "kappa_max": 0.93,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "HJ-1"
+  ],
+  "spatial_res_m": 25.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "064_Mapping Early, Middle and Late Rice Extent Using Sentinel-1A and Landsat-8 Data in the Poyang Lake Plain, China",
+  "paper_no": "064",
+  "doi_in_text": "10.3390/s18010185",
+  "n_oa_mentions": 2,
+  "oa_max": 98.1,
+  "oa_median": 98.1,
+  "oa_min": 98.1,
+  "oa_values": [
+   98.1,
+   98.1
+  ],
+  "oa_snippets": [
+   "overall accuracy was 98.10%",
+   "overall accuracy was 98.10%"
+  ],
+  "kappa_max": 0.94,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 1.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "065_Mapping Paddy Rice Using a Convolutional Neural Network (CNN) with Landsat 8 Datasets in the Dongting Lake Area, China",
+  "paper_no": "065",
+  "doi_in_text": "10.3390/rs10081200",
+  "n_oa_mentions": 1,
+  "oa_max": 90.0,
+  "oa_median": 90.0,
+  "oa_min": 90.0,
+  "oa_values": [
+   90.0
+  ],
+  "oa_snippets": [
+   "overall accuracy was approximately 90%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HLS"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "067_Mapping Paddy Rice Using Sentinel-1 SAR Time Series in Camargue, France",
+  "paper_no": "067",
+  "doi_in_text": "10.3390/rs11070887",
+  "n_oa_mentions": 10,
+  "oa_max": 99.2,
+  "oa_median": 93.95,
+  "oa_min": 79.0,
+  "oa_values": [
+   96.3,
+   96.8,
+   93.5,
+   89.6,
+   99.2,
+   96.6,
+   94.4,
+   85.0,
+   79.0,
+   83.0
+  ],
+  "oa_snippets": [
+   "overall accuracy obtained using a simple decision tree reached 96.3%",
+   "overall accuracy of 96.8%",
+   "overall accuracy (93.5%",
+   "overall accuracy of 89.6%",
+   "overall accuracy of 99.2%",
+   "overall accuracy was 96.6%"
+  ],
+  "kappa_max": 0.77,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "068_Mapping paddy rice by the object-based random forest method using time series Sentinel-1Sentinel-2 data",
+  "paper_no": "068",
+  "doi_in_text": "10.1016/j.asr.2019.08.042",
+  "n_oa_mentions": 1,
+  "oa_max": 85.0,
+  "oa_median": 85.0,
+  "oa_min": 85.0,
+  "oa_values": [
+   85.0
+  ],
+  "oa_snippets": [
+   "overall accuracy and Kappa coefficient are above 85%"
+  ],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "069_Detection Phase Growth of Paddy Crop Using SAR Sentinel-1 Data",
+  "paper_no": "069",
+  "doi_in_text": "10.1088/1755-1315/280/1/012022",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "070_Detection Paddy Field using dual Polarization SAR Sentinel-1 Data",
+  "paper_no": "070",
+  "doi_in_text": "10.1088/1755-1315/280/1/012020",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "071_Mapping high temperature damaged area of paddy rice along the Yangtze River using Moderate Resolution Imaging Spectrorad",
+  "paper_no": "071",
+  "doi_in_text": "10.1080/01431161.2019.1643936",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Gaofen",
+   "HJ-1"
+  ],
+  "spatial_res_m": 90.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "072_Nomination-favoured opinion pool for optical-SAR-synergistic rice mapping in face of weakened flooding signals",
+  "paper_no": "072",
+  "doi_in_text": "10.1016/j.isprsjprs.2019.07.008",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Australia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "073_Accuracies of support vector machine and random forest in rice mapping with Sentinel-1A, Landsat-8 and Sentinel-2A datas",
+  "paper_no": "073",
+  "doi_in_text": "10.1080/10106049.2019.1568586",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1",
+   "TerraSAR-X",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "074_Monitoring and Mapping of Rice Cropping Pattern in Flooding Area in the Vietnamese Mekong Delta Using Sentinel-1A Data A",
+  "paper_no": "074",
+  "doi_in_text": "10.3390/ijgi8050211",
+  "n_oa_mentions": 3,
+  "oa_max": 80.7,
+  "oa_median": 80.7,
+  "oa_min": 80.7,
+  "oa_values": [
+   80.7,
+   80.7,
+   80.7
+  ],
+  "oa_snippets": [
+   "overall accuracy of the classi\ufb01cation was 80.7%",
+   "overall accuracy of the classi\ufb01cation was 80.7%",
+   "overall accuracy of 80.7%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "Vietnam",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "075_Paddy acreage mapping and yield prediction using sentinel-based optical and SAR data in Sahibganj district, Jharkhand (I",
+  "paper_no": "075",
+  "doi_in_text": "10.1007/s41324-019-00246-4",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "076_Automated Near-Real-Time Mapping and Monitoring of Rice Extent, Cropping Patterns, and Growth Stages in Southeast Asia U",
+  "paper_no": "076",
+  "doi_in_text": "10.3390/rs11141666",
+  "n_oa_mentions": 2,
+  "oa_max": 96.5,
+  "oa_median": 95.65,
+  "oa_min": 94.8,
+  "oa_values": [
+   94.8,
+   96.5
+  ],
+  "oa_snippets": [
+   "Overall accuracy was 94.8%",
+   "overall accuracy was 96.5%"
+  ],
+  "kappa_max": 0.92,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "078_High resolution paddy rice maps in cloud-prone Bangladesh and Northeast India using Sentinel-1 data",
+  "paper_no": "078",
+  "doi_in_text": "10.1038/s41597-019-0036-3",
+  "n_oa_mentions": 1,
+  "oa_max": 90.0,
+  "oa_median": 90.0,
+  "oa_min": 90.0,
+  "oa_values": [
+   90.0
+  ],
+  "oa_snippets": [
+   "overall accuracy >90%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "079_FLOODED AREA EXTRACTION OF RICE PADDY FIELD IN INDONESIA USING SENTINEL-1 SAR DATA",
+  "paper_no": "079",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "PlanetScope",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "Japan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "080_Cloud-based typhoon-derived paddy rice flooding and lodging detection using multi-temporal Sentinel-1&amp;2",
+  "paper_no": "080",
+  "doi_in_text": "10.1007/s11707-019-0803-7",
+  "n_oa_mentions": 2,
+  "oa_max": 93.0,
+  "oa_median": 89.0,
+  "oa_min": 85.0,
+  "oa_values": [
+   93.0,
+   85.0
+  ],
+  "oa_snippets": [
+   "Overall Accuracy:93%",
+   "Overall Accuracy:85%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "081_Mapping Paddy Rice Planting Area in Northeastern China Using Spatiotemporal Data Fusion and Phenology-Based Method",
+  "paper_no": "081",
+  "doi_in_text": "10.3390/rs11141699",
+  "n_oa_mentions": 1,
+  "oa_max": 98.19,
+  "oa_median": 98.19,
+  "oa_min": 98.19,
+  "oa_values": [
+   98.19
+  ],
+  "oa_snippets": [
+   "overall accuracy and the kappa coe\ufb03cient of our paddy rice map were 98.19%"
+  ],
+  "kappa_max": 0.9819,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "Gaofen",
+   "SPOT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "082_Analysis of the applicability of multi-temporal full polarimetric airborne L-band SAR scattering to paddy rice field map",
+  "paper_no": "082",
+  "doi_in_text": "10.1080/01431161.2019.1693074",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Japan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "083_Combination of Landsat 8 OLI and Sentinel-1 SAR Time-Series Data for Mapping Paddy Fields in Parts of West and Central J",
+  "paper_no": "083",
+  "doi_in_text": "10.3390/ijgi9110663",
+  "n_oa_mentions": 1,
+  "oa_max": 92.1,
+  "oa_median": 92.1,
+  "oa_min": 92.1,
+  "oa_values": [
+   92.1
+  ],
+  "oa_snippets": [
+   "overall accuracies of 92.10%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "084_Rice-Field Mapping with Sentinel-1A SAR Time-Series Data",
+  "paper_no": "084",
+  "doi_in_text": "10.3390/rs13010103",
+  "n_oa_mentions": 3,
+  "oa_max": 96.8,
+  "oa_median": 91.9,
+  "oa_min": 70.0,
+  "oa_values": [
+   91.9,
+   96.8,
+   70.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 91.9%",
+   "overall accuracy was 96.8%",
+   "overall accuracy of [37] reaches more than 70%"
+  ],
+  "kappa_max": 0.883,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "Taiwan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "085_Semi-supervised Classification of Paddy Fields from Dual Polarized Synthetic Aperture Radar (SAR) images using Deep Lear",
+  "paper_no": "085",
+  "doi_in_text": "10.1080/01431161.2020.1846223",
+  "n_oa_mentions": 4,
+  "oa_max": 85.0,
+  "oa_median": 82.75,
+  "oa_min": 70.0,
+  "oa_values": [
+   70.0,
+   82.5,
+   83.0,
+   85.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of more than 70%",
+   "overall accuracy of 82.5%",
+   "overall accuracy achieved here was 83%",
+   "overall accuracy of 85%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "086_Lowland Rice Mapping in Sedhiou Region (Senegal) Using Sentinel 1 and Sentinel 2 Data and Random Forest",
+  "paper_no": "086",
+  "doi_in_text": "10.3390/rs12203403",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": "",
+  "region": "Italy",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "087_Mapping Paddy Fields in Japan by Using a Sentinel-1 SAR Time Series Supplemented by Sentinel-2 Images on Google Earth En",
+  "paper_no": "087",
+  "doi_in_text": "10.3390/rs12051622",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Japan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "088_Optimal MODIS data processing for accurate multi-year paddy rice area mapping in China",
+  "paper_no": "088",
+  "doi_in_text": "10.1080/15481603.2020.1773012",
+  "n_oa_mentions": 1,
+  "oa_max": 95.0,
+  "oa_median": 95.0,
+  "oa_min": 95.0,
+  "oa_values": [
+   95.0
+  ],
+  "oa_snippets": [
+   "overall accuracy (higher than 95%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "090_Crop Type Classification Using Fusion of Sentinel-1 and Sentinel-2 Data Assessing the Impact of Feature Selection, Optic",
+  "paper_no": "090",
+  "doi_in_text": "10.3390/rs12172779",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "091_Monitoring rice growth status in the Mekong Delta, Vietnam using multitemporal Sentinel-1 data",
+  "paper_no": "091",
+  "doi_in_text": "10.1117/1.jrs.14.014518",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "Vietnam",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "092_Automatic Mapping of Rice Growth Stages Using the Integration of SENTINEL-2, MOD13Q1, and SENTINEL-1",
+  "paper_no": "092",
+  "doi_in_text": "10.3390/rs12213613",
+  "n_oa_mentions": 3,
+  "oa_max": 90.6,
+  "oa_median": 90.6,
+  "oa_min": 78.3,
+  "oa_values": [
+   90.6,
+   90.6,
+   78.3
+  ],
+  "oa_snippets": [
+   "overall accuracy of 90.6%",
+   "overall accuracy of 90.6%",
+   "overall accuracy of 78.3%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "PlanetScope",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "093_Spatial analysis of rice phenology using Sentinel-1 and Sentinel-2 in Karawang Regency",
+  "paper_no": "093",
+  "doi_in_text": "10.1088/1755-1315/500/1/012033",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "094_Mapping paddy rice with the random forest algorithm using MODIS and SMAP time series",
+  "paper_no": "094",
+  "doi_in_text": "10.1016/j.chaos.2020.110116",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "Gaofen"
+  ],
+  "spatial_res_m": 4.0,
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "095_Mapping Paddy Rice Using Weakly Supervised Long Short-Term Memory Network with Time Series Sentinel Optical and SAR Imag",
+  "paper_no": "095",
+  "doi_in_text": "10.3390/agriculture10100483",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.921,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "097_Mapping Rice Paddy Based on Machine Learning with Sentinel-2 Multi-Temporal Data Model Comparison and Transferability",
+  "paper_no": "097",
+  "doi_in_text": "10.3390/rs12101620",
+  "n_oa_mentions": 6,
+  "oa_max": 95.0,
+  "oa_median": 92.84,
+  "oa_min": 88.57,
+  "oa_values": [
+   93.14,
+   92.53,
+   89.73,
+   88.57,
+   93.6,
+   95.0
+  ],
+  "oa_snippets": [
+   "OA of 93.14%",
+   "OA of 92.53%",
+   "OA of 89.73%",
+   "OA of 88.57%",
+   "overall accuracy of CNN and SVM being 93.60%",
+   "overall accuracy and F1 scores of higher than 95%"
+  ],
+  "kappa_max": null,
+  "f1_max": 95.0,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "098_Time-series Cross-orbit Sentinel-1 Synthetic-Aperture Radar (SAR) Data for Mapping Paddy Extent Case Study of Magelang D",
+  "paper_no": "098",
+  "doi_in_text": "10.1088/1755-1315/686/1/012053",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 9.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "099_Crop Calendar Mapping of Bangladesh Rice Paddy Field with ALOS-2 ScanSAR Data",
+  "paper_no": "099",
+  "doi_in_text": "10.4236/ars.2021.103008",
+  "n_oa_mentions": 4,
+  "oa_max": 77.19,
+  "oa_median": 75.63,
+  "oa_min": 73.39,
+  "oa_values": [
+   77.19,
+   77.19,
+   73.39,
+   74.07
+  ],
+  "oa_snippets": [
+   "overall accuracy (77.19%",
+   "overall accuracy 77.19%",
+   "overall accuracy is 73.39%",
+   "overall accuracy is 74.07%"
+  ],
+  "kappa_max": 0.99,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Bangladesh",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "100_Cloud Cover throughout All the Paddy Rice Fields in Guangdong, China Impacts on Sentinel 2 MSI and Landsat 8 OLI Optical",
+  "paper_no": "100",
+  "doi_in_text": "10.3390/rs13152961",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "Sentinel-3",
+   "HLS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "101_Optimal multi-temporal Sentinel-1A SAR imagery for paddy rice field discrimination; a recommendation for operational map",
+  "paper_no": "101",
+  "doi_in_text": "10.1016/j.rsase.2021.100533",
+  "n_oa_mentions": 2,
+  "oa_max": 89.3,
+  "oa_median": 89.3,
+  "oa_min": 89.3,
+  "oa_values": [
+   89.3,
+   89.3
+  ],
+  "oa_snippets": [
+   "overall accuracy (89.3%",
+   "overall accuracy (89.3%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Gaofen",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "102_Mapping European Rice Paddy Fields Using Yearly Sequences of Spaceborne Radar Reflectivity A Case Study in Italy",
+  "paper_no": "102",
+  "doi_in_text": "10.3390/earth2030023",
+  "n_oa_mentions": 1,
+  "oa_max": 100.0,
+  "oa_median": 100.0,
+  "oa_min": 100.0,
+  "oa_values": [
+   100.0
+  ],
+  "oa_snippets": [
+   "overall accuracy up to 100%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "body",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Italy",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "104_Understanding Dense Time Series of Sentinel-1 Backscatter from Rice Fields Case Study in a Province of the Mekong Delta,",
+  "paper_no": "104",
+  "doi_in_text": "10.3390/rs13050921",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "106_Mapping rice residues burning and generated pollutants using Sentinel-2 data over northern part of India",
+  "paper_no": "106",
+  "doi_in_text": "10.1016/j.rsase.2021.100486",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "107_A Scalable Machine Learning Pipeline for Paddy Rice Classification Using Multi-Temporal Sentinel Data",
+  "paper_no": "107",
+  "doi_in_text": "10.3390/rs13091769",
+  "n_oa_mentions": 1,
+  "oa_max": 96.69,
+  "oa_median": 96.69,
+  "oa_min": 96.69,
+  "oa_values": [
+   96.69
+  ],
+  "oa_snippets": [
+   "overall accuracy of 96.69%"
+  ],
+  "kappa_max": 0.87,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Korea",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "109_Rice Mapping Using a BiLSTM-Attention Model from Multitemporal Sentinel-1 Data",
+  "paper_no": "109",
+  "doi_in_text": "10.3390/agriculture11100977",
+  "n_oa_mentions": 2,
+  "oa_max": 95.0,
+  "oa_median": 83.88,
+  "oa_min": 72.76,
+  "oa_values": [
+   72.76,
+   95.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of FROM-GLC10 product is 72.76%",
+   "overall accuracies of both methods were better than 95%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "body",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "111_Mapping Paddy Rice with Sentinel-12 and Phenology-, Object-Based AlgorithmA Implementation in Hangjiahu Plain in China U",
+  "paper_no": "111",
+  "doi_in_text": "10.3390/rs13050990",
+  "n_oa_mentions": 1,
+  "oa_max": 95.4,
+  "oa_median": 95.4,
+  "oa_min": 95.4,
+  "oa_values": [
+   95.4
+  ],
+  "oa_snippets": [
+   "overall accuracy of 95.4%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "112_Paddy Rice Mapping in Thailand Using Time-Series Sentinel-1 Data and Deep Learning Model",
+  "paper_no": "112",
+  "doi_in_text": "10.3390/rs13193994",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.8262,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "PlanetScope",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "113_A systematic method for spatio-temporal phenology estimation of paddy rice using time series Sentinel-1 images",
+  "paper_no": "113",
+  "doi_in_text": "10.1016/j.rse.2021.112394",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "PlanetScope",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "114_Mapping a Paddy Rice Area in a Cloudy and Rainy Region Using Spatiotemporal Data Fusion and a Phenology-Based Algorithm",
+  "paper_no": "114",
+  "doi_in_text": "10.3390/rs13214400",
+  "n_oa_mentions": 2,
+  "oa_max": 93.0,
+  "oa_median": 93.0,
+  "oa_min": 93.0,
+  "oa_values": [
+   93.0,
+   93.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 93%",
+   "overall accuracy was 93%"
+  ],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "115_Detection of paddy rice cropping systems in southern China with time series Landsat images and phenology-based algorithm",
+  "paper_no": "115",
+  "doi_in_text": "10.1080/15481603.2021.1943214",
+  "n_oa_mentions": 51,
+  "oa_max": 98.1,
+  "oa_median": 90.6,
+  "oa_min": 80.4,
+  "oa_values": [
+   81.0,
+   92.6,
+   95.2,
+   94.2,
+   81.3,
+   82.4,
+   92.5,
+   94.7,
+   92.6,
+   90.6,
+   95.3,
+   91.5,
+   90.8,
+   90.6,
+   85.1,
+   87.4,
+   91.2,
+   88.4,
+   91.0,
+   85.0,
+   87.1,
+   95.9,
+   89.1,
+   91.3,
+   88.7,
+   84.9,
+   92.6,
+   94.3,
+   93.5,
+   85.4,
+   85.0,
+   86.8,
+   91.3,
+   86.8,
+   80.4,
+   97.0,
+   98.1,
+   97.8,
+   97.1,
+   89.1,
+   89.3,
+   95.2,
+   89.3,
+   82.0,
+   81.0,
+   81.9,
+   90.6,
+   84.7,
+   86.5,
+   86.8,
+   94.7
+  ],
+  "oa_snippets": [
+   "overall accuracies of cropping system results for the study regions range from 81.0%",
+   "OA = 92.6%",
+   "OA = 95.2%",
+   "OA = 94.2%",
+   "OA = 81.3%",
+   "OA = 82.4%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "116_Crop Monitoring of Paddy Field Using Landsat 8 OLI",
+  "paper_no": "116",
+  "doi_in_text": "10.52939/ijg.v18i4.2255",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "SPOT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Malaysia",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "117_Rice Mapping and Various Stages of Rice Growth using Sentinel-1 SAR Data-A case study of Mahabubnagar District, Telangan",
+  "paper_no": "117",
+  "doi_in_text": "10.35940/ijrte.c7259.0911322",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "118_Detection of Diseases in Rice Leaf Using Deep Learning and Machine Learning Techniques",
+  "paper_no": "118",
+  "doi_in_text": "10.14704/web/v19i1/web19100",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM"
+  ],
+  "sensors": [],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "119_Google Earth Engine-Based Identification of Flood Extent and Flood-Affected Paddy Rice Fields Using Sentinel-2 MSI and S",
+  "paper_no": "119",
+  "doi_in_text": "10.1007/s12524-021-01487-3",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.7,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "120_Multi-Branch Self-Learning Vision Transformer (Msvit) for Crop Type Mapping with Sar-Optical Time-Series",
+  "paper_no": "120",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "121_Large-Scale Rice Mapping Using Multi-Task Spatiotemporal Deep Learning and Sentinel-1 SAR Time Series",
+  "paper_no": "121",
+  "doi_in_text": "10.3390/rs14030699",
+  "n_oa_mentions": 3,
+  "oa_max": 98.3,
+  "oa_median": 98.3,
+  "oa_min": 98.3,
+  "oa_values": [
+   98.3,
+   98.3,
+   98.3
+  ],
+  "oa_snippets": [
+   "OA = 98.3%",
+   "overall accuracy equaled 98.3%",
+   "OA = 98.3%"
+  ],
+  "kappa_max": 0.795,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "122_Evaluating Effects of Medium-Resolution Optical Data Availability on Phenology-Based Rice Mapping in China",
+  "paper_no": "122",
+  "doi_in_text": "10.3390/rs14133134",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "HJ-1",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "123_Mapping active paddy rice area over monsoon asia using time-series Sentinel 2 images in Google earth engine; a case stud",
+  "paper_no": "123",
+  "doi_in_text": "10.1080/10106049.2022.2032396",
+  "n_oa_mentions": 3,
+  "oa_max": 88.0,
+  "oa_median": 85.0,
+  "oa_min": 72.76,
+  "oa_values": [
+   72.76,
+   85.0,
+   88.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of the classi\ufb01cation of 72.76%",
+   "overall accuracy estimated from IPPPM is about 85%",
+   "overall accuracy of 88%"
+  ],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "SPOT"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "124_Evaluation of Atmospheric Correction Methods of Sentinel-2 for Monitoring Paddy Rice Growth in Cianjur and Klaten Regenc",
+  "paper_no": "124",
+  "doi_in_text": "10.1088/1742-6596/2243/1/012023",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "Indonesia",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "125_Spatial Transferability of Random Forest Models for Crop Type Classification Using Sentinel-1 and Sentinel-2",
+  "paper_no": "125",
+  "doi_in_text": "10.3390/rs14061493",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "",
+  "validation": "spatial/independent",
+  "validations_all": [
+   "spatial/independent",
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "126_High-resolution paddy rice mapping using Sentinel data based on GEE platform a case study of Hunan province, China",
+  "paper_no": "126",
+  "doi_in_text": "10.3724/sp.j.1006.2022.12066",
+  "n_oa_mentions": 1,
+  "oa_max": 93.97,
+  "oa_median": 93.97,
+  "oa_min": 93.97,
+  "oa_values": [
+   93.97
+  ],
+  "oa_snippets": [
+   "overall accuracy was 93.97%"
+  ],
+  "kappa_max": 0.908,
+  "f1_max": 91.98,
+  "method_category": "RNN/LSTM",
+  "method_basis": "body",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR",
+   "Gaofen",
+   "HJ-1"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "127_A Convolutional Neural Network Method for Rice Mapping Using Time-Series of Sentinel-1 and Sentinel-2 Imagery",
+  "paper_no": "127",
+  "doi_in_text": "10.3390/agriculture12122083",
+  "n_oa_mentions": 2,
+  "oa_max": 84.0,
+  "oa_median": 82.5,
+  "oa_min": 81.0,
+  "oa_values": [
+   81.0,
+   84.0
+  ],
+  "oa_snippets": [
+   "OA = 81%",
+   "OA = 84%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "PlanetScope",
+   "HJ-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "128_A Dual Attention Convolutional Neural Network for Crop Classification Using Time-Series Sentinel-2 Imagery",
+  "paper_no": "128",
+  "doi_in_text": "10.3390/rs14030498",
+  "n_oa_mentions": 8,
+  "oa_max": 98.54,
+  "oa_median": 93.0,
+  "oa_min": 74.0,
+  "oa_values": [
+   98.54,
+   87.0,
+   74.0,
+   87.0,
+   90.0,
+   96.0,
+   98.5,
+   96.0
+  ],
+  "oa_snippets": [
+   "overall accuracy and a Kappa coef\ufb01cient of 98.54%",
+   "overall accuracy of 87%",
+   "OA = 74%",
+   "OA = 87%",
+   "OA of more than 90%",
+   "OA = 96%"
+  ],
+  "kappa_max": 0.9854,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "HJ-1"
+  ],
+  "spatial_res_m": "",
+  "region": "Iran",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "129_Exploiting Sentinel-1 data and machine learningbased random forest for collectively mapping rice fields in Taiwan",
+  "paper_no": "129",
+  "doi_in_text": "10.1007/s12518-022-00440-4",
+  "n_oa_mentions": 1,
+  "oa_max": 90.3,
+  "oa_median": 90.3,
+  "oa_min": 90.3,
+  "oa_values": [
+   90.3
+  ],
+  "oa_snippets": [
+   "overall accuracy and kappa coefficient of 90.3%"
+  ],
+  "kappa_max": 0.903,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "130_Rice Mapping in a Subtropical Hilly Region Based on Sentinel-1 Time Series Feature Analysis and the Dual Branch BiLSTM M",
+  "paper_no": "130",
+  "doi_in_text": "10.3390/rs14133213",
+  "n_oa_mentions": 6,
+  "oa_max": 97.29,
+  "oa_median": 94.15,
+  "oa_min": 79.6,
+  "oa_values": [
+   97.29,
+   91.0,
+   79.6,
+   80.7,
+   97.29,
+   97.29
+  ],
+  "oa_snippets": [
+   "overall accuracy of the rice mapping results was 97.29%",
+   "overall accuracy reached 91%",
+   "overall accuracy of 79.6%",
+   "overall accuracy of 80.7%",
+   "overall accuracy (up to 97.29%",
+   "overall accuracy of the model on the test set was 97.29%"
+  ],
+  "kappa_max": 0.9424,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "body",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "131_Mapping paddy rice and rice phenology with Sentinel-1 SAR time series using a unified dynamic programming framework",
+  "paper_no": "131",
+  "doi_in_text": "10.1515/geo-2022-0369",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "132_Paddy Rice Mapping Using a Dual-Path Spatio-Temporal Network Based on Annual Time-Series Sentinel-2 Images",
+  "paper_no": "132",
+  "doi_in_text": "10.1109/access.2022.3229589",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 91.22,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR",
+   "Gaofen",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "133_Mapping Paddy Rice Distribution and Cropping Intensity in China from 2014 to 2019 with Landsat Images, Effective Flood S",
+  "paper_no": "133",
+  "doi_in_text": "10.3390/rs14030759",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.92,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "134_Monitoring irrigation dynamics in paddy fields using spatiotemporal fusion of Sentinel-2 and MODIS",
+  "paper_no": "134",
+  "doi_in_text": "10.1016/j.agwat.2021.107409",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.9737,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "135_Mapping paddy rice using an adaptive stacking algorithm and Sentinel-12 images based on Google Earth Engine",
+  "paper_no": "135",
+  "doi_in_text": "10.1080/2150704x.2022.2027543",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": 2.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "136_Mapping Paddy Rice in Complex Landscapes with Landsat Time Series Data and Superpixel-Based Deep Learning Method",
+  "paper_no": "136",
+  "doi_in_text": "10.3390/rs14153721",
+  "n_oa_mentions": 1,
+  "oa_max": 97.0,
+  "oa_median": 97.0,
+  "oa_min": 97.0,
+  "oa_values": [
+   97.0
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of 97%"
+  ],
+  "kappa_max": 0.9561,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "137_From Cascade to Parallel Automated Phenology-Guided Supervised Paddy Rice Mapping with Landsat and Sentinel Imagery in G",
+  "paper_no": "137",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "138_Use of time series Sentinel-1 and Sentinel-2 image for rice crop inventory in parts of Bangladesh",
+  "paper_no": "138",
+  "doi_in_text": "10.1007/s12518-023-00501-2",
+  "n_oa_mentions": 3,
+  "oa_max": 80.0,
+  "oa_median": 79.86,
+  "oa_min": 70.0,
+  "oa_values": [
+   79.86,
+   80.0,
+   70.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 79.86%",
+   "overall accuracy was 80%",
+   "overall accuracy was 70%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Bangladesh",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "139_FARM A fully automated rice mapping framework combining Sentinel-1 SAR and Sentinel-2 multi-temporal imagery",
+  "paper_no": "139",
+  "doi_in_text": "10.1016/j.compag.2023.108262",
+  "n_oa_mentions": 1,
+  "oa_max": 89.67,
+  "oa_median": 89.67,
+  "oa_min": 89.67,
+  "oa_values": [
+   89.67
+  ],
+  "oa_snippets": [
+   "overall accuracies (OA) ranging from 89.67%"
+  ],
+  "kappa_max": null,
+  "f1_max": 94.83,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "140_Machine Learning-Based Rice Field Mapping in Kulon Progo using a Fusion of Multispectral and SAR Imageries",
+  "paper_no": "140",
+  "doi_in_text": "10.23917/forgeo.v37i2.20304",
+  "n_oa_mentions": 3,
+  "oa_max": 96.163,
+  "oa_median": 92.47,
+  "oa_min": 92.1,
+  "oa_values": [
+   96.163,
+   92.1,
+   92.47
+  ],
+  "oa_snippets": [
+   "overall accuracy value was slightly higher (96.1630%",
+   "overall accuracy 92.10%",
+   "overall accuracy 92.47%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "141_Crop Type Mapping Based on Polarization Information of Time Series Sentinel-1 Images Using Patch-Based Neural Network",
+  "paper_no": "141",
+  "doi_in_text": "10.3390/rs15133384",
+  "n_oa_mentions": 2,
+  "oa_max": 90.0,
+  "oa_median": 89.45,
+  "oa_min": 88.9,
+  "oa_values": [
+   90.0,
+   88.9
+  ],
+  "oa_snippets": [
+   "overall accuracy of up to 90%",
+   "Overall accuracy = 88.9%"
+  ],
+  "kappa_max": 0.889,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "Gaofen",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "142_Mapping Paddy Cropland in Guntur District using Machine Learning and Google Earth Engine utilizing Images from Sentinel-",
+  "paper_no": "142",
+  "doi_in_text": "10.48084/etasr.6460",
+  "n_oa_mentions": 1,
+  "oa_max": 98.0,
+  "oa_median": 98.0,
+  "oa_min": 98.0,
+  "oa_values": [
+   98.0
+  ],
+  "oa_snippets": [
+   "overall accuracy rate of 98%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "143_Paddy Rice mapping in fragmented lands by improved phenology curve and correlation measurements on Sentinel-2 imagery in",
+  "paper_no": "143",
+  "doi_in_text": "10.1007/s10661-023-11808-3",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Gaofen"
+  ],
+  "spatial_res_m": "",
+  "region": "Iran",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "144_Paddy rice mapping in Red River Delta, Vietnam, using Sentinel 12 data and machine learning algorithms",
+  "paper_no": "144",
+  "doi_in_text": "10.1080/14498596.2023.2174196",
+  "n_oa_mentions": 8,
+  "oa_max": 98.67,
+  "oa_median": 92.75,
+  "oa_min": 84.17,
+  "oa_values": [
+   96.7,
+   98.67,
+   84.17,
+   85.54,
+   95.9,
+   93.5,
+   90.0,
+   92.0
+  ],
+  "oa_snippets": [
+   "overall accuracy \u2013 OA) of 96.7%",
+   "OA = 98.67%",
+   "OA of 84.17%",
+   "OA of 85.54%",
+   "OA = 95.9%",
+   "OA of 93.5%"
+  ],
+  "kappa_max": 0.93,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "145_Deep ResU-Net Convolutional Neural Networks Segmentation for Smallholder Paddy Rice Mapping Using Sentinel 1 SAR and Sen",
+  "paper_no": "145",
+  "doi_in_text": "10.3390/rs15061517",
+  "n_oa_mentions": 2,
+  "oa_max": 94.0,
+  "oa_median": 92.5,
+  "oa_min": 91.0,
+  "oa_values": [
+   91.0,
+   94.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of this study was 91%",
+   "OA of 94%"
+  ],
+  "kappa_max": null,
+  "f1_max": 94.0,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "148_Discrimination and monitoring of rice cultural types using dense time series of Sentinel-1 SAR data",
+  "paper_no": "148",
+  "doi_in_text": "10.1016/j.ecoinf.2023.102136",
+  "n_oa_mentions": 5,
+  "oa_max": 98.0,
+  "oa_median": 90.0,
+  "oa_min": 80.0,
+  "oa_values": [
+   94.74,
+   80.0,
+   87.8,
+   90.0,
+   98.0
+  ],
+  "oa_snippets": [
+   "overall accuracy and Kappa coefficient were 94.74%",
+   "overall accuracy and Kappa coefficient of less than 80%",
+   "overall accuracy of 87.8%",
+   "overall accuracy and Kappa coefficient of 90%",
+   "overall accuracy of 98%"
+  ],
+  "kappa_max": 0.9474,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "body",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1"
+  ],
+  "spatial_res_m": 90.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "149_Large-scale mapping of new mixed rice cropping patterns in southern China with phenology-based algorithm and MODIS datas",
+  "paper_no": "149",
+  "doi_in_text": "10.1007/s10333-023-00926-w",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.83,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 0.5,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "150_Generating Virtual Training Labels for Crop Classification from Fused Sentinel-1 and Sentinel-2 Time Series",
+  "paper_no": "150",
+  "doi_in_text": "10.1007/s41064-023-00256-w",
+  "n_oa_mentions": 2,
+  "oa_max": 95.3,
+  "oa_median": 93.95,
+  "oa_min": 92.6,
+  "oa_values": [
+   95.3,
+   92.6
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of 95.3%",
+   "OA of 92.6%"
+  ],
+  "kappa_max": 0.945,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "151_Paddy Rice Phenological Mapping throughout 30-Years Satellite Images in the Honghe Hani Rice Terraces",
+  "paper_no": "151",
+  "doi_in_text": "10.3390/rs15092398",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "152_RiceMapEngine A Google Earth Engine-Based Web Application for Fast Paddy Rice Mapping",
+  "paper_no": "152",
+  "doi_in_text": "10.1109/jstars.2023.3290677",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "153_Bridging optical and SAR satellite image time series via contrastive feature extraction for crop classification",
+  "paper_no": "153",
+  "doi_in_text": "10.1016/j.isprsjprs.2022.11.020",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "154_Phenology-assisted supervised paddy rice mapping with the Landsat imagery on Google Earth Engine Experiments in Heilongj",
+  "paper_no": "154",
+  "doi_in_text": "10.1016/j.compag.2023.108105",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.96,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "155_Sample-free automated mapping of double-season rice in China using Sentinel-1 SAR imagery",
+  "paper_no": "155",
+  "doi_in_text": "10.3389/fenvs.2023.1207882",
+  "n_oa_mentions": 8,
+  "oa_max": 95.95,
+  "oa_median": 88.38,
+  "oa_min": 83.0,
+  "oa_values": [
+   87.2,
+   92.2,
+   83.0,
+   95.95,
+   91.9,
+   85.0,
+   88.28,
+   88.49
+  ],
+  "oa_snippets": [
+   "overall accuracy of 87.2%",
+   "overall accuracy of 92.2%",
+   "overall accuracy of 83%",
+   "overall accuracy of 95.95%",
+   "overall accuracy of 91.9%",
+   "overall accuracy of 85%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "156_Comparison of Different Supervised Classification Algorithms for Mapping Paddy Rice Areas Using Landsat 9 Imageries",
+  "paper_no": "156",
+  "doi_in_text": "10.46810/tdfd.1266393",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.816,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "157_Classification of Northern Thai Rice Varieties Using Random Forest (RF) and Support Vector Machine (SVM) on Google Earth",
+  "paper_no": "157",
+  "doi_in_text": "10.52939/ijg.v20i9.3539",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.89,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Thailand",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "158_Mapping Rice Paddy Areas in Nueva Ecija Using Temporal Sentinel -1 SAR Imagery",
+  "paper_no": "158",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": "",
+  "region": "Philippines",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "159_Mapping Irrigated Rice in Brazil Using Sentinel-2 SpectralTemporal Metrics and Random Forest Algorithm",
+  "paper_no": "159",
+  "doi_in_text": "10.3390/rs16162900",
+  "n_oa_mentions": 2,
+  "oa_max": 93.0,
+  "oa_median": 91.5,
+  "oa_min": 90.0,
+  "oa_values": [
+   93.0,
+   90.0
+  ],
+  "oa_snippets": [
+   "overall accuracy (93%",
+   "overall accuracy (~90%"
+  ],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Brazil",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "160_SYNERGIZING LANDSAT-8 AND MODIS DATA FOR ENHANCED PADDY PHENOLOGY ASSESSMENT AND CROP FREQUENCY MAPPING A FUSION OF PHEN",
+  "paper_no": "160",
+  "doi_in_text": "10.21163/gt_2024.191.09",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope",
+   "HLS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "162_Mapping Sowing Dates of Paddy in Different Agro-Climatic Regions of Punjab using SAR Satellite Data",
+  "paper_no": "162",
+  "doi_in_text": "10.53555/kuey.v30i6.5160",
+  "n_oa_mentions": 2,
+  "oa_max": 92.0,
+  "oa_median": 91.0,
+  "oa_min": 90.0,
+  "oa_values": [
+   92.0,
+   90.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 87 to 92%",
+   "overall accuracy achieved was more than 90%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "body",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "163_Rice fields classification through spectral-temporal data fusion during the rainy and dry seasons using Sentinel-2 optic",
+  "paper_no": "163",
+  "doi_in_text": "10.1007/s10333-024-00972-y",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "164_A phenological-knowledge-independent method for automatic paddy rice mapping with time series of polarimetric SAR images",
+  "paper_no": "164",
+  "doi_in_text": "10.1016/j.isprsjprs.2024.09.035",
+  "n_oa_mentions": 3,
+  "oa_max": 98.98,
+  "oa_median": 97.99,
+  "oa_min": 85.6,
+  "oa_values": [
+   97.99,
+   98.98,
+   85.6
+  ],
+  "oa_snippets": [
+   "overall accuracy of 97.99%",
+   "overall accuracy for these three regions was 98.98 %",
+   "overall accuracy of 85.60 %"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 4.1,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "165_Large-scale and high-resolution paddy rice intensity mapping using downscaling and phenology-based algorithms on Google ",
+  "paper_no": "165",
+  "doi_in_text": "10.1016/j.jag.2024.103725",
+  "n_oa_mentions": 4,
+  "oa_max": 90.7,
+  "oa_median": 90.7,
+  "oa_min": 90.0,
+  "oa_values": [
+   90.7,
+   90.7,
+   90.0,
+   90.7
+  ],
+  "oa_snippets": [
+   "overall accuracy of the mapping was 90.70 %",
+   "OA was 90.70 %",
+   "overall accuracy of more than 90 %",
+   "overall accuracy of 90.70 %"
+  ],
+  "kappa_max": 0.81,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "166_Correlation Analysis of Vegetation Index Impact on Rice Paddy Productivity Estimation using Landsat-8 and Sentinel-2A Im",
+  "paper_no": "166",
+  "doi_in_text": "10.1088/1755-1315/1418/1/012007",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "167_Detection of the Optimal Temporal Windows for Mapping Paddy Rice Under a Double-Cropping System Using Sentinel-2 Imagery",
+  "paper_no": "167",
+  "doi_in_text": "10.3390/rs17010057",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "168_Spatial domain transfer Cross-regional paddy rice mapping with a few samples based on Sentinel-1 and Sentinel-2 data on ",
+  "paper_no": "168",
+  "doi_in_text": "10.1016/j.jag.2024.103762",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.8894,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "169_Crop classification in Google Earth Engine leveraging Sentinel-1, Sentinel-2, European CAP data, and object-based machin",
+  "paper_no": "169",
+  "doi_in_text": "10.1080/10095020.2024.2341748",
+  "n_oa_mentions": 3,
+  "oa_max": 98.43,
+  "oa_median": 89.0,
+  "oa_min": 85.59,
+  "oa_values": [
+   89.0,
+   85.59,
+   98.43
+  ],
+  "oa_snippets": [
+   "overall accuracy results (89%",
+   "OA of 85.59%",
+   "overall accuracy (98.43%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Italy",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "170_Automated kharif rice mapping using SAR data and machine learning techniques in GEE platform",
+  "paper_no": "170",
+  "doi_in_text": "",
+  "n_oa_mentions": 7,
+  "oa_max": 98.59,
+  "oa_median": 97.14,
+  "oa_min": 88.48,
+  "oa_values": [
+   88.48,
+   98.59,
+   89.53,
+   97.5,
+   92.33,
+   97.14,
+   98.59
+  ],
+  "oa_snippets": [
+   "overall accuracies from 88.48%",
+   "overall accuracy of 98.59%",
+   "overall accuracies of 89.53%",
+   "overall accuracy of 97.5%",
+   "overall accuracy of 92.33%",
+   "overall accuracy of 97.14%"
+  ],
+  "kappa_max": 0.92,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "171_Early-Season Crop Classification Based on Local Window Attention Transformer with Time-Series RCM and Sentinel-1",
+  "paper_no": "171",
+  "doi_in_text": "10.3390/rs16081376",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.9708,
+  "f1_max": 98.07,
+  "method_category": "Attention/Transformer",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "PlanetScope",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "172_Monitoring Rice Crop Dynamics in Koppal District using Time-Series Sentinel-1 Data on Google Earth Engine",
+  "paper_no": "172",
+  "doi_in_text": "10.53989/bu.ge.v14.i1.25.naik",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "173_Identification of Rice Cropping Season and High-Resolution Area Estimation in Major Rice Tracts of Kerala Using Sentinel",
+  "paper_no": "173",
+  "doi_in_text": "10.9734/ijecc/2025/v15i105053",
+  "n_oa_mentions": 3,
+  "oa_max": 92.2,
+  "oa_median": 91.25,
+  "oa_min": 90.0,
+  "oa_values": [
+   91.25,
+   90.0,
+   92.2
+  ],
+  "oa_snippets": [
+   "overall accuracy of 91.25%",
+   "overall accuracy of 90%",
+   "overall accuracy of 92.2%"
+  ],
+  "kappa_max": 0.95,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "174_Automated rice mapping using multitemporal Sentinel-1 SAR imagery using dynamic threshold and slope-based index methods",
+  "paper_no": "174",
+  "doi_in_text": "10.1016/j.rsase.2024.101410",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 99.12,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "175_Comparing Deep Learning models for mapping rice cultivation area in Bhutan using high-resolution satellite imagery",
+  "paper_no": "175",
+  "doi_in_text": "10.1016/j.ophoto.2025.100084",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 85.21,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 4.77,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "176_Ratoon rice mapping based on Sentinel-1 and Sentinel-2 imagery",
+  "paper_no": "176",
+  "doi_in_text": "10.1016/j.rsase.2025.101592",
+  "n_oa_mentions": 12,
+  "oa_max": 92.0,
+  "oa_median": 74.5,
+  "oa_min": 64.0,
+  "oa_values": [
+   92.0,
+   68.0,
+   70.0,
+   64.0,
+   73.0,
+   81.0,
+   76.0,
+   67.0,
+   92.0,
+   70.0,
+   92.0,
+   81.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 92 %",
+   "overall accuracy of 68 %",
+   "OA = 70 %",
+   "OA = 64 %",
+   "overall accuracy of 73 %",
+   "OA = 81 %"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "177_Temporal backscatter characterisation of ratoon rice crops based on Sentinel-1 intensity data",
+  "paper_no": "177",
+  "doi_in_text": "10.1080/15481603.2025.2455081",
+  "n_oa_mentions": 4,
+  "oa_max": 89.0,
+  "oa_median": 78.5,
+  "oa_min": 60.0,
+  "oa_values": [
+   68.0,
+   60.0,
+   89.0,
+   89.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 68%",
+   "OA = 60%",
+   "OA = 62\u201389%",
+   "OA = 50\u201389%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "PlanetScope",
+   "TerraSAR-X",
+   "HLS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "179_Phenological object-based paddy rice mapping in Sungai Burong Selangor Malaysia using Sentinel-1 data",
+  "paper_no": "179",
+  "doi_in_text": "10.1051/bioconf/202517101004",
+  "n_oa_mentions": 2,
+  "oa_max": 91.82,
+  "oa_median": 91.82,
+  "oa_min": 91.82,
+  "oa_values": [
+   91.82,
+   91.82
+  ],
+  "oa_snippets": [
+   "overall accuracy of 91.82%",
+   "overall accuracy of 91.82%"
+  ],
+  "kappa_max": 0.79,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "180_Potential of Sentinel-1 C-band SAR data in tandem with Sentinel-2 optical data towards in-season mapping of paddy residu",
+  "paper_no": "180",
+  "doi_in_text": "10.1016/j.rsase.2025.101514",
+  "n_oa_mentions": 1,
+  "oa_max": 80.2,
+  "oa_median": 80.2,
+  "oa_min": 80.2,
+  "oa_values": [
+   80.2
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80.2%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "181_SPRC A novel Sentinel-1-2 Phenology-enhanced framework for automated paddy rice mapping",
+  "paper_no": "181",
+  "doi_in_text": "10.1016/j.jag.2025.104772",
+  "n_oa_mentions": 9,
+  "oa_max": 96.21,
+  "oa_median": 94.24,
+  "oa_min": 74.4,
+  "oa_values": [
+   74.4,
+   94.24,
+   96.21,
+   91.31,
+   92.1,
+   96.2,
+   96.21,
+   95.54,
+   94.24
+  ],
+  "oa_snippets": [
+   "overall accuracy of 74.4 %",
+   "OA of 94.24 %",
+   "OA of 96.21 %",
+   "OA of 91.31 %",
+   "overall accuracy of 92.1 %",
+   "overall accuracy of 96.2 %"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "HLS"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "182_Unsupervised mapping of rice paddy fields and their inundation patterns using Sentinel-1 SAR images and GIS",
+  "paper_no": "182",
+  "doi_in_text": "10.1080/22797254.2025.2484711",
+  "n_oa_mentions": 1,
+  "oa_max": 80.0,
+  "oa_median": 80.0,
+  "oa_min": 80.0,
+  "oa_values": [
+   80.0
+  ],
+  "oa_snippets": [
+   "Overall accuracy remains stable ( > 80%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "183_Machine learning-based and synthetic aperture radar time-series data for rice classification over Sentinel-1 imagery",
+  "paper_no": "183",
+  "doi_in_text": "10.11591/eei.v14i2.7833",
+  "n_oa_mentions": 8,
+  "oa_max": 96.3,
+  "oa_median": 91.64,
+  "oa_min": 70.0,
+  "oa_values": [
+   92.1,
+   70.0,
+   96.3,
+   91.64,
+   91.48,
+   89.99,
+   91.64,
+   91.64
+  ],
+  "oa_snippets": [
+   "overall accuracy of 92.1%",
+   "overall accuracy exceeded 70%",
+   "overall accuracy of 96.3%",
+   "overall accuracy at 91.64%",
+   "overall accuracy with 91.48%",
+   "overall accuracy with 89.99%"
+  ],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "184_Mapping and monitoring paddy crops with sentinel-1 derived polarimetric parameters and machine learning",
+  "paper_no": "184",
+  "doi_in_text": "10.1007/s10668-025-06448-1",
+  "n_oa_mentions": 1,
+  "oa_max": 90.3,
+  "oa_median": 90.3,
+  "oa_min": 90.3,
+  "oa_values": [
+   90.3
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of 90.3%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "185_Automatic rice cropping intensity mapping in cloudy and foggy areas leveraging simplified harmonic analysis based on sen",
+  "paper_no": "185",
+  "doi_in_text": "10.1080/15481603.2025.2571255",
+  "n_oa_mentions": 2,
+  "oa_max": 84.07,
+  "oa_median": 84.07,
+  "oa_min": 84.07,
+  "oa_values": [
+   84.07,
+   84.07
+  ],
+  "oa_snippets": [
+   "OA reached 84.07%",
+   "OA of 84.07%"
+  ],
+  "kappa_max": 0.776,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "186_Crop Classification in Uzbekistan Using Random Forest Integrating Sentinel-1 SAR and Sentinel-2 Optical Data with Ground",
+  "paper_no": "186",
+  "doi_in_text": "10.1007/s41976-025-00248-x",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.96,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "187_Semantic Segmentation of Paddy Rice From Sentinel-1 SAR Time Series A Temporal Convolutional Network Approach",
+  "paper_no": "187",
+  "doi_in_text": "10.1109/access.2025.3622649",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Philippines",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "188_Time series analysis of Sentinel 1 A SAR data to retrieve annual rice area maps and long-term dynamics of start of seaso",
+  "paper_no": "188",
+  "doi_in_text": "10.1038/s41598-025-91655-z",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.89,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR",
+   "PlanetScope",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 3.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "189_CNN-Random Forest Hybrid Method for Phenology-Based Paddy Rice Mapping Using Sentinel-2 and Landsat-8 Satellite Images",
+  "paper_no": "189",
+  "doi_in_text": "10.3390/computers14080336",
+  "n_oa_mentions": 1,
+  "oa_max": 95.0,
+  "oa_median": 95.0,
+  "oa_min": 95.0,
+  "oa_values": [
+   95.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 95%"
+  ],
+  "kappa_max": 0.893,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Japan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "190_A CNN-RF Hybrid Approach for Rice Paddy Fields Mapping in Indramayu Using Sentinel-1 and Sentinel-2 Data",
+  "paper_no": "190",
+  "doi_in_text": "10.1109/access.2025.3537818",
+  "n_oa_mentions": 5,
+  "oa_max": 98.23,
+  "oa_median": 98.23,
+  "oa_min": 97.0,
+  "oa_values": [
+   98.23,
+   97.0,
+   97.98,
+   98.23,
+   98.23
+  ],
+  "oa_snippets": [
+   "overall accuracy of 98.23%",
+   "overall accuracy of 97%",
+   "OA of 97.98%",
+   "OA of 98.23%",
+   "overall accuracy of up to 98.23%"
+  ],
+  "kappa_max": 0.96,
+  "f1_max": 98.13,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Japan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "191_Crop Classification Using Time-Series Sentinel-1 SAR Data A Comparison of LSTM, GRU, and TCN with Attention",
+  "paper_no": "191",
+  "doi_in_text": "10.3390/rs17122095",
+  "n_oa_mentions": 4,
+  "oa_max": 85.7,
+  "oa_median": 82.85,
+  "oa_min": 70.0,
+  "oa_values": [
+   85.7,
+   70.0,
+   80.0,
+   85.7
+  ],
+  "oa_snippets": [
+   "OA of 85.7%",
+   "overall accuracies ranging from 70%",
+   "OA of approximately 80%",
+   "OA of 85.7%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "title",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "ALOS/PALSAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Japan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "192_Basmati rice varietal differentiate using Sentinel-1 and Sentinel-2 data in Google Earth Engine",
+  "paper_no": "192",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.99,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "193_Tropical Rice Mapping Using Time-Series SAR Images and ESF-Seg Model in Hainan, China, from 2019 to 2023",
+  "paper_no": "193",
+  "doi_in_text": "10.3390/rs17020209",
+  "n_oa_mentions": 4,
+  "oa_max": 98.31,
+  "oa_median": 89.25,
+  "oa_min": 82.0,
+  "oa_values": [
+   85.0,
+   82.0,
+   93.51,
+   98.31
+  ],
+  "oa_snippets": [
+   "overall accuracy of 85%",
+   "overall accuracy of 82%",
+   "overall accuracy reached 93.51%",
+   "OA of 98.31%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "194_Integrating Phenological Features with Time Series Transformer for Accurate Rice Field Mapping in Fragmented and Cloud-P",
+  "paper_no": "194",
+  "doi_in_text": "10.3390/s25247488",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "195_Flood and Rice Damage Mapping for Tropical Storm Talas in Vietnam Using Sentinel-1 SAR Data",
+  "paper_no": "195",
+  "doi_in_text": "10.3390/rs17132171",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Vietnam",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "196_GTGRI a Gaussian time-weighted growth rate index for multi-season paddy rice mapping in diverse climates with dense SAR ",
+  "paper_no": "196",
+  "doi_in_text": "10.1080/15481603.2026.2629148",
+  "n_oa_mentions": 12,
+  "oa_max": 99.19,
+  "oa_median": 87.35,
+  "oa_min": 74.38,
+  "oa_values": [
+   99.19,
+   94.66,
+   76.51,
+   83.0,
+   97.03,
+   91.71,
+   76.51,
+   74.38,
+   83.0,
+   99.19,
+   94.66,
+   76.51
+  ],
+  "oa_snippets": [
+   "Overall Accuracy (OA) of 99.19%",
+   "OA of 94.66%",
+   "OA of 76.51%",
+   "OA of 83.00%",
+   "OA of 97.03%",
+   "OA of 91.71%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "197_Mapping Paddy Rice Using Segmentation Techniques and Phenological Metrics Derived from Sentinel-2 Time Series in Senegal",
+  "paper_no": "197",
+  "doi_in_text": "10.3390/geomatics6010020",
+  "n_oa_mentions": 2,
+  "oa_max": 97.0,
+  "oa_median": 97.0,
+  "oa_min": 97.0,
+  "oa_values": [
+   97.0,
+   97.0
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of 97%",
+   "OA = 97%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Senegal",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "198_A benchmark dataset for primitive Indian paddy field images with deep learning based classification",
+  "paper_no": "198",
+  "doi_in_text": "10.17632/jthrm4mj5r.1",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.9203,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "199_Evaluating Multi-Temporal Sentinel-1 and Sentinel-2 Imagery for Crop Classification A Case Study in a Paddy Rice Growing",
+  "paper_no": "199",
+  "doi_in_text": "10.3390/s26020586",
+  "n_oa_mentions": 4,
+  "oa_max": 94.2,
+  "oa_median": 92.88,
+  "oa_min": 65.0,
+  "oa_values": [
+   91.56,
+   65.0,
+   94.2,
+   94.2
+  ],
+  "oa_snippets": [
+   "Overall Accuracy to 91.56%",
+   "OA of the classification results is 65.00%",
+   "OA = 94.20%",
+   "overall accuracy reached 94.20%"
+  ],
+  "kappa_max": 0.91,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "Gaofen",
+   "PlanetScope",
+   "TerraSAR-X",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "200_Lightweight dual-encoder deep learning integrating Sentinel-1 and Sentinel-2 for paddy field mapping",
+  "paper_no": "200",
+  "doi_in_text": "10.1016/j.rsase.2026.101895",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ }
+]

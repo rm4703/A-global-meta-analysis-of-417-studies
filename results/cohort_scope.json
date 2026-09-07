@@ -1,0 +1,268 @@
+{
+ "n_total": 417,
+ "deep_definition": [
+  "Attention/Transformer",
+  "CNN/Deep Learning",
+  "RNN/LSTM"
+ ],
+ "classical_definition": [
+  "Object-Based",
+  "Phenology/Threshold",
+  "Random Forest/SVM"
+ ],
+ "n_dated": 403,
+ "eras": {
+  "2000-2010": {
+   "n": 10,
+   "mean_oa": 87.4,
+   "sd": 8.96,
+   "deep_share_pct": 20.0,
+   "method_kruskal": {
+    "note": "fewer than two usable categories"
+   },
+   "deep_vs_classical": {
+    "n_deep": 2,
+    "n_classical": 6,
+    "note": "too few studies in one arm for a test (min 3 per arm)"
+   }
+  },
+  "2011-2015": {
+   "n": 34,
+   "mean_oa": 86.19,
+   "sd": 8.81,
+   "deep_share_pct": 5.9,
+   "method_kruskal": {
+    "H": 4.13,
+    "p": 0.0421,
+    "k": 2,
+    "N": 30,
+    "eps2": 0.142,
+    "eps2_null": 0.034
+   },
+   "deep_vs_classical": {
+    "n_deep": 2,
+    "n_classical": 30,
+    "note": "too few studies in one arm for a test (min 3 per arm)"
+   }
+  },
+  "2016-2020": {
+   "n": 103,
+   "mean_oa": 88.12,
+   "sd": 6.69,
+   "deep_share_pct": 11.7,
+   "method_kruskal": {
+    "H": 1.71,
+    "p": 0.7889,
+    "k": 5,
+    "N": 100,
+    "eps2": 0.017,
+    "eps2_null": 0.04
+   },
+   "deep_vs_classical": {
+    "n_deep": 12,
+    "n_classical": 82,
+    "mean_deep": 87.47,
+    "mean_classical": 88.1,
+    "diff_pp": -0.63,
+    "mannwhitney_p": 0.7639,
+    "r_rb": -0.055
+   }
+  },
+  "2021-2026": {
+   "n": 256,
+   "mean_oa": 88.7,
+   "sd": 7.07,
+   "deep_share_pct": 33.2,
+   "method_kruskal": {
+    "H": 6.16,
+    "p": 0.4055,
+    "k": 7,
+    "N": 253,
+    "eps2": 0.024,
+    "eps2_null": 0.024
+   },
+   "deep_vs_classical": {
+    "n_deep": 85,
+    "n_classical": 155,
+    "mean_deep": 89.65,
+    "mean_classical": 88.35,
+    "diff_pp": 1.31,
+    "mannwhitney_p": 0.2243,
+    "r_rb": 0.095
+   }
+  }
+ },
+ "era_gaps_pp": {
+  "2016-2020": -0.63,
+  "2021-2026": 1.31
+ },
+ "eras_testable": [
+  "2016-2020",
+  "2021-2026"
+ ],
+ "eras_untestable": [
+  "2000-2010",
+  "2011-2015"
+ ],
+ "deep_year_trend": {
+  "n": 101,
+  "slope_pp_per_yr": 0.2108,
+  "p": 0.2796
+ },
+ "classical_year_trend": {
+  "n": 273,
+  "slope_pp_per_yr": 0.0604,
+  "p": 0.566
+ },
+ "scope_strata": {
+  "rice-only": {
+   "n": 283,
+   "mean_oa": 89.07,
+   "sd": 6.85,
+   "method_kruskal": {
+    "H": 7.689,
+    "p": 0.2618,
+    "k": 7,
+    "N": 280,
+    "eps2": 0.028,
+    "eps2_null": 0.022
+   },
+   "deep_vs_classical": {
+    "n_deep": 68,
+    "n_classical": 199,
+    "mean_deep": 90.44,
+    "mean_classical": 88.79,
+    "diff_pp": 1.65,
+    "mannwhitney_p": 0.1362,
+    "r_rb": 0.121
+   },
+   "by_era": {
+    "2000-2010": {
+     "n": 6,
+     "mean_oa": 90.19,
+     "sd": 6.42,
+     "deep_vs_classical": {
+      "n_deep": 1,
+      "n_classical": 4,
+      "note": "too few studies in one arm for a test (min 3 per arm)"
+     }
+    },
+    "2011-2015": {
+     "n": 30,
+     "mean_oa": 87.09,
+     "sd": 7.82,
+     "deep_vs_classical": {
+      "n_deep": 2,
+      "n_classical": 27,
+      "note": "too few studies in one arm for a test (min 3 per arm)"
+     }
+    },
+    "2016-2020": {
+     "n": 76,
+     "mean_oa": 88.76,
+     "sd": 6.52,
+     "deep_vs_classical": {
+      "n_deep": 9,
+      "n_classical": 61,
+      "mean_deep": 90.08,
+      "mean_classical": 88.47,
+      "diff_pp": 1.61,
+      "mannwhitney_p": 0.8263,
+      "r_rb": 0.047
+     }
+    },
+    "2021-2026": {
+     "n": 171,
+     "mean_oa": 89.51,
+     "sd": 6.76,
+     "deep_vs_classical": {
+      "n_deep": 56,
+      "n_classical": 107,
+      "mean_deep": 90.68,
+      "mean_classical": 89.17,
+      "diff_pp": 1.52,
+      "mannwhitney_p": 0.256,
+      "r_rb": 0.109
+     }
+    }
+   }
+  },
+  "crop-only": {
+   "n": 134,
+   "mean_oa": 86.48,
+   "sd": 7.51,
+   "method_kruskal": {
+    "H": 3.717,
+    "p": 0.7149,
+    "k": 7,
+    "N": 129,
+    "eps2": 0.029,
+    "eps2_null": 0.047
+   },
+   "deep_vs_classical": {
+    "n_deep": 33,
+    "n_classical": 85,
+    "mean_deep": 86.91,
+    "mean_classical": 85.93,
+    "diff_pp": 0.97,
+    "mannwhitney_p": 0.5588,
+    "r_rb": 0.07
+   },
+   "by_era": {
+    "2000-2010": {
+     "n": 4,
+     "mean_oa": 83.21,
+     "sd": 10.46,
+     "deep_vs_classical": {
+      "n_deep": 1,
+      "n_classical": 2,
+      "note": "too few studies in one arm for a test (min 3 per arm)"
+     }
+    },
+    "2011-2015": {
+     "n": 4,
+     "mean_oa": 79.47,
+     "sd": 12.23,
+     "deep_vs_classical": {
+      "n_deep": 0,
+      "n_classical": 3,
+      "note": "too few studies in one arm for a test (min 3 per arm)"
+     }
+    },
+    "2016-2020": {
+     "n": 27,
+     "mean_oa": 86.31,
+     "sd": 6.82,
+     "deep_vs_classical": {
+      "n_deep": 3,
+      "n_classical": 21,
+      "mean_deep": 79.61,
+      "mean_classical": 87.0,
+      "diff_pp": -7.39,
+      "mannwhitney_p": 0.2708,
+      "r_rb": -0.429
+     }
+    },
+    "2021-2026": {
+     "n": 85,
+     "mean_oa": 87.06,
+     "sd": 7.38,
+     "deep_vs_classical": {
+      "n_deep": 29,
+      "n_classical": 48,
+      "mean_deep": 87.66,
+      "mean_classical": 86.51,
+      "diff_pp": 1.15,
+      "mannwhitney_p": 0.556,
+      "r_rb": 0.081
+     }
+    }
+   }
+  }
+ },
+ "scope_contrast": {
+  "mannwhitney_p": 0.00023,
+  "r_rb": 0.223,
+  "mean_diff_pp": 2.59
+ }
+}

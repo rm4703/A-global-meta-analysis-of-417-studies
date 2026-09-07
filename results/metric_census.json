@@ -1,0 +1,297 @@
+{
+ "n_eligible": 417,
+ "n_scanned": 417,
+ "unmatched_files": [],
+ "rows": [
+  {
+   "metric": "Overall accuracy (OA)",
+   "studies_mentioning": 417,
+   "studies_mentioning_incl_weak": 417,
+   "pct_mentioning": 100.0,
+   "studies_usable": 417,
+   "pct_usable": 100.0,
+   "studies_parseable": 417,
+   "note": "**Primary outcome.** The only metric every eligible study reports, each traced to a verbatim source sentence"
+  },
+  {
+   "metric": "Kappa",
+   "studies_mentioning": 286,
+   "studies_mentioning_incl_weak": 286,
+   "pct_mentioning": 68.6,
+   "studies_usable": 213,
+   "pct_usable": 51.1,
+   "studies_parseable": 213,
+   "note": "**Co-primary outcome (\u00a73.8).** Chance-corrected; the remaining studies name Kappa without giving an extractable study-level value"
+  },
+  {
+   "metric": "F1-score",
+   "studies_mentioning": 128,
+   "studies_mentioning_incl_weak": 134,
+   "pct_mentioning": 30.7,
+   "studies_usable": 30,
+   "pct_usable": 7.2,
+   "studies_parseable": 30,
+   "note": "**Secondary cross-check only (\u00a7S8).** Reported under mixed macro / micro / rice-class averaging, so the values do not share a scale"
+  },
+  {
+   "metric": "Precision / User's accuracy",
+   "studies_mentioning": 239,
+   "studies_mentioning_incl_weak": 285,
+   "pct_mentioning": 57.3,
+   "studies_usable": 0,
+   "pct_usable": 0.0,
+   "studies_parseable": 25,
+   "note": "A numeric value is parseable in 25 studies, but always for one class among several and against target classes that differ between studies, so none is reducible to a common scale"
+  },
+  {
+   "metric": "Recall / Producer's accuracy",
+   "studies_mentioning": 233,
+   "studies_mentioning_incl_weak": 254,
+   "pct_mentioning": 55.9,
+   "studies_usable": 0,
+   "pct_usable": 0.0,
+   "studies_parseable": 21,
+   "note": "As above: a value is parseable in 21 studies, but as a per-class confusion-matrix quantity rather than a study-level one"
+  },
+  {
+   "metric": "IoU / Jaccard",
+   "studies_mentioning": 24,
+   "studies_mentioning_incl_weak": 25,
+   "pct_mentioning": 5.8,
+   "studies_usable": 0,
+   "pct_usable": 0.0,
+   "studies_parseable": 12,
+   "note": "Segmentation-specific: a value is parseable in 12 studies, confined to recent CNN work and far too few to pool"
+  }
+ ],
+ "examples": {
+  "Overall accuracy (OA)": [
+   {
+    "doi": "10.1080/01431161.2019.1591648",
+    "match": "overall accurac",
+    "tier": "strong",
+    "context": "sensors. the obtained results of the mdal method for these datasets respectively showed 8.2% and 5.87% increase in the overall accuracy of classi- \u00ef\u00accation as compared to the accuracy of the standard al algorithm. the results also showed that in the case"
+   },
+   {
+    "doi": "10.3390/rs11111370",
+    "match": "overall accurac",
+    "tier": "strong",
+    "context": "training dataset than the mxl method. (a) (b) 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 oa wce sun mai wra gra alf ocr fo overall accuracy/f- score s10 ndvi mxl s10 ndvi svm s10 ndvi rf msbs mxl msbs svm msbs rf 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 oa wc"
+   },
+   {
+    "doi": "10.3390/s19102401",
+    "match": "overall accurac",
+    "tier": "strong",
+    "context": "ation index (ndvi) changes also. by using single remote sensing data to classify crops, sentinel-2 produced the highest overall accuracy (0.91) and kappa coe\u00ef\u00ac\u0192cient (0.89). the combination of sentinel-1, sentinel-2, and landsat-8 data provided the best o"
+   },
+   {
+    "doi": "10.26480/bda.01.2021.01.05",
+    "match": "overall accurac",
+    "tier": "strong",
+    "context": "ults were validated using 0.44m resolution digital globe satellite imagery with 79 well-distributed control points. the overall accuracy of the method was found to be 79.746%. keywords paddy, ndvi, food security, remote sensing, lswi, gis. 1. introduction"
+   },
+   {
+    "doi": "10.1080/10095020.2020.1782776",
+    "match": "overall accurac",
+    "tier": "strong",
+    "context": "three datasets were evaluated along with ten machine learning. the classification results were interpreted by comparing overall accuracies, kappa, standard deviation and f-score. it was found that lidar data successfully differentiated between different c"
+   },
+   {
+    "doi": "10.3390/ijgi9020120",
+    "match": "overall accurac",
+    "tier": "strong",
+    "context": "mediate data are openly shared in a research database. validation using an independent validation dataset showed a high overall accuracy of 96.7% with differentiation into 11 different crop-classes. keywords: remote sensing; land use land cover; ancillary"
+   }
+  ],
+  "Kappa": [
+   {
+    "doi": "10.1080/01431161.2019.1591648",
+    "match": "kappa",
+    "tier": "strong",
+    "context": "\u00ac\u20acerent table 4. individual class accuracies and overall classi\u00ef\u00accation performance (in terms of overall accuracy [oa], kappa statistic and computational time) of di\u00ef\u00ac\u20acerent algorithms for sopt-sits. standard-al mdal- simplemkl mdal- ka mdal- hs"
+   },
+   {
+    "doi": "10.3390/s19102401",
+    "match": "kappa",
+    "tier": "strong",
+    "context": "lso. by using single remote sensing data to classify crops, sentinel-2 produced the highest overall accuracy (0.91) and kappa coe\u00ef\u00ac\u0192cient (0.89). the combination of sentinel-1, sentinel-2, and landsat-8 data provided the best overall accuracy (0"
+   },
+   {
+    "doi": "10.1080/10095020.2020.1782776",
+    "match": "kappa",
+    "tier": "strong",
+    "context": "evaluated along with ten machine learning. the classification results were interpreted by comparing overall accuracies, kappa, standard deviation and f-score. it was found that lidar data successfully differentiated between different crop types,"
+   },
+   {
+    "doi": "10.1016/j.isprsjprs.2021.02.018",
+    "match": "kappa",
+    "tier": "strong",
+    "context": "nd random forest models the metrics used for evaluating each model include training and testing accuracy, and cohen\u00e2\u20ac\u2122s kappa coefficient. accuracy is a common measure in computer vision and pattern recognition and is represented as ( tp+tn tp+f"
+   },
+   {
+    "doi": "10.52547/gisj.12.4.73",
+    "match": "kappa",
+    "tier": "strong",
+    "context": "aining samples. results of accuracy assessments showed that support vector machine, with overall accuracy of 91.36% and kappa coefficient of 0.8927, produces a more precise land use and crop map rather than random forest method. keywords: suppor"
+   },
+   {
+    "doi": "10.1155/2021/8810279",
+    "match": "kappa",
+    "tier": "strong",
+    "context": "d in c-band and the optical range improved clearly the crop-type classi\u00ef\u00accation performance (overall accu- racy \u00e2\u02c6 89%; kappa \u00e2\u02c6 0.85) compared to the classi\u00ef\u00accation results of optical or sar data alone. 1. introduction accurate and detailed kno"
+   }
+  ],
+  "F1-score": [
+   {
+    "doi": "10.3390/rs11111370",
+    "match": "f-scor",
+    "tier": "strong",
+    "context": "s is shown in table 3. this error matrix was used to calculate user\u00e2\u20ac\u2122s accuracy (uai), producer\u00e2\u20ac\u2122s accuracy (paj) and f-score [39] for any class, as well as overall map accuracy (oa). the equations used to estimate these accuracy measures were:"
+   },
+   {
+    "doi": "10.3390/s19102401",
+    "match": "f1 scor",
+    "tier": "strong",
+    "context": "e meaningful than the kappa coe\u00ef\u00ac\u0192cient and the overall accuracy. the value range of f1 is from 0 to 1\u00e2\u20ac\u201dthe larger the f1 score is, the more accurate the classi\u00ef\u00accation results are. the f1 score is the harmonic mean of u and p: f1 = 2 \u00e3\u2014 p \u00e3\u2014 u u"
+   },
+   {
+    "doi": "10.1080/10095020.2020.1782776",
+    "match": "f-scor",
+    "tier": "strong",
+    "context": "ne learning. the classification results were interpreted by comparing overall accuracies, kappa, standard deviation and f-score. it was found that lidar data successfully differentiated between different crop types, with xgboost providing the hig"
+   },
+   {
+    "doi": "10.3390/ijgi9020120",
+    "match": "f1-scor",
+    "tier": "strong",
+    "context": "error matrix is the basis for the class speci\u00ef\u00acc accuracy measures, user\u00e2\u20ac\u2122s accuracy, producer\u00e2\u20ac\u2122s accuracy [55], and f1-score [22]. for assessing the general accuracy of the classi\u00ef\u00accation, the overall accuracy [55] was calculated. 3.3. real es"
+   },
+   {
+    "doi": "10.1016/j.jag.2021.102451",
+    "match": "f1-scor",
+    "tier": "strong",
+    "context": "he data in each target area (t1-t9) for 18 combinations. overall accuracy, producer\u00e2\u20ac\u2122s accuracy, user\u00e2\u20ac\u2122s accuracy and f1-score (f1) were used to evaluate the accuracy of the model transfer results for each area. overall accuracy = \u00e2\u02c6\u2018k i=1xii n"
+   },
+   {
+    "doi": "10.3390/rs13142790",
+    "match": "f1 scor",
+    "tier": "strong",
+    "context": "ssi\u00ef\u00accation was evaluated in terms of overall accuracy (oa) [51]. the accuracy of each crop type was assessed using the f1 score (f1), which is the harmonic mean of precision and recall [52]. in order to evaluate the stability of different models,"
+   }
+  ],
+  "Precision / User's accuracy": [
+   {
+    "doi": "10.3390/ijgi9020120",
+    "match": "(ua)",
+    "tier": "strong",
+    "context": "sprs int. j. geo-inf. 2020, 9, 120 11 of 15 table 7. comparison of the producer\u00e2\u20ac\u2122s accuracy (pa) and user\u00e2\u20ac\u2122s accuracy (ua) (in %) of crop classes of the study carried out by [22] and of the present study. unsatisfactory results below 80% are"
+   },
+   {
+    "doi": "10.1016/j.jag.2020.102264",
+    "match": "(ua)",
+    "tier": "strong",
+    "context": "the quality of the labeled reference was assessed using the following metrics: overall accuracy (oa), user\u00e2\u20ac\u2122s accuracy (ua), and producer\u00e2\u20ac\u2122s accuracy (pa) (congalton, 1991). 4. results 4.1. temporal profiles of the investigated crops in all t"
+   },
+   {
+    "doi": "10.1016/j.jag.2021.102451",
+    "match": "(ua)",
+    "tier": "strong",
+    "context": "r results for each area. overall accuracy = \u00e2\u02c6\u2018k i=1xii n (1) producer\u00e2\u20ac\u2122s accuracy (pa) = xii ni (2) user\u00e2\u20ac\u2122s accuracy (ua) = xii ni (3) f1 = 2 \u00e3\u2014 pa \u00e3\u2014 ua pa + ua (4) where xii represents the number of pixels of class i that matches the spati"
+   },
+   {
+    "doi": "10.1016/j.isprsjprs.2020.11.022",
+    "match": "user accurac",
+    "tier": "strong",
+    "context": "n model for gsv image classification in the central valley, displayed as a confusion matrix. pa: producer accuracy; ua: user accuracy; oa: overall accuracy. central valley alfalfa almonds corn cotton grape other pistachios rice ua alfalfa 185 0 0 0 0 0"
+   },
+   {
+    "doi": "10.1016/j.isprsjprs.2021.02.018",
+    "match": "user accurac",
+    "tier": "strong",
+    "context": "2d u-net had a producers score of 0.72 for cocklebur, 0.61 for residue, 0.38 for switchgrass, and 0.60 for ragweed. the user accuracy is the probability that a value predicted to be in a certain class really is that class. as seen in table 19, the user"
+   },
+   {
+    "doi": "10.52547/gisj.12.4.73",
+    "match": "user's accurac",
+    "tier": "strong",
+    "context": "\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac 1. confusion matrix 2. validation 3. overall accuracy 4. kappa coefficient 5. producer's accuracy 6. user's accuracy 7. omission error 8. commission error 9. over estimation 10. under estimation \u00ef\u00bb\u00a3\u00ef\u00bb\u02dc\u00ef\u00ba\u017e\u00ef\u00af\u00be\u00ef\u00ba\u00b4\u00ef\u00ae\u00a5 \u00f8\u00af\u00ef\u00bb\u2014\u00ef\u00ba\u2013 \u00f8\u00b1\u00f9\u02c6\u00f8\u00b4 \u00ef\u00bb\u00ab\u00ef\u00ba"
+   }
+  ],
+  "Recall / Producer's accuracy": [
+   {
+    "doi": "10.3390/ijgi9020120",
+    "match": "producer accurac",
+    "tier": "strong",
+    "context": "s can be seen in tables 4 and 5, the accuracy of all crop classes was in the acceptable accuracy range, as all user and producer accuracy measures were beyond 80%, with one exception: \u00e2\u02c6\u201972% producer accuracy of the class potato, which was mixed up with su"
+   },
+   {
+    "doi": "10.1016/j.jag.2020.102264",
+    "match": "(pa)",
+    "tier": "strong",
+    "context": "ence was assessed using the following metrics: overall accuracy (oa), user\u00e2\u20ac\u2122s accuracy (ua), and producer\u00e2\u20ac\u2122s accuracy (pa) (congalton, 1991). 4. results 4.1. temporal profiles of the investigated crops in all three study areas grains had a si"
+   },
+   {
+    "doi": "10.1016/j.jag.2021.102451",
+    "match": "(pa)",
+    "tier": "strong",
+    "context": "te the accuracy of the model transfer results for each area. overall accuracy = \u00e2\u02c6\u2018k i=1xii n (1) producer\u00e2\u20ac\u2122s accuracy (pa) = xii ni (2) user\u00e2\u20ac\u2122s accuracy (ua) = xii ni (3) f1 = 2 \u00e3\u2014 pa \u00e3\u2014 ua pa + ua (4) where xii represents the number of pixe"
+   },
+   {
+    "doi": "10.1016/j.isprsjprs.2020.11.022",
+    "match": "producer accurac",
+    "tier": "strong",
+    "context": "1 performance of the cnn model for gsv image classification in the central valley, displayed as a confusion matrix. pa: producer accuracy; ua: user accuracy; oa: overall accuracy. central valley alfalfa almonds corn cotton grape other pistachios rice ua al"
+   },
+   {
+    "doi": "10.1016/j.isprsjprs.2021.02.018",
+    "match": "producer accurac",
+    "tier": "strong",
+    "context": "compared to the stand alone optical and sar data, but the optical data performed the best overall for the 2d u-net. the producer accuracy is the probability that a value in a given class was classified correctly. the producer\u00e2\u20ac\u2122s accuracies for the 3d u-ne"
+   },
+   {
+    "doi": "10.52547/gisj.12.4.73",
+    "match": "producer's accurac",
+    "tier": "strong",
+    "context": "\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac\u00f9\u20ac 1. confusion matrix 2. validation 3. overall accuracy 4. kappa coefficient 5. producer's accuracy 6. user's accuracy 7. omission error 8. commission error 9. over estimation 10. under estimation \u00ef\u00bb\u00a3\u00ef\u00bb\u02dc\u00ef\u00ba\u017e\u00ef\u00af\u00be\u00ef\u00ba\u00b4\u00ef\u00ae\u00a5 \u00f8\u00af"
+   }
+  ],
+  "IoU / Jaccard": [
+   {
+    "doi": "10.1016/j.isprsjprs.2021.02.018",
+    "match": "iou",
+    "tier": "strong",
+    "context": "ea are used in the calculations, including non-crop type categories: water, urban, and forest. intersection over union (iou) is also used in this study. this metric is defined as iou = tp (tp+fp+fn) where tp is the true positive, fp is false p"
+   },
+   {
+    "doi": "10.3390/agriculture16090920",
+    "match": "iou",
+    "tier": "strong",
+    "context": "ost + lstm achieved the best performance, with an overall accuracy of 93.61%, a kappa coefficient of 91.66%, and a mean iou of 87.41%. the class-wise f1-scores were 85.61% for wheat, 97.22% for corn, and 87.27% for sunflower. additional experi"
+   },
+   {
+    "doi": "10.1080/01431161.2020.1846223",
+    "match": "jaccard",
+    "tier": "weak",
+    "context": "creases the accuracy of the model. the similarity measure between the clusters and the classes are determined using the jaccard similarity test. clusters showing p > 0.01 are masked out. table 3 shows the figure 5. block diagram showing pre-proces"
+   },
+   {
+    "doi": "10.3390/rs13050990",
+    "match": "iou",
+    "tier": "strong",
+    "context": "nd a high oe means over- segmentation. besides metrics obtained from the confusion matrix, the intersection over union (iou) score is also used. iou is a metric to quantify the percentage of overlap between the reference \u00ef\u00acelds and our extract"
+   },
+   {
+    "doi": "10.1080/14498596.2023.2174196",
+    "match": "iou",
+    "tier": "strong",
+    "context": "the performance of the classifier, including overall accuracy (oa), f1 score, kappa score and intersection over union (iou). these metrics are commonly used to evaluate the quality of land cover classifiers. oa \u00e2\u00bc tp \u00e3\u00be tn tp \u00e3\u00be tn \u00e3\u00be fp \u00e3\u00be f"
+   },
+   {
+    "doi": "10.3390/rs15061517",
+    "match": "iou",
+    "tier": "strong",
+    "context": "accuracy and f1-score of the paddy rice \u00ef\u00aceld class, as this was the study\u00e2\u20ac\u00b2s focus. the mean intersection over union (iou) was used as an additional metric for the u-net predictions. equation (8) shows how the iou is calculated: iou = tp fn"
+   }
+  ]
+ }
+}

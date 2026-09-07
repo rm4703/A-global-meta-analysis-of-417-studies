@@ -1,0 +1,26 @@
+{
+ "n_with_sensor_and_resolution": 323,
+ "n_physically_possible": 261,
+ "n_finer_than_native": 62,
+ "pct_finer_than_native": 19.2,
+ "n_sensor_unclassified": 2,
+ "fit_all": {
+  "n": 323,
+  "beta_pp_per_log10m": -0.575,
+  "p": 0.3965,
+  "r2": 0.0022
+ },
+ "fit_possible_only": {
+  "n": 261,
+  "beta_pp_per_log10m": -1.755,
+  "p": 0.0501,
+  "r2": 0.0147
+ },
+ "fit_impossible_only": {
+  "n": 62,
+  "beta_pp_per_log10m": 0.013,
+  "p": 0.9959,
+  "r2": 0.0
+ },
+ "null_survives_restriction": true
+}

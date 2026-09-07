@@ -1,0 +1,9 @@
+{
+ "n_eligible": 420,
+ "pct_metric_anchored_OA_sentence": 100.0,
+ "pct_oa_rep_within_study_OA_range": 99.8,
+ "pct_value_matches_its_snippet": 66.0,
+ "n_high_confidence": 277,
+ "pooled_OA_all": 88.06,
+ "pooled_OA_high_confidence": 88.29
+}

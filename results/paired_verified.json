@@ -1,0 +1,132 @@
+[
+ {
+  "doi": "10.3390/agriculture11100977",
+  "deep": "BiLSTM-Attention",
+  "deep_oa": 93.51,
+  "cls": "RF",
+  "cls_oa": 88.09,
+  "src": "\"accuracy of BiLSTM-Attention was 0.9351\"; \"RF (0.8809)\"",
+  "kind": "own",
+  "delta": 5.42
+ },
+ {
+  "doi": "10.3390/agriculture12122083",
+  "deep": "3D-CNN",
+  "deep_oa": 97.0,
+  "cls": "XGBoost",
+  "cls_oa": 84.0,
+  "src": "\"more than 97% overall accuracy\"; \"XGBoost ... (OA = 84%)\"",
+  "kind": "own (deep is lower bound)",
+  "delta": 13.0
+ },
+ {
+  "doi": "10.3390/agronomy13112800",
+  "deep": "LSTM",
+  "deep_oa": 90.61,
+  "cls": "RF",
+  "cls_oa": 83.09,
+  "src": "\"LSTM ... OA of 90.61%\"; \"7.52% ... improvement in OA compared to RF\"",
+  "kind": "derived",
+  "delta": 7.52
+ },
+ {
+  "doi": "10.5281/zenodo.18168302",
+  "deep": "T2VRCM (ViT/Mamba family)",
+  "deep_oa": 92.33,
+  "cls": "RF",
+  "cls_oa": 83.01,
+  "src": "\"overall accuracy of 92.33%\"; \"RF ... (OA=83.01%)\"",
+  "kind": "own (benchmark dataset)",
+  "delta": 9.32
+ },
+ {
+  "doi": "10.3390/computers14080336",
+  "deep": "CNN-1D",
+  "deep_oa": 92.8,
+  "cls": "RF",
+  "cls_oa": 93.48,
+  "src": "\"0.928 ... CNN-1D\"; \"Random Forest ... 93.48%\"",
+  "kind": "own (pure-deep vs RF)",
+  "delta": -0.68
+ },
+ {
+  "doi": "10.3390/agriculture16090920",
+  "deep": "RF+LSTM (temporal DL)",
+  "deep_oa": 93.61,
+  "cls": "RF",
+  "cls_oa": 85.4,
+  "src": "\"incorporating the LSTM, OA increased to ... 93.61%\"; \"Without ... LSTM, OA was 84.67% for RF ... 85.40%\"",
+  "kind": "own (ablation)",
+  "delta": 8.21
+ },
+ {
+  "doi": "10.3390/rs13071360",
+  "deep": "deep-learning model",
+  "deep_oa": 91.2,
+  "cls": "RF/SVM",
+  "cls_oa": 88.5,
+  "src": "\"pheno-deep ... 88.8%, only 2.4% lower than the deep learning method\"; \"88.5% for ... RF ... and SVM\"",
+  "kind": "derived",
+  "delta": 2.7
+ },
+ {
+  "doi": "10.1007/s12518-025-00659-x",
+  "deep": "U-Net",
+  "deep_oa": 94.0,
+  "cls": "RF",
+  "cls_oa": 94.8,
+  "src": "\"U-Net (94%)\"; \"random forest ... 94.8%\"",
+  "kind": "own",
+  "delta": -0.8
+ },
+ {
+  "doi": "10.3390/rs14153721",
+  "deep": "MLSTM-FCN",
+  "deep_oa": 97.21,
+  "cls": "RF",
+  "cls_oa": 97.04,
+  "src": "\"MLSTM-FCN ... 0.9721\"; \"0.17-1.23% improvement compared to ... random forest\" (conservative 0.17)",
+  "kind": "derived (conservative)",
+  "delta": 0.17
+ },
+ {
+  "doi": "10.3390/rs17183207",
+  "deep": "2D CNN-GRU",
+  "deep_oa": 99.12,
+  "cls": "XGBoost",
+  "cls_oa": 95.49,
+  "src": "\"2D CNN-GRU model, with an accuracy of 99.12%\"; \"Xgboost performing best at 95.49%\"",
+  "kind": "own",
+  "delta": 3.63
+ },
+ {
+  "doi": "10.1080/14498596.2023.2174196",
+  "deep": "U-Net",
+  "deep_oa": 93.0,
+  "cls": "RF",
+  "cls_oa": 95.9,
+  "src": "\"accuracy of the U-Net network was the highest\" (OA 0.93); \"RF model with OA = 95.9%\"",
+  "kind": "own (classical wins)",
+  "delta": -2.9
+ },
+ {
+  "doi": "10.1109/jstars.2025.3560992",
+  "deep": "LSTM-OB",
+  "deep_oa": 88.2,
+  "cls": "RF",
+  "cls_oa": 85.48,
+  "src": "\"LSTM-OB method reached an OA of 88.20%\"; \"RF achieved an OA of 85.48%\"",
+  "kind": "own",
+  "delta": 2.72
+ },
+ {
+  "doi": "10.3390/rs14030498",
+  "deep": "dual-attention CNN",
+  "deep_oa": 98.54,
+  "cls": "RF",
+  "cls_oa": 87.0,
+  "src": "\"highest accuracy ... OA = 98.5%\" / \"98.54%\"; \"outperformed other classifiers with an overall accuracy of 87%\"",
+  "kind": "own",
+  "delta": 11.54
+ }
+]

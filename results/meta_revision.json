@@ -1,0 +1,481 @@
+{
+ "transformation_sensitivity": {
+  "freeman_tukey": {
+   "pooled_pct": 87.89,
+   "I2": 99.8
+  },
+  "logit": {
+   "pooled_pct": 88.61,
+   "ci_pct": [
+    87.04,
+    90.01
+   ],
+   "I2": 99.8
+  },
+  "raw_proportion": {
+   "pooled_pct": 87.12,
+   "ci_pct": [
+    85.91,
+    88.32
+   ],
+   "I2": 99.8
+  },
+  "glmm_logistic_normal": {
+   "pooled_pct": 90.26,
+   "ci_pct": [
+    86.68,
+    92.7
+   ],
+   "tau_logit": 0.592,
+   "k": 67,
+   "subset": "N<=10000",
+   "converged": true,
+   "boot_n": 300
+  },
+  "k": 75
+ },
+ "selection_bias": {
+  "with_N": {
+   "n": 75,
+   "median": 88.8,
+   "mean": 86.8
+  },
+  "without_N": {
+   "n": 342,
+   "median": 90.0,
+   "mean": 88.55
+  },
+  "mannwhitney_U": 11411.5,
+  "p": 0.1349
+ },
+ "risk_of_bias": {
+  "domains": {
+   "validation_design": {
+    "high": 233,
+    "moderate": 149,
+    "unclear": 32,
+    "low": 3
+   },
+   "sample_size_reported": {
+    "high": 342,
+    "low": 75
+   },
+   "chance_corrected_metric": {
+    "moderate": 204,
+    "low": 213
+   },
+   "accuracy_reporting": {
+    "moderate": 210,
+    "low": 207
+   }
+  },
+  "overall": {
+   "high": 395,
+   "moderate": 22
+  },
+  "validation_reliable_binary": {
+   "spatially_independent_low_risk": 3,
+   "not_spatially_independent_high_risk": 414,
+   "note": "Reliable two-level scheme (kappa 0.66): the only defensible low-risk validation design is spatially independent; field/ground and random splits are grouped because they cannot be reliably separated (kappa 0.17) and both can leak spatial information."
+  },
+  "lowrisk_validation_pooled": {
+   "n": 22,
+   "mean": 87.78,
+   "ci_low": 83.94,
+   "ci_high": 91.62
+  },
+  "high_risk_validation_pooled": {
+   "n": 233,
+   "mean": 88.26,
+   "ci_low": 87.31,
+   "ci_high": 89.2
+  }
+ },
+ "moderators": {
+  "sensor": {
+   "by": {
+    "Sentinel-2": {
+     "n": 288,
+     "mean": 88.55,
+     "ci_low": 87.74,
+     "ci_high": 89.35
+    },
+    "Landsat": {
+     "n": 74,
+     "mean": 87.61,
+     "ci_low": 85.74,
+     "ci_high": 89.48
+    },
+    "Sentinel-1": {
+     "n": 34,
+     "mean": 88.31,
+     "ci_low": 86.43,
+     "ci_high": 90.2
+    },
+    "MODIS": {
+     "n": 7,
+     "mean": 82.25,
+     "ci_low": 74.28,
+     "ci_high": 90.23
+    },
+    "RADARSAT": {
+     "n": 5,
+     "mean": 95.76,
+     "ci_low": 92.93,
+     "ci_high": 98.59
+    }
+   },
+   "kruskal_H": 13.208,
+   "p": 0.0103,
+   "k_groups": 5
+  },
+  "region": {
+   "by": {
+    "China": {
+     "n": 150,
+     "mean": 89.19,
+     "ci_low": 88.26,
+     "ci_high": 90.12
+    },
+    "USA": {
+     "n": 77,
+     "mean": 89.19,
+     "ci_low": 87.55,
+     "ci_high": 90.82
+    },
+    "India": {
+     "n": 33,
+     "mean": 88.95,
+     "ci_low": 86.49,
+     "ci_high": 91.41
+    },
+    "Vietnam": {
+     "n": 26,
+     "mean": 85.35,
+     "ci_low": 82.59,
+     "ci_high": 88.11
+    },
+    "Indonesia": {
+     "n": 23,
+     "mean": 86.71,
+     "ci_low": 83.55,
+     "ci_high": 89.86
+    },
+    "Iran": {
+     "n": 15,
+     "mean": 89.07,
+     "ci_low": 85.36,
+     "ci_high": 92.78
+    },
+    "Japan": {
+     "n": 12,
+     "mean": 84.33,
+     "ci_low": 79.34,
+     "ci_high": 89.31
+    },
+    "Italy": {
+     "n": 9,
+     "mean": 87.85,
+     "ci_low": 76.66,
+     "ci_high": 99.04
+    },
+    "Korea": {
+     "n": 6,
+     "mean": 84.19,
+     "ci_low": 73.87,
+     "ci_high": 94.51
+    },
+    "Taiwan": {
+     "n": 6,
+     "mean": 93.36,
+     "ci_low": 91.02,
+     "ci_high": 95.69
+    },
+    "Thailand": {
+     "n": 6,
+     "mean": 85.02,
+     "ci_low": 79.63,
+     "ci_high": 90.41
+    },
+    "Spain": {
+     "n": 5,
+     "mean": 91.66,
+     "ci_low": 88.14,
+     "ci_high": 95.18
+    }
+   },
+   "kruskal_H": 24.82,
+   "p": 0.0097,
+   "k_groups": 12
+  },
+  "validation": {
+   "by": {
+    "random CV/split": {
+     "n": 233,
+     "mean": 88.26,
+     "ci_low": 87.31,
+     "ci_high": 89.2
+    },
+    "ground/field reference": {
+     "n": 149,
+     "mean": 88.08,
+     "ci_low": 86.94,
+     "ci_high": 89.21
+    },
+    "?": {
+     "n": 8,
+     "mean": 85.53,
+     "ci_low": 78.03,
+     "ci_high": 93.02
+    }
+   },
+   "kruskal_H": 1.028,
+   "p": 0.598,
+   "k_groups": 3
+  }
+ },
+ "year_method_interaction": {
+  "n": 396,
+  "year_beta": 0.0604,
+  "deep_beta": 0.719,
+  "interaction_beta": 0.1193,
+  "interaction_p": 0.5707
+ },
+ "rice_only": {
+  "pooled": {
+   "n": 283,
+   "mean": 89.07,
+   "ci_low": 88.26,
+   "ci_high": 89.87
+  },
+  "all_pooled": {
+   "n": 417,
+   "mean": 88.23,
+   "ci_low": 87.54,
+   "ci_high": 88.93
+  },
+  "kruskal_method_p": 0.2618,
+  "crop_only": {
+   "pooled": {
+    "n": 134,
+    "mean": 86.48,
+    "ci_low": 85.19,
+    "ci_high": 87.76
+   },
+   "kruskal_method_p": 0.7149
+  },
+  "rice_vs_crop_mannwhitney_p": 0.0002
+ },
+ "multiplicity_fdr": {
+  "method_KW": {
+   "p": 0.3661,
+   "p_fdr": 0.6149,
+   "sig_fdr": false
+  },
+  "sensor_KW": {
+   "p": 0.0103,
+   "p_fdr": 0.0361,
+   "sig_fdr": true
+  },
+  "region_KW": {
+   "p": 0.0097,
+   "p_fdr": 0.0361,
+   "sig_fdr": true
+  },
+  "validation_KW": {
+   "p": 0.598,
+   "p_fdr": 0.6149,
+   "sig_fdr": false
+  },
+  "year_trend": {
+   "p": 0.2197,
+   "p_fdr": 0.5126,
+   "sig_fdr": false
+  },
+  "resolution_metareg": {
+   "p": 0.6149,
+   "p_fdr": 0.6149,
+   "sig_fdr": false
+  },
+  "year_method_interaction": {
+   "p": 0.5707,
+   "p_fdr": 0.6149,
+   "sig_fdr": false
+  }
+ },
+ "trim_and_fill": {
+  "k0_imputed": 0,
+  "adjusted_pooled_pct": 87.89,
+  "original_pooled_pct": 87.89,
+  "egger_p": 0.3958
+ },
+ "power_equivalence": {
+  "pooled_within_group_sd_pp": 6.47,
+  "mdd_pp": {
+   "phenology_vs_RF (n=145,118)": 2.26,
+   "phenology_vs_CNN (n=145,66)": 2.71,
+   "phenology_vs_transformer (n=145,21)": 4.26,
+   "phenology_vs_transfer (n=145,24)": 4.02
+  },
+  "tost_equivalence": {
+   "margin_2pp": {
+    "deep_vs_classical_p": 0.1067,
+    "newest_vs_established_p": 0.0778
+   },
+   "margin_3pp": {
+    "deep_vs_classical_p": 0.0046,
+    "newest_vs_established_p": 0.0086
+   },
+   "margin_5pp": {
+    "deep_vs_classical_p": 0.0,
+    "newest_vs_established_p": 0.0
+   }
+  },
+  "note": "MDD = smallest mean difference detectable at 80% power; TOST p<0.05 supports equivalence within the stated margin. KW on unweighted means ignores within-study precision."
+ },
+ "ess_sensitivity": {
+  "cap_500": {
+   "pooled_pct": 87.87,
+   "I2": 95.8
+  },
+  "cap_1000": {
+   "pooled_pct": 87.87,
+   "I2": 97.4
+  },
+  "cap_2000": {
+   "pooled_pct": 87.88,
+   "I2": 98.3
+  },
+  "uncapped": {
+   "pooled_pct": 87.89,
+   "I2": 99.8
+  }
+ },
+ "attrition": {
+  "total_OA": 417,
+  "meta_regression_n": 317,
+  "dropped_no_resolution": 92,
+  "dropped_no_year": 14,
+  "realN_total": 75,
+  "weighted_regression_n": 63,
+  "note": "Meta-regression requires both extractable spatial resolution and year; studies missing either are dropped (resolution is the main constraint)."
+ },
+ "misclassification": {
+  "method_raw_agreement": 0.725,
+  "method_kappa": 0.59,
+  "attenuation_factor_two_group": 0.45,
+  "observed_deep_minus_classical_pp": 1.09,
+  "naive_tost_equiv_margin_pp": 3.0,
+  "attenuation_corrected_equiv_margin_pp": 6.7,
+  "hand_verified_subset": {
+   "k": 75,
+   "method_kruskal_H": 1.741,
+   "method_kruskal_p": 0.8836,
+   "deep_vs_classical_tost3_p": 0.1071,
+   "by_method_n": {
+    "Attention/Transformer": 4,
+    "CNN/Deep Learning": 10,
+    "Object-Based": 2,
+    "Phenology/Threshold": 28,
+    "Random Forest/SVM": 22,
+    "Transfer/Pre-trained": 9
+   }
+  },
+  "note": "Non-differential method-label misclassification shrinks true between-category differences by ~the attenuation factor; the equivalence margin is correspondingly widened (naive 3pp -> corrected ~7pp). The no-effect finding is therefore conservative for detecting a difference, not proof of exact equality."
+ },
+ "weighting_reconciliation": {
+  "descriptive_unweighted_mean_pct": 88.23,
+  "descriptive_unweighted_k": 417,
+  "precision_weighted_mean_pct_realN": 92.0,
+  "realN_k": 75,
+  "glmm_k": 67,
+  "glmm_excluded_largeN": 8,
+  "note": "Headline descriptive mean is an unweighted average over all eligible studies; the weighted models use the subset reporting a validation N. The GLMM omits the 8 pixel-census study(ies) with N>10,000 for numerical stability, so k_GLMM < k_realN."
+ },
+ "cluster_robust": {
+  "n_region_clusters": 26,
+  "pooled_mean_pct": 88.23,
+  "naive_iid_95ci": [
+   87.54,
+   88.93
+  ],
+  "region_cluster_bootstrap_95ci": [
+   86.4,
+   89.18
+  ],
+  "note": "Studies sharing a region (and often authors/reference data) are not independent; a region-clustered bootstrap widens the CI vs the naive i.i.d. interval, so the pooled estimate's precision (and the prediction interval) should be read as upper bounds."
+ },
+ "drivers": {
+  "model_r2_categorical": 0.0849,
+  "n_categorical": 417,
+  "model_r2_with_resolution": 0.0903,
+  "n_with_resolution": 325,
+  "variance_share_eta_sq": {
+   "scope": {
+    "eta_sq": 0.0223,
+    "p": 0.0022
+   },
+   "method": {
+    "eta_sq": 0.0092,
+    "p": 0.7918
+   },
+   "sensor": {
+    "eta_sq": 0.0078,
+    "p": 0.5063
+   },
+   "region": {
+    "eta_sq": 0.0248,
+    "p": 0.1071
+   },
+   "validation": {
+    "eta_sq": 0.0086,
+    "p": 0.4581
+   }
+  },
+  "eta_sq_bootstrap": {
+   "n_resamples": 2000,
+   "shares": {
+    "scope": {
+     "ci95_pct": [
+      0.31,
+      5.78
+     ],
+     "p_exceeds_method": 0.524
+    },
+    "method": {
+     "ci95_pct": [
+      0.73,
+      4.74
+     ],
+     "p_exceeds_method": null
+    },
+    "sensor": {
+     "ci95_pct": [
+      0.22,
+      4.71
+     ],
+     "p_exceeds_method": 0.336
+    },
+    "region": {
+     "ci95_pct": [
+      1.1,
+      7.38
+     ],
+     "p_exceeds_method": 0.777
+    },
+    "validation": {
+     "ci95_pct": [
+      0.25,
+      4.35
+     ],
+     "p_exceeds_method": 0.32
+    }
+   }
+  },
+  "resolution_in_full_model": {
+   "eta_sq": 0.0,
+   "p": 0.9543
+  },
+  "note": "Type-II ANOVA partition of OA variance. eta^2 = share of total OA variance uniquely attributable to each factor. A study-level bootstrap (eta_sq_bootstrap) gives 95% CIs and the fraction of resamples in which each factor's share exceeds method's: only region robustly exceeds method, so the defensible claim is that method is among the smallest contributors, not a clean factor-by-factor 'data beats method' ranking."
+ }
+}

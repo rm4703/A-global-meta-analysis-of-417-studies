@@ -1,0 +1,45 @@
+{
+ "n_studies": 32,
+ "f1_mean": 89.1,
+ "f1_median": 91.0,
+ "f1_min": 62.7,
+ "f1_max": 98.0,
+ "by_method": {
+  "Random Forest/SVM": {
+   "n": 10,
+   "mean": 89.5
+  },
+  "CNN/Deep Learning": {
+   "n": 7,
+   "mean": 90.8
+  },
+  "Phenology/Threshold": {
+   "n": 6,
+   "mean": 91.9
+  },
+  "Transfer/Pre-trained": {
+   "n": 3,
+   "mean": 78.2
+  },
+  "Object-Based": {
+   "n": 3,
+   "mean": 85.5
+  },
+  "Attention/Transformer": {
+   "n": 2,
+   "mean": 93.0
+  },
+  "RNN/LSTM": {
+   "n": 1,
+   "mean": 92.0
+  }
+ },
+ "kruskal_method_H": 6.229,
+ "kruskal_method_p": 0.1827,
+ "deep_n": 13,
+ "deep_mean": 88.3,
+ "classical_n": 19,
+ "classical_mean": 89.6,
+ "deep_vs_classical_mannwhitney_p": 0.878,
+ "note": "Secondary triangulation metric. F1 extracted from full text with verbatim snippets; values mix averaging conventions (macro/micro/mean/rice-class) and are a coarse cross-check on the OA result, not a primary synthesis."
+}

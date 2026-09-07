@@ -1,0 +1,1630 @@
+{
+ "n_oa": 417,
+ "n_realN": 75,
+ "n_kappa": 213,
+ "descriptive": {
+  "all": {
+   "n": 417,
+   "mean": 88.234,
+   "sd": 7.182,
+   "ci_low": 87.543,
+   "ci_high": 88.925,
+   "min": 50.3,
+   "max": 100.0
+  },
+  "by_method": {
+   "Phenology/Threshold": {
+    "n": 145,
+    "mean": 87.926,
+    "sd": 7.421,
+    "ci_low": 86.708,
+    "ci_high": 89.144,
+    "min": 59.0,
+    "max": 99.24
+   },
+   "Random Forest/SVM": {
+    "n": 118,
+    "mean": 87.474,
+    "sd": 7.897,
+    "ci_low": 86.034,
+    "ci_high": 88.914,
+    "min": 50.3,
+    "max": 98.68
+   },
+   "Object-Based": {
+    "n": 21,
+    "mean": 90.541,
+    "sd": 4.619,
+    "ci_low": 88.438,
+    "ci_high": 92.644,
+    "min": 79.0,
+    "max": 100.0
+   },
+   "CNN/Deep Learning": {
+    "n": 66,
+    "mean": 89.155,
+    "sd": 6.862,
+    "ci_low": 87.469,
+    "ci_high": 90.842,
+    "min": 66.56,
+    "max": 99.0
+   },
+   "RNN/LSTM": {
+    "n": 14,
+    "mean": 90.766,
+    "sd": 6.002,
+    "ci_low": 87.3,
+    "ci_high": 94.231,
+    "min": 76.36,
+    "max": 99.12
+   },
+   "Attention/Transformer": {
+    "n": 21,
+    "mean": 88.693,
+    "sd": 6.432,
+    "ci_low": 85.766,
+    "ci_high": 91.621,
+    "min": 76.77,
+    "max": 98.33
+   },
+   "Transfer/Pre-trained": {
+    "n": 24,
+    "mean": 87.945,
+    "sd": 5.484,
+    "ci_low": 85.629,
+    "ci_high": 90.26,
+    "min": 76.0,
+    "max": 96.27
+   }
+  },
+  "kruskal": {
+   "H": 6.534,
+   "p": 0.3661,
+   "k_groups": 7
+  },
+  "prediction_interval": {
+   "low": 74.1,
+   "high": 100,
+   "between_study_sd": 7.182
+  },
+  "temporal": {
+   "n": 403,
+   "beta_per_yr": 0.104,
+   "p": 0.2197
+  }
+ },
+ "kappa": {
+  "n": 213,
+  "mean": 0.857,
+  "sd": 0.1,
+  "ci_low": 0.843,
+  "ci_high": 0.87,
+  "min": 0.31,
+  "max": 0.99,
+  "by_method": {
+   "Phenology/Threshold": {
+    "n": 79,
+    "mean": 0.844
+   },
+   "Random Forest/SVM": {
+    "n": 65,
+    "mean": 0.869
+   },
+   "Object-Based": {
+    "n": 11,
+    "mean": 0.848
+   },
+   "CNN/Deep Learning": {
+    "n": 32,
+    "mean": 0.857
+   },
+   "RNN/LSTM": {
+    "n": 8,
+    "mean": 0.918
+   },
+   "Attention/Transformer": {
+    "n": 8,
+    "mean": 0.865
+   },
+   "Transfer/Pre-trained": {
+    "n": 9,
+    "mean": 0.847
+   }
+  },
+  "kruskal_method": {
+   "H": 7.332,
+   "p": 0.2913,
+   "k_groups": 7
+  },
+  "deep_vs_classical": {
+   "deep_n": 57,
+   "deep_mean": 0.865,
+   "classical_n": 155,
+   "classical_mean": 0.855,
+   "mannwhitney_p": 0.427
+  }
+ },
+ "inverse_variance": {
+  "primary": {
+   "k": 75,
+   "pooled_ft": 2.4251,
+   "pooled_pct": 87.85,
+   "ci_pct": [
+    86.39,
+    89.24
+   ],
+   "Q": 30478.37,
+   "df": 74,
+   "I2": 99.8,
+   "tau2": 0.03339,
+   "H2": 411.87,
+   "pred_int_pct": [
+    73.51,
+    97.15
+   ],
+   "egger": {
+    "intercept": -2.316,
+    "se": 2.711,
+    "t": -0.854,
+    "p": 0.3958
+   },
+   "harmonic_n": 264.5
+  },
+  "sensitivity_N_le_10000": {
+   "k": 67,
+   "pooled_ft": 2.4147,
+   "pooled_pct": 87.52,
+   "ci_pct": [
+    85.66,
+    89.26
+   ],
+   "Q": 4230.33,
+   "df": 66,
+   "I2": 98.4,
+   "tau2": 0.04727,
+   "H2": 64.1,
+   "pred_int_pct": [
+    69.84,
+    98.12
+   ],
+   "egger": {
+    "intercept": -2.766,
+    "se": 1.712,
+    "t": -1.616,
+    "p": 0.111
+   },
+   "harmonic_n": 236.5
+  },
+  "leave_one_out": {
+   "min": 87.64,
+   "max": 88.17,
+   "most_influential": "84af41da-17d3-47e6-a38c-d3cf56059fdd"
+  },
+  "subgroup": {
+   "by_method": {
+    "Phenology/Threshold": {
+     "k": 28,
+     "pooled_pct": 87.91,
+     "ci_pct": [
+      84.98,
+      90.56
+     ]
+    },
+    "Random Forest/SVM": {
+     "k": 22,
+     "pooled_pct": 87.17,
+     "ci_pct": [
+      79.95,
+      92.98
+     ]
+    },
+    "Object-Based": {
+     "k": 2,
+     "pooled_pct": 90.43,
+     "ci_pct": [
+      84.38,
+      95.12
+     ]
+    },
+    "CNN/Deep Learning": {
+     "k": 10,
+     "pooled_pct": 89.59,
+     "ci_pct": [
+      86.97,
+      91.94
+     ]
+    },
+    "Attention/Transformer": {
+     "k": 4,
+     "pooled_pct": 89.55,
+     "ci_pct": [
+      75.83,
+      98.06
+     ]
+    },
+    "Transfer/Pre-trained": {
+     "k": 9,
+     "pooled_pct": 86.86,
+     "ci_pct": [
+      84.52,
+      89.03
+     ]
+    }
+   },
+   "Q_between": 3.31,
+   "df": 5,
+   "p": 0.652
+  },
+  "per_study": [
+   {
+    "file": "1-s2.0-S0924271620303294-main",
+    "doi": "10.1016/j.isprsjprs.2020.11.022",
+    "method": "CNN/Deep Learning",
+    "year": 2021,
+    "oa": 92.0,
+    "n": 190,
+    "t": 2.5600933507316075,
+    "v": 0.005249343832020997,
+    "se": 0.07245235560022184,
+    "w": 190.5
+   },
+   {
+    "file": "1-s2.0-S2352938522000842-main",
+    "doi": "10.1016/j.rsase.2022.100776",
+    "method": "Random Forest/SVM",
+    "year": 2022,
+    "oa": 96.19,
+    "n": 250,
+    "t": 2.739303550332351,
+    "v": 0.003992015968063872,
+    "se": 0.06318240236065634,
+    "w": 250.50000000000003
+   },
+   {
+    "file": "1-s2.0-S0168169922008857-main",
+    "doi": "10.1016/j.compag.2022.107577",
+    "method": "CNN/Deep Learning",
+    "year": 2023,
+    "oa": 93.48,
+    "n": 3183,
+    "t": 2.624635439677385,
+    "v": 0.00031411967959792684,
+    "se": 0.017723421780173457,
+    "w": 3183.4999999999995
+   },
+   {
+    "file": "1-s2.0-S030147972501518X-main",
+    "doi": "10.1016/j.jenvman.2025.125542",
+    "method": "Attention/Transformer",
+    "year": 2025,
+    "oa": 80.63,
+    "n": 57,
+    "t": 2.2170231887982226,
+    "v": 0.017391304347826087,
+    "se": 0.1318760946791574,
+    "w": 57.5
+   },
+   {
+    "file": "027_Monitoring Changes in Rice Cultivated Area from SAR and Optical Satellite Images in Ben Tre and Tra Vinh Provinces in Me",
+    "doi": "10.3390/rs6054090",
+    "method": "Transfer/Pre-trained",
+    "year": 2014,
+    "oa": 78.5,
+    "n": 75,
+    "t": 2.168288925009777,
+    "v": 0.013245033112582781,
+    "se": 0.1150870675296872,
+    "w": 75.5
+   },
+   {
+    "file": "remotesensing-07-15805",
+    "doi": "10.3390/rs71215805",
+    "method": "Phenology/Threshold",
+    "year": 2015,
+    "oa": 78.0,
+    "n": 100,
+    "t": 2.158551965053534,
+    "v": 0.009950248756218905,
+    "se": 0.09975093361076329,
+    "w": 100.5
+   },
+   {
+    "file": "045_Object-Based Paddy Rice Mapping Using HJ-1AB Data and Temporal Features Extracted from Time Series MODIS NDVI Data",
+    "doi": "10.3390/s17010010",
+    "method": "Object-Based",
+    "year": 2016,
+    "oa": 93.0,
+    "n": 1800,
+    "t": 2.60513196874101,
+    "v": 0.0005554012774229381,
+    "se": 0.023566953078897113,
+    "w": 1800.5
+   },
+   {
+    "file": "046_An Object-Based Paddy Rice Classification Using Multi-Spectral Data and Crop Phenology in Assam, Northeast India",
+    "doi": "10.3390/rs8060479",
+    "method": "Object-Based",
+    "year": 2016,
+    "oa": 87.5,
+    "n": 1800,
+    "t": 2.4182294377318856,
+    "v": 0.0005554012774229381,
+    "se": 0.023566953078897113,
+    "w": 1800.5
+   },
+   {
+    "file": "053_Mapping Double and Single Crop Paddy Rice With Sentinel-1A at Varying Spatial Scales and Polarizations in Hanoi, Vietnam",
+    "doi": "10.1109/jstars.2017.2784784",
+    "method": "Random Forest/SVM",
+    "year": 2018,
+    "oa": 91.25,
+    "n": 41,
+    "t": 2.508175340735348,
+    "v": 0.024096385542168676,
+    "se": 0.1552301051412666,
+    "w": 41.5
+   },
+   {
+    "file": "056_Sen4Rice A Processing Chain for Differentiating Early and Late Transplanted Rice Using Time-Series Sentinel-1 SAR Data W",
+    "doi": "10.1109/lgrs.2018.2865816",
+    "method": "Phenology/Threshold",
+    "year": 2018,
+    "oa": 85.0,
+    "n": 150,
+    "t": 2.3397640248702807,
+    "v": 0.006644518272425249,
+    "se": 0.08151391459392224,
+    "w": 150.5
+   },
+   {
+    "file": "065_Mapping Paddy Rice Using a Convolutional Neural Network (CNN) with Landsat 8 Datasets in the Dongting Lake Area, China",
+    "doi": "10.3390/rs10111840",
+    "method": "CNN/Deep Learning",
+    "year": 2018,
+    "oa": 90.0,
+    "n": 580,
+    "t": 2.495805576075453,
+    "v": 0.0017226528854435831,
+    "se": 0.041504853757646024,
+    "w": 580.5
+   },
+   {
+    "file": "067_Mapping Paddy Rice Using Sentinel-1 SAR Time Series in Camargue, France",
+    "doi": "10.3390/rs11070887",
+    "method": "Random Forest/SVM",
+    "year": 2019,
+    "oa": 93.95,
+    "n": 832,
+    "t": 2.6423544627660807,
+    "v": 0.0012012012012012011,
+    "se": 0.03465834966066909,
+    "w": 832.5
+   },
+   {
+    "file": "074_Monitoring and Mapping of Rice Cropping Pattern in Flooding Area in the Vietnamese Mekong Delta Using Sentinel-1A Data A",
+    "doi": "10.3390/ijgi8050211",
+    "method": "Random Forest/SVM",
+    "year": 2019,
+    "oa": 80.7,
+    "n": 140,
+    "t": 2.226440269420978,
+    "v": 0.0071174377224199285,
+    "se": 0.08436490812191956,
+    "w": 140.5
+   },
+   {
+    "file": "107_A Scalable Machine Learning Pipeline for Paddy Rice Classification Using Multi-Temporal Sentinel Data",
+    "doi": "10.3390/rs13091769",
+    "method": "Random Forest/SVM",
+    "year": 2021,
+    "oa": 96.69,
+    "n": 40,
+    "t": 2.7205191533853177,
+    "v": 0.024691358024691357,
+    "se": 0.15713484026367722,
+    "w": 40.5
+   },
+   {
+    "file": "remotesensing-13-01360",
+    "doi": "10.3390/rs13071360",
+    "method": "CNN/Deep Learning",
+    "year": 2021,
+    "oa": 88.8,
+    "n": 364,
+    "t": 2.4557429982428456,
+    "v": 0.0027434842249657062,
+    "se": 0.05237828008789241,
+    "w": 364.5
+   },
+   {
+    "file": "123_Mapping active paddy rice area over monsoon asia using time-series Sentinel 2 images in Google earth engine; a case stud",
+    "doi": "10.1080/10106049.2022.2032396",
+    "method": "Phenology/Threshold",
+    "year": 2022,
+    "oa": 85.0,
+    "n": 1263,
+    "t": 2.3454192458968786,
+    "v": 0.0007914523149980214,
+    "se": 0.02813276230657099,
+    "w": 1263.5
+   },
+   {
+    "file": "150_Generating Virtual Training Labels for Crop Classification from Fused Sentinel-1 and Sentinel-2 Time Series",
+    "doi": "10.1007/s41064-023-00256-w",
+    "method": "CNN/Deep Learning",
+    "year": 2023,
+    "oa": 93.95,
+    "n": 3500,
+    "t": 2.6440312698858497,
+    "v": 0.00028567347521782604,
+    "se": 0.016901877860694237,
+    "w": 3500.5
+   },
+   {
+    "file": "182_Unsupervised mapping of rice paddy fields and their inundation patterns using Sentinel-1 SAR images and GIS",
+    "doi": "10.1080/22797254.2025.2484711",
+    "method": "Random Forest/SVM",
+    "year": 2025,
+    "oa": 72.3,
+    "n": 150,
+    "t": 2.029803704363318,
+    "v": 0.006644518272425249,
+    "se": 0.08151391459392224,
+    "w": 150.5
+   },
+   {
+    "file": "15.+ID5179-Anisya-3153-3172",
+    "doi": "10.52436/1.jutif.2025.6.5.5179",
+    "method": "Random Forest/SVM",
+    "year": 2025,
+    "oa": 71.0,
+    "n": 961,
+    "t": 2.0037609248538457,
+    "v": 0.0010400416016640667,
+    "se": 0.032249675993164126,
+    "w": 961.4999999999999
+   },
+   {
+    "file": "remotesensing-17-01999",
+    "doi": "10.3390/rs17121999",
+    "method": "Attention/Transformer",
+    "year": 2025,
+    "oa": 98.33,
+    "n": 468,
+    "t": 2.874606936571891,
+    "v": 0.0021344717182497333,
+    "se": 0.04620034326982575,
+    "w": 468.49999999999994
+   },
+   {
+    "file": "196_GTGRI a Gaussian time-weighted growth rate index for multi-season paddy rice mapping in diverse climates with dense SAR ",
+    "doi": "10.1080/15481603.2026.2629148",
+    "method": "Phenology/Threshold",
+    "year": 2026,
+    "oa": 87.35,
+    "n": 509,
+    "t": 2.4121388316561414,
+    "v": 0.001962708537782139,
+    "se": 0.044302466497726053,
+    "w": 509.50000000000006
+   },
+   {
+    "file": "197_Mapping Paddy Rice Using Segmentation Techniques and Phenological Metrics Derived from Sentinel-2 Time Series in Senegal",
+    "doi": "10.3390/geomatics6010020",
+    "method": "Phenology/Threshold",
+    "year": 2026,
+    "oa": 97.0,
+    "n": 438,
+    "t": 2.7872621315591,
+    "v": 0.002280501710376283,
+    "se": 0.047754598840072805,
+    "w": 438.5
+   },
+   {
+    "file": "10.5194_egusphere-2025-4613-v1",
+    "doi": "10.5194/egusphere-2025-4613",
+    "method": "Attention/Transformer",
+    "year": 2025,
+    "oa": 91.0,
+    "n": 122,
+    "t": 2.520791654365109,
+    "v": 0.00816326530612245,
+    "se": 0.09035079029052513,
+    "w": 122.49999999999999
+   },
+   {
+    "file": "12798-72293-1-PB",
+    "doi": "10.14710/geoplanning.4.2.187-200",
+    "method": "Random Forest/SVM",
+    "year": 2017,
+    "oa": 85.0,
+    "n": 6171,
+    "t": 2.346035047614881,
+    "v": 0.00016203516163007373,
+    "se": 0.012729303265696585,
+    "w": 6171.5
+   },
+   {
+    "file": "2d15fed0-b227-4518-910d-3cc2344e9e6e",
+    "doi": "10.14943/doctoral.k13740",
+    "method": "Transfer/Pre-trained",
+    "year": 2019,
+    "oa": 80.7,
+    "n": 140,
+    "t": 2.226440269420978,
+    "v": 0.0071174377224199285,
+    "se": 0.08436490812191956,
+    "w": 140.5
+   },
+   {
+    "file": "31,+5997-6007,+16472,+YASIN+et+al-new",
+    "doi": "10.15243/jdmlm.2024.113.5997",
+    "method": "Phenology/Threshold",
+    "year": 2024,
+    "oa": 87.38,
+    "n": 840,
+    "t": 2.4139017060498715,
+    "v": 0.001189767995240928,
+    "se": 0.034493013716416956,
+    "w": 840.5
+   },
+   {
+    "file": "4438d717-9a9d-40b9-9871-d6bca2b1767f",
+    "doi": "10.5194/isprs-archives-xlii-3-w6-585-2019",
+    "method": "Random Forest/SVM",
+    "year": 2019,
+    "oa": 94.7,
+    "n": 5169,
+    "t": 2.676605134939149,
+    "v": 0.00019344230583228552,
+    "se": 0.013908353814606728,
+    "w": 5169.5
+   },
+   {
+    "file": "7-9-139-256",
+    "doi": "10.33545/2618060x.2024.v7.i10b.1701",
+    "method": "Phenology/Threshold",
+    "year": 2024,
+    "oa": 85.66,
+    "n": 856,
+    "t": 2.3636640457190743,
+    "v": 0.0011675423234092236,
+    "se": 0.03416931845104938,
+    "w": 856.5
+   },
+   {
+    "file": "84af41da-17d3-47e6-a38c-d3cf56059fdd",
+    "doi": "10.5194/isprsarchives-xl-7-w3-503-2015",
+    "method": "Phenology/Threshold",
+    "year": 2015,
+    "oa": 59.0,
+    "n": 2000,
+    "t": 1.7516913537197962,
+    "v": 0.0004998750312421895,
+    "se": 0.022357885213995295,
+    "w": 2000.4999999999998
+   },
+   {
+    "file": "Finer resolution observation and monitoring of global land cover  first mapping results with Landsat TM and ETM  data",
+    "doi": "10.1080/01431161.2012.748992",
+    "method": "Random Forest/SVM",
+    "year": 2003,
+    "oa": 66.2,
+    "n": 38664,
+    "t": 1.90074198729593,
+    "v": 2.5863518214382704e-05,
+    "se": 0.005085618764160631,
+    "w": 38664.5
+   },
+   {
+    "file": "agronomy-13-02691",
+    "doi": "10.3390/agronomy13112691",
+    "method": "CNN/Deep Learning",
+    "year": 2023,
+    "oa": 86.53,
+    "n": 52,
+    "t": 2.3703970908877166,
+    "v": 0.01904761904761905,
+    "se": 0.13801311186847084,
+    "w": 52.49999999999999
+   },
+   {
+    "file": "essd-2026-24",
+    "doi": "10.5281/zenodo.18168302",
+    "method": "Transfer/Pre-trained",
+    "year": null,
+    "oa": 90.49,
+    "n": 164000,
+    "t": 2.5145990595150085,
+    "v": 6.097542385541508e-06,
+    "se": 0.0024693202274191795,
+    "w": 164000.5
+   },
+   {
+    "file": "f9720a04-9c52-446f-b622-45cb759fe9ce",
+    "doi": "10.5194/essd-17-2193-2025",
+    "method": "CNN/Deep Learning",
+    "year": 2025,
+    "oa": 89.0,
+    "n": 394753,
+    "t": 2.4654589865211105,
+    "v": 2.5332264311779375e-06,
+    "se": 0.001591611268864963,
+    "w": 394753.5
+   },
+   {
+    "file": "feart-11-1183834",
+    "doi": "10.3389/feart.2023.1183834",
+    "method": "Random Forest/SVM",
+    "year": 2023,
+    "oa": 91.5,
+    "n": 500,
+    "t": 2.546949695482204,
+    "v": 0.001998001998001998,
+    "se": 0.04469901562676742,
+    "w": 500.5
+   },
+   {
+    "file": "gumma2019",
+    "doi": "10.1080/01431161.2018.1547456",
+    "method": "Phenology/Threshold",
+    "year": 2019,
+    "oa": 83.0,
+    "n": 198,
+    "t": 2.2872282711170424,
+    "v": 0.005037783375314861,
+    "se": 0.07097734409876762,
+    "w": 198.5
+   },
+   {
+    "file": "ijgi-03-00110",
+    "doi": "10.3390/ijgi3010110",
+    "method": "CNN/Deep Learning",
+    "year": 2014,
+    "oa": 71.11,
+    "n": 450,
+    "t": 2.0056361286612585,
+    "v": 0.0022197558268590455,
+    "se": 0.04711428474315455,
+    "w": 450.5
+   },
+   {
+    "file": "ijgi-07-00418",
+    "doi": "10.3390/ijgi7110418",
+    "method": "Transfer/Pre-trained",
+    "year": 2018,
+    "oa": 93.6,
+    "n": 10000,
+    "t": 2.6298915942595418,
+    "v": 9.99950002499875e-05,
+    "se": 0.009999750009374609,
+    "w": 10000.5
+   },
+   {
+    "file": "main (3)",
+    "doi": "10.1016/j.jenvman.2023.119615",
+    "method": "Random Forest/SVM",
+    "year": 2023,
+    "oa": 81.45,
+    "n": 1321,
+    "t": 2.2504510426210445,
+    "v": 0.0007567158531971245,
+    "se": 0.027508468754133236,
+    "w": 1321.5
+   },
+   {
+    "file": "remotesensing-08-00320-v2",
+    "doi": "10.3390/rs8040320",
+    "method": "Random Forest/SVM",
+    "year": 2016,
+    "oa": 70.42,
+    "n": 906,
+    "t": 1.9910039490101687,
+    "v": 0.0011031439602868175,
+    "se": 0.033213611069662655,
+    "w": 906.4999999999999
+   },
+   {
+    "file": "remotesensing-11-00035",
+    "doi": "10.3390/rs11010035",
+    "method": "Phenology/Threshold",
+    "year": 2018,
+    "oa": 84.41,
+    "n": 2015,
+    "t": 2.329331285640551,
+    "v": 0.0004961548002976929,
+    "se": 0.022274532549476606,
+    "w": 2015.5
+   },
+   {
+    "file": "remotesensing-16-01305",
+    "doi": "10.3390/rs16071305",
+    "method": "Random Forest/SVM",
+    "year": 2024,
+    "oa": 98.38,
+    "n": 400,
+    "t": 2.877121814307436,
+    "v": 0.0024968789013732834,
+    "se": 0.04996877926639076,
+    "w": 400.5
+   },
+   {
+    "file": "remotesensing-17-00039",
+    "doi": "10.3390/rs17010039",
+    "method": "CNN/Deep Learning",
+    "year": 2024,
+    "oa": 95.44,
+    "n": 3967,
+    "t": 2.7106470123317497,
+    "v": 0.0002520478890989288,
+    "se": 0.01587601615957003,
+    "w": 3967.5
+   },
+   {
+    "file": "s41597-025-05722-1",
+    "doi": "10.1038/s41597-025-05722-1",
+    "method": "Phenology/Threshold",
+    "year": 2025,
+    "oa": 98.0,
+    "n": 58885,
+    "t": 2.857740332613172,
+    "v": 1.698210934780209e-05,
+    "se": 0.0041209354942539555,
+    "w": 58885.49999999999
+   },
+   {
+    "file": "s41597-026-06693-7",
+    "doi": "10.1038/s41597-026-06693-7",
+    "method": "Phenology/Threshold",
+    "year": 2026,
+    "oa": 91.0,
+    "n": 16000,
+    "t": 2.532117824436635,
+    "v": 6.249804693603325e-05,
+    "se": 0.007905570626844924,
+    "w": 16000.5
+   },
+   {
+    "file": "sustainability-10-02570",
+    "doi": "10.3390/su10072570",
+    "method": "Phenology/Threshold",
+    "year": 2018,
+    "oa": 90.0,
+    "n": 2016,
+    "t": 2.497431241821011,
+    "v": 0.0004959087527894868,
+    "se": 0.022269008796744563,
+    "w": 2016.5
+   },
+   {
+    "file": "torbick2011",
+    "doi": "10.5589/m11-020",
+    "method": "Phenology/Threshold",
+    "year": 2011,
+    "oa": 89.0,
+    "n": 320,
+    "t": 2.4616036558912997,
+    "v": 0.0031201248049922,
+    "se": 0.05585807734779456,
+    "w": 320.5
+   },
+   {
+    "file": "10.1016_j.compag.2023.107714",
+    "doi": "10.1016/j.compag.2023.107714",
+    "method": "Random Forest/SVM",
+    "year": 2023,
+    "oa": 97.6,
+    "n": 2799,
+    "t": 2.829394302756576,
+    "v": 0.0003572066440435792,
+    "se": 0.01889991121787558,
+    "w": 2799.5
+   },
+   {
+    "file": "10.1016_j.agwat.2022.107642",
+    "doi": "10.1016/j.agwat.2022.107642",
+    "method": "Phenology/Threshold",
+    "year": 2022,
+    "oa": 96.0,
+    "n": 61,
+    "t": 2.7041027064133285,
+    "v": 0.016260162601626018,
+    "se": 0.12751534261266767,
+    "w": 61.49999999999999
+   },
+   {
+    "file": "10.1016_j.scitotenv.2017.03.221",
+    "doi": "10.1016/j.scitotenv.2017.03.221",
+    "method": "Phenology/Threshold",
+    "year": 2017,
+    "oa": 95.75,
+    "n": 592,
+    "t": 2.722515477058055,
+    "v": 0.0016877637130801688,
+    "se": 0.04108240150088805,
+    "w": 592.5
+   },
+   {
+    "file": "10.1016_j.rse.2026.115255",
+    "doi": "10.1080/17538947.2026.2616932",
+    "method": "Random Forest/SVM",
+    "year": 2026,
+    "oa": 95.23,
+    "n": 102075,
+    "t": 2.7012159314932465,
+    "v": 9.79667011182899e-06,
+    "se": 0.003129963276434564,
+    "w": 102075.5
+   },
+   {
+    "file": "10.1016_j.compag.2024.109299",
+    "doi": "10.1016/j.compag.2024.109299",
+    "method": "Phenology/Threshold",
+    "year": 2024,
+    "oa": 95.12,
+    "n": 30,
+    "t": 2.636725866138404,
+    "v": 0.03278688524590164,
+    "se": 0.18107149208503706,
+    "w": 30.5
+   },
+   {
+    "file": "10.3390_s23135876",
+    "doi": "10.3390/s23135876",
+    "method": "Phenology/Threshold",
+    "year": 2023,
+    "oa": 94.67,
+    "n": 300,
+    "t": 2.669141734261372,
+    "v": 0.0033277870216306157,
+    "se": 0.057686974453776095,
+    "w": 300.5
+   },
+   {
+    "file": "10.3390_rs17132282",
+    "doi": "10.3390/rs17132282",
+    "method": "Random Forest/SVM",
+    "year": 2025,
+    "oa": 92.75,
+    "n": 398,
+    "t": 2.592248168865324,
+    "v": 0.002509410288582183,
+    "se": 0.050094014498562434,
+    "w": 398.50000000000006
+   },
+   {
+    "file": "10.1016_j.cj.2023.12.010",
+    "doi": "10.1016/j.cj.2023.12.010",
+    "method": "Phenology/Threshold",
+    "year": 2024,
+    "oa": 91.92,
+    "n": 5197,
+    "t": 2.564841649288243,
+    "v": 0.0001924001924001924,
+    "se": 0.013870839642941316,
+    "w": 5197.5
+   },
+   {
+    "file": "10.1016_j.agsy.2025.104338",
+    "doi": "10.1016/j.agsy.2025.104338",
+    "method": "Transfer/Pre-trained",
+    "year": 2025,
+    "oa": 91.81,
+    "n": 23615,
+    "t": 2.5610490057556543,
+    "v": 4.2345069975228135e-05,
+    "se": 0.006507308965711413,
+    "w": 23615.5
+   },
+   {
+    "file": "10.1016_s1002-0160_21_60053-x",
+    "doi": "10.1016/s1002-0160(21)60053-x",
+    "method": "Phenology/Threshold",
+    "year": 2022,
+    "oa": 91.17,
+    "n": 170,
+    "t": 2.5298130330745026,
+    "v": 0.005865102639296188,
+    "se": 0.07658395810674835,
+    "w": 170.5
+   },
+   {
+    "file": "10.1117_1.3595276",
+    "doi": "10.1117/1.3595276",
+    "method": "Phenology/Threshold",
+    "year": 2011,
+    "oa": 90.3,
+    "n": 250000,
+    "t": 2.5081538406105555,
+    "v": 3.999992000016e-06,
+    "se": 0.001999998000003,
+    "w": 250000.5
+   },
+   {
+    "file": "10.3390_rs15174339",
+    "doi": "10.3390/rs15174339",
+    "method": "Random Forest/SVM",
+    "year": 2023,
+    "oa": 89.36,
+    "n": 987,
+    "t": 2.4757625556270906,
+    "v": 0.0010126582278481013,
+    "se": 0.0318222913670292,
+    "w": 987.4999999999999
+   },
+   {
+    "file": "10.1007_s11273-014-9342-x",
+    "doi": "10.1007/s11273-014-9342-x",
+    "method": "Phenology/Threshold",
+    "year": 2015,
+    "oa": 89.0,
+    "n": 490,
+    "t": 2.462934085800857,
+    "v": 0.0020387359836901123,
+    "se": 0.045152364098573095,
+    "w": 490.49999999999994
+   },
+   {
+    "file": "10.1007_s11442-019-1689-8",
+    "doi": "10.1007/s11442-019-1689-8",
+    "method": "Phenology/Threshold",
+    "year": 2019,
+    "oa": 88.83,
+    "n": 2015,
+    "t": 2.4594363159884995,
+    "v": 0.0004961548002976929,
+    "se": 0.022274532549476606,
+    "w": 2015.5
+   },
+   {
+    "file": "10.3390_rs15092443",
+    "doi": "10.3390/rs15092443",
+    "method": "Transfer/Pre-trained",
+    "year": 2023,
+    "oa": 88.66,
+    "n": 1500,
+    "t": 2.4538568819165008,
+    "v": 0.0006664445184938354,
+    "se": 0.025815586735416948,
+    "w": 1500.5
+   },
+   {
+    "file": "10.1016_j.compag.2018.07.039",
+    "doi": "10.1016/j.compag.2018.07.039",
+    "method": "Phenology/Threshold",
+    "year": 2018,
+    "oa": 87.91,
+    "n": 2536,
+    "t": 2.4308863302079056,
+    "v": 0.0003942440370589395,
+    "se": 0.019855579494412634,
+    "w": 2536.5
+   },
+   {
+    "file": "10.1016_j.jag.2021.102656",
+    "doi": "10.1016/j.jag.2021.102656",
+    "method": "CNN/Deep Learning",
+    "year": 2022,
+    "oa": 86.0,
+    "n": 7952,
+    "t": 2.374468217312658,
+    "v": 0.00012574662055957246,
+    "se": 0.011213680063189447,
+    "w": 7952.5
+   },
+   {
+    "file": "10.3390_rs11030357",
+    "doi": "10.3390/rs11030357",
+    "method": "Transfer/Pre-trained",
+    "year": 2019,
+    "oa": 86.0,
+    "n": 1000,
+    "t": 2.373563806401605,
+    "v": 0.0009995002498750624,
+    "se": 0.03161487387093395,
+    "w": 1000.5
+   },
+   {
+    "file": "10.1016_j.gecco.2024.e03290",
+    "doi": "10.1080/22797254.2024.2406796",
+    "method": "Phenology/Threshold",
+    "year": 2024,
+    "oa": 85.0,
+    "n": 1150,
+    "t": 2.3453432975018025,
+    "v": 0.000869187309865276,
+    "se": 0.02948198280077641,
+    "w": 1150.5
+   },
+   {
+    "file": "10.3389_fevo.2023.1093454",
+    "doi": "10.3389/fevo.2023.1093454",
+    "method": "Phenology/Threshold",
+    "year": 2023,
+    "oa": 84.0,
+    "n": 140,
+    "t": 2.3120436771604176,
+    "v": 0.0071174377224199285,
+    "se": 0.08436490812191956,
+    "w": 140.5
+   },
+   {
+    "file": "s41597-025-06516-1_reference",
+    "doi": "10.1038/s41597-025-06516-1",
+    "method": "Transfer/Pre-trained",
+    "year": 2026,
+    "oa": 82.85,
+    "n": 4932,
+    "t": 2.2874521775831775,
+    "v": 0.00020273694880892042,
+    "se": 0.014238572569219165,
+    "w": 4932.5
+   },
+   {
+    "file": "remotesensing-16-03569",
+    "doi": "10.3390/rs16193569",
+    "method": "Random Forest/SVM",
+    "year": 2024,
+    "oa": 82.6,
+    "n": 605,
+    "t": 2.2795994389652012,
+    "v": 0.0016515276630883566,
+    "se": 0.04063899190541464,
+    "w": 605.5
+   },
+   {
+    "file": "10.3390_rs18071034",
+    "doi": "10.3390/rs18071034",
+    "method": "Attention/Transformer",
+    "year": 2026,
+    "oa": 81.84,
+    "n": 528,
+    "t": 2.2595793527086574,
+    "v": 0.001892147587511826,
+    "se": 0.04349882282903557,
+    "w": 528.5
+   },
+   {
+    "file": "10.1016_j.compag.2022.107083",
+    "doi": "10.1016/j.compag.2022.107083",
+    "method": "Random Forest/SVM",
+    "year": 2022,
+    "oa": 81.0,
+    "n": 758,
+    "t": 2.2384994480720763,
+    "v": 0.0013183915622940012,
+    "se": 0.036309662106579856,
+    "w": 758.5000000000001
+   },
+   {
+    "file": "10.1016_j.compag.2022.107232",
+    "doi": "10.1016/j.compag.2022.107232",
+    "method": "Phenology/Threshold",
+    "year": 2022,
+    "oa": 80.0,
+    "n": 1150,
+    "t": 2.2136464286414776,
+    "v": 0.000869187309865276,
+    "se": 0.02948198280077641,
+    "w": 1150.5
+   },
+   {
+    "file": "10.1080_15481603.2022.2088651",
+    "doi": "10.1080/15481603.2022.2088651",
+    "method": "Random Forest/SVM",
+    "year": 2022,
+    "oa": 79.8,
+    "n": 858,
+    "t": 2.2084437452362433,
+    "v": 0.0011648223645894002,
+    "se": 0.03412949405703812,
+    "w": 858.5
+   },
+   {
+    "file": "10.3390_rs18111828",
+    "doi": "10.3390/plants15050715",
+    "method": "Random Forest/SVM",
+    "year": 2026,
+    "oa": 77.33,
+    "n": 300,
+    "t": 2.14693300246953,
+    "v": 0.0033277870216306157,
+    "se": 0.057686974453776095,
+    "w": 300.5
+   },
+   {
+    "file": "10.1016_j.rse.2026.115234",
+    "doi": "10.1016/j.rse.2026.115234",
+    "method": "Transfer/Pre-trained",
+    "year": 2026,
+    "oa": 76.0,
+    "n": 1013,
+    "t": 2.117047416529773,
+    "v": 0.000986679822397632,
+    "se": 0.03141146004880435,
+    "w": 1013.4999999999999
+   },
+   {
+    "file": "10.1080_10095020.2021.1984183",
+    "doi": "10.1080/10095020.2021.1984183",
+    "method": "Phenology/Threshold",
+    "year": 2021,
+    "oa": 68.0,
+    "n": 336,
+    "t": 1.937921396045145,
+    "v": 0.0029717682020802376,
+    "se": 0.05451392668007174,
+    "w": 336.5
+   }
+  ],
+  "baujat": [
+   {
+    "file": "1-s2.0-S0924271620303294-main",
+    "method": "CNN/Deep Learning",
+    "x": 0.539,
+    "y": 0.0061
+   },
+   {
+    "file": "1-s2.0-S2352938522000842-main",
+    "method": "Random Forest/SVM",
+    "x": 13.532,
+    "y": 0.0352
+   },
+   {
+    "file": "1-s2.0-S0168169922008857-main",
+    "method": "CNN/Deep Learning",
+    "x": 44.143,
+    "y": 0.0175
+   },
+   {
+    "file": "1-s2.0-S030147972501518X-main",
+    "method": "Attention/Transformer",
+    "x": 4.831,
+    "y": 0.0083
+   },
+   {
+    "file": "027_Monitoring Changes in Rice Cultivated Area from SAR and Optical Satellite Images in Ben Tre and Tra Vinh Provinces in Me",
+    "method": "Transfer/Pre-trained",
+    "x": 8.656,
+    "y": 0.015
+   },
+   {
+    "file": "remotesensing-07-15805",
+    "method": "Phenology/Threshold",
+    "x": 12.194,
+    "y": 0.0188
+   },
+   {
+    "file": "045_Object-Based Paddy Rice Mapping Using HJ-1AB Data and Temporal Features Extracted from Time Series MODIS NDVI Data",
+    "method": "Object-Based",
+    "x": 17.381,
+    "y": 0.014
+   },
+   {
+    "file": "046_An Object-Based Paddy Rice Classification Using Multi-Spectral Data and Crop Phenology in Assam, Northeast India",
+    "method": "Object-Based",
+    "x": 14.15,
+    "y": 0.0
+   },
+   {
+    "file": "053_Mapping Double and Single Crop Paddy Rice With Sentinel-1A at Varying Spatial Scales and Polarizations in Hanoi, Vietnam",
+    "method": "Random Forest/SVM",
+    "x": 0.0,
+    "y": 0.001
+   },
+   {
+    "file": "056_Sen4Rice A Processing Chain for Differentiating Early and Late Transplanted Rice Using Time-Series Sentinel-1 SAR Data W",
+    "method": "Phenology/Threshold",
+    "x": 4.203,
+    "y": 0.0023
+   },
+   {
+    "file": "065_Mapping Paddy Rice Using a Convolutional Neural Network (CNN) with Landsat 8 Datasets in the Dongting Lake Area, China",
+    "method": "CNN/Deep Learning",
+    "x": 0.071,
+    "y": 0.002
+   },
+   {
+    "file": "067_Mapping Paddy Rice Using Sentinel-1 SAR Time Series in Camargue, France",
+    "method": "Random Forest/SVM",
+    "x": 15.279,
+    "y": 0.0197
+   },
+   {
+    "file": "074_Monitoring and Mapping of Rice Cropping Pattern in Flooding Area in the Vietnamese Mekong Delta Using Sentinel-1A Data A",
+    "method": "Random Forest/SVM",
+    "x": 11.05,
+    "y": 0.049
+   },
+   {
+    "file": "107_A Scalable Machine Learning Pipeline for Paddy Rice Classification Using Multi-Temporal Sentinel Data",
+    "method": "Random Forest/SVM",
+    "x": 1.848,
+    "y": 0.0128
+   },
+   {
+    "file": "remotesensing-13-01360",
+    "method": "CNN/Deep Learning",
+    "x": 0.953,
+    "y": 0.0004
+   },
+   {
+    "file": "123_Mapping active paddy rice area over monsoon asia using time-series Sentinel 2 images in Google earth engine; a case stud",
+    "method": "Phenology/Threshold",
+    "x": 32.939,
+    "y": 0.0027
+   },
+   {
+    "file": "150_Generating Virtual Training Labels for Crop Classification from Fused Sentinel-1 and Sentinel-2 Time Series",
+    "method": "CNN/Deep Learning",
+    "x": 65.845,
+    "y": 0.0211
+   },
+   {
+    "file": "182_Unsupervised mapping of rice paddy fields and their inundation patterns using Sentinel-1 SAR images and GIS",
+    "method": "Random Forest/SVM",
+    "x": 34.254,
+    "y": 0.0485
+   },
+   {
+    "file": "15.+ID5179-Anisya-3153-3172",
+    "method": "Random Forest/SVM",
+    "x": 243.384,
+    "y": 0.0748
+   },
+   {
+    "file": "remotesensing-17-01999",
+    "method": "Attention/Transformer",
+    "x": 63.352,
+    "y": 0.0799
+   },
+   {
+    "file": "196_GTGRI a Gaussian time-weighted growth rate index for multi-season paddy rice mapping in diverse climates with dense SAR ",
+    "method": "Phenology/Threshold",
+    "x": 4.573,
+    "y": 0.0001
+   },
+   {
+    "file": "197_Mapping Paddy Rice Using Segmentation Techniques and Phenological Metrics Derived from Sentinel-2 Time Series in Senegal",
+    "method": "Phenology/Threshold",
+    "x": 34.472,
+    "y": 0.0514
+   },
+   {
+    "file": "10.5194_egusphere-2025-4613-v1",
+    "method": "Attention/Transformer",
+    "x": 0.024,
+    "y": 0.0026
+   },
+   {
+    "file": "12798-72293-1-PB",
+    "method": "Random Forest/SVM",
+    "x": 159.665,
+    "y": 0.0028
+   },
+   {
+    "file": "2d15fed0-b227-4518-910d-3cc2344e9e6e",
+    "method": "Transfer/Pre-trained",
+    "x": 11.05,
+    "y": 0.049
+   },
+   {
+    "file": "31,+5997-6007,+16472,+YASIN+et+al-new",
+    "method": "Phenology/Threshold",
+    "x": 7.266,
+    "y": 0.0001
+   },
+   {
+    "file": "4438d717-9a9d-40b9-9871-d6bca2b1767f",
+    "method": "Random Forest/SVM",
+    "x": 148.915,
+    "y": 0.028
+   },
+   {
+    "file": "7-9-139-256",
+    "method": "Phenology/Threshold",
+    "x": 17.568,
+    "y": 0.0016
+   },
+   {
+    "file": "84af41da-17d3-47e6-a38c-d3cf56059fdd",
+    "method": "Phenology/Threshold",
+    "x": 1140.907,
+    "y": 0.1972
+   },
+   {
+    "file": "Finer resolution observation and monitoring of global land cover  first mapping results with Landsat TM and ETM  data",
+    "method": "Random Forest/SVM",
+    "x": 14205.496,
+    "y": 0.123
+   },
+   {
+    "file": "agronomy-13-02691",
+    "method": "CNN/Deep Learning",
+    "x": 0.978,
+    "y": 0.0005
+   },
+   {
+    "file": "essd-2026-24",
+    "method": "Transfer/Pre-trained",
+    "x": 9.77,
+    "y": 0.0036
+   },
+   {
+    "file": "f9720a04-9c52-446f-b622-45cb759fe9ce",
+    "method": "CNN/Deep Learning",
+    "x": 677.301,
+    "y": 0.0007
+   },
+   {
+    "file": "feart-11-1183834",
+    "method": "Random Forest/SVM",
+    "x": 0.804,
+    "y": 0.0059
+   },
+   {
+    "file": "gumma2019",
+    "method": "Phenology/Threshold",
+    "x": 9.577,
+    "y": 0.0064
+   },
+   {
+    "file": "ijgi-03-00110",
+    "method": "CNN/Deep Learning",
+    "x": 113.186,
+    "y": 0.0692
+   },
+   {
+    "file": "ijgi-07-00418",
+    "method": "Transfer/Pre-trained",
+    "x": 151.324,
+    "y": 0.0187
+   },
+   {
+    "file": "main (3)",
+    "method": "Random Forest/SVM",
+    "x": 86.897,
+    "y": 0.0131
+   },
+   {
+    "file": "remotesensing-08-00320-v2",
+    "method": "Random Forest/SVM",
+    "x": 241.246,
+    "y": 0.0791
+   },
+   {
+    "file": "remotesensing-11-00035",
+    "method": "Phenology/Threshold",
+    "x": 63.536,
+    "y": 0.004
+   },
+   {
+    "file": "remotesensing-16-01305",
+    "method": "Random Forest/SVM",
+    "x": 54.9,
+    "y": 0.0791
+   },
+   {
+    "file": "remotesensing-17-00039",
+    "method": "CNN/Deep Learning",
+    "x": 164.733,
+    "y": 0.036
+   },
+   {
+    "file": "s41597-025-05722-1",
+    "method": "Phenology/Threshold",
+    "x": 7248.952,
+    "y": 0.0838
+   },
+   {
+    "file": "s41597-026-06693-7",
+    "method": "Phenology/Threshold",
+    "x": 10.191,
+    "y": 0.0051
+   },
+   {
+    "file": "sustainability-10-02570",
+    "method": "Phenology/Threshold",
+    "x": 0.18,
+    "y": 0.0023
+   },
+   {
+    "file": "torbick2011",
+    "method": "Phenology/Threshold",
+    "x": 0.657,
+    "y": 0.0005
+   },
+   {
+    "file": "10.1016_j.compag.2023.107714",
+    "method": "Random Forest/SVM",
+    "x": 291.19,
+    "y": 0.0717
+   },
+   {
+    "file": "10.1016_j.agwat.2022.107642",
+    "method": "Phenology/Threshold",
+    "x": 2.392,
+    "y": 0.0156
+   },
+   {
+    "file": "10.1016_j.scitotenv.2017.03.221",
+    "method": "Phenology/Threshold",
+    "x": 27.55,
+    "y": 0.0359
+   },
+   {
+    "file": "10.1016_j.rse.2026.115255",
+    "method": "Random Forest/SVM",
+    "x": 3855.003,
+    "y": 0.0341
+   },
+   {
+    "file": "10.1016_j.compag.2024.109299",
+    "method": "Phenology/Threshold",
+    "x": 0.514,
+    "y": 0.005
+   },
+   {
+    "file": "10.3390_s23135876",
+    "method": "Phenology/Threshold",
+    "x": 7.912,
+    "y": 0.022
+   },
+   {
+    "file": "10.3390_rs17132282",
+    "method": "Random Forest/SVM",
+    "x": 2.904,
+    "y": 0.0108
+   },
+   {
+    "file": "10.1016_j.cj.2023.12.010",
+    "method": "Phenology/Threshold",
+    "x": 17.461,
+    "y": 0.0086
+   },
+   {
+    "file": "10.1016_j.agsy.2025.104338",
+    "method": "Transfer/Pre-trained",
+    "x": 69.293,
+    "y": 0.0083
+   },
+   {
+    "file": "10.1016_s1002-0160_21_60053-x",
+    "method": "Phenology/Threshold",
+    "x": 0.09,
+    "y": 0.0035
+   },
+   {
+    "file": "10.1117_1.3595276",
+    "method": "Phenology/Threshold",
+    "x": 0.405,
+    "y": 0.0031
+   },
+   {
+    "file": "10.3390_rs15174339",
+    "method": "Random Forest/SVM",
+    "x": 0.956,
+    "y": 0.0011
+   },
+   {
+    "file": "10.1007_s11273-014-9342-x",
+    "method": "Phenology/Threshold",
+    "x": 0.947,
+    "y": 0.0006
+   },
+   {
+    "file": "10.1007_s11442-019-1689-8",
+    "method": "Phenology/Threshold",
+    "x": 4.537,
+    "y": 0.0005
+   },
+   {
+    "file": "10.3390_rs15092443",
+    "method": "Transfer/Pre-trained",
+    "x": 4.219,
+    "y": 0.0004
+   },
+   {
+    "file": "10.1016_j.compag.2018.07.039",
+    "method": "Phenology/Threshold",
+    "x": 14.649,
+    "y": 0.0
+   },
+   {
+    "file": "10.1016_j.jag.2021.102656",
+    "method": "CNN/Deep Learning",
+    "x": 139.432,
+    "y": 0.0011
+   },
+   {
+    "file": "10.3390_rs11030357",
+    "method": "Transfer/Pre-trained",
+    "x": 17.782,
+    "y": 0.0011
+   },
+   {
+    "file": "10.1016_j.gecco.2024.e03290",
+    "method": "Phenology/Threshold",
+    "x": 30.022,
+    "y": 0.0027
+   },
+   {
+    "file": "10.3389_fevo.2023.1093454",
+    "method": "Phenology/Threshold",
+    "x": 5.334,
+    "y": 0.0039
+   },
+   {
+    "file": "s41597-025-06516-1_reference",
+    "method": "Transfer/Pre-trained",
+    "x": 237.494,
+    "y": 0.0084
+   },
+   {
+    "file": "remotesensing-16-03569",
+    "method": "Random Forest/SVM",
+    "x": 31.278,
+    "y": 0.0086
+   },
+   {
+    "file": "10.3390_rs18071034",
+    "method": "Attention/Transformer",
+    "x": 32.322,
+    "y": 0.011
+   },
+   {
+    "file": "10.1016_j.compag.2022.107083",
+    "method": "Random Forest/SVM",
+    "x": 54.634,
+    "y": 0.0144
+   },
+   {
+    "file": "10.1016_j.compag.2022.107232",
+    "method": "Phenology/Threshold",
+    "x": 98.927,
+    "y": 0.019
+   },
+   {
+    "file": "10.1080_15481603.2022.2088651",
+    "method": "Random Forest/SVM",
+    "x": 76.462,
+    "y": 0.0196
+   },
+   {
+    "file": "10.3390_rs18111828",
+    "method": "Random Forest/SVM",
+    "x": 38.933,
+    "y": 0.0286
+   },
+   {
+    "file": "10.1016_j.rse.2026.115234",
+    "method": "Transfer/Pre-trained",
+    "x": 154.022,
+    "y": 0.0401
+   },
+   {
+    "file": "10.1080_10095020.2021.1984183",
+    "method": "Phenology/Threshold",
+    "x": 108.93,
+    "y": 0.0895
+   }
+  ]
+ },
+ "meta_regression": {
+  "ols_full": {
+   "n": 317,
+   "r2": 0.0042,
+   "logres_beta": -0.367,
+   "logres_p": 0.6149,
+   "year_beta": 0.0836,
+   "year_p": 0.4246
+  },
+  "wls_realN": {
+   "n": 63,
+   "logres_beta_ft": -0.0129,
+   "logres_p": 0.8545,
+   "year_beta_ft": 0.01044,
+   "year_p": 0.1419
+  }
+ }
+}

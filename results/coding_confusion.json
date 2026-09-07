@@ -1,0 +1,31 @@
+{
+ "n": 40,
+ "method_7way": {
+  "agreement_pct": 72.5,
+  "kappa": 0.59
+ },
+ "method_3paradigm": {
+  "agreement_pct": 82.5,
+  "kappa": 0.72
+ },
+ "method_deep_vs_classical": {
+  "n": 38,
+  "agreement_pct": 94.7,
+  "kappa": 0.84
+ },
+ "n_disagreements": 11,
+ "disagreements_same_paradigm": 4,
+ "disagreements_cross_paradigm": 7,
+ "top_confusions_gold_to_auto": {
+  "RNN/LSTM -> Attention/Transformer": 2,
+  "Object-Based -> Phenology/Threshold": 1,
+  "Attention/Transformer -> CNN/Deep Learning": 1,
+  "Random Forest/SVM -> Attention/Transformer": 1,
+  "Unclassified -> Phenology/Threshold": 1,
+  "Phenology/Threshold -> Random Forest/SVM": 1,
+  "Foundation Model -> CNN/Deep Learning": 1,
+  "Phenology/Threshold -> RNN/LSTM": 1,
+  "Random Forest/SVM -> Phenology/Threshold": 1,
+  "Unclassified -> Object-Based": 1
+ }
+}

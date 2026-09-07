@@ -1,0 +1,27 @@
+{
+ "n_reporting_both": 213,
+ "n_internally_consistent": 161,
+ "n_impossible": 52,
+ "pct_impossible": 24.4,
+ "pooled_kappa_all": 0.857,
+ "pooled_kappa_consistent": 0.836,
+ "method_kw_all": {
+  "H": 7.33,
+  "p": 0.2913,
+  "k": 7,
+  "N": 212,
+  "eps2": 0.035,
+  "eps2_null": 0.028
+ },
+ "method_kw_consistent": {
+  "H": 5.59,
+  "p": 0.4709,
+  "k": 7,
+  "N": 160,
+  "eps2": 0.035,
+  "eps2_null": 0.038
+ },
+ "oa_kappa_r_all": 0.689,
+ "oa_kappa_r_consistent": 0.84,
+ "oa_kappa_r2_consistent": 0.706
+}

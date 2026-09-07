@@ -1,0 +1,5453 @@
+[
+ {
+  "file": "01431161.2018.1530812",
+  "paper_no": "01431161.2018.1530812",
+  "doi_in_text": "10.1080/01431161.2018.1530812",
+  "n_oa_mentions": 2,
+  "oa_max": 85.3,
+  "oa_median": 82.81,
+  "oa_min": 80.33,
+  "oa_values": [
+   80.33,
+   85.3
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80.33%",
+   "overall accuracy of rice is 85.3%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "HJ-1"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "06-101_JOG_manuscript+(1)-DONE",
+  "paper_no": "06-101",
+  "doi_in_text": "10.58825/jog.2024.18.1.101",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "07..docx",
+  "paper_no": "07..docx",
+  "doi_in_text": "10.3329/bjagri.v50i1.82923",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Bangladesh",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0034425705002920-main",
+  "paper_no": "1-s2.0-S0034425705002920-main",
+  "doi_in_text": "10.1016/j.rse.2005.09.007",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0034425715000139-main",
+  "paper_no": "1-s2.0-S0034425715000139-main",
+  "doi_in_text": "10.1016/j.rse.2015.01.004",
+  "n_oa_mentions": 6,
+  "oa_max": 95.0,
+  "oa_median": 91.0,
+  "oa_min": 84.0,
+  "oa_values": [
+   95.0,
+   95.0,
+   92.0,
+   90.0,
+   84.0,
+   87.0
+  ],
+  "oa_snippets": [
+   "overall accuracies were 95%",
+   "OA = 95%",
+   "OA = 92%",
+   "OA = 90%",
+   "OA = 84%",
+   "OA = 87%"
+  ],
+  "kappa_max": 0.95,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "HJ-1"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0034425724004115-main",
+  "paper_no": "1-s2.0-S0034425724004115-main",
+  "doi_in_text": "10.1016/j.rse.2024.114385",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 93.6,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "PlanetScope",
+   "SPOT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0034425724004139-main",
+  "paper_no": "1-s2.0-S0034425724004139-main",
+  "doi_in_text": "10.1016/j.rse.2024.114387",
+  "n_oa_mentions": 11,
+  "oa_max": 98.5,
+  "oa_median": 96.0,
+  "oa_min": 80.0,
+  "oa_values": [
+   89.6,
+   96.0,
+   90.3,
+   96.0,
+   95.2,
+   97.8,
+   98.5,
+   89.6,
+   80.0,
+   96.0,
+   97.8
+  ],
+  "oa_snippets": [
+   "overall accuracy of 89.6%",
+   "overall accuracy of 96.0%",
+   "OA = 90.3%",
+   "OA of 96.0%",
+   "OA = 95.2%",
+   "OA of 97.8%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen",
+   "HJ-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0034425726002956-main",
+  "paper_no": "1-s2.0-S0034425726002956-main",
+  "doi_in_text": "10.1016/j.rse.2026.115525",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 62.2,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0168169922008055-main",
+  "paper_no": "1-s2.0-S0168169922008055-main",
+  "doi_in_text": "10.1016/j.compag.2022.107497",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0168169922008857-main",
+  "paper_no": "1-s2.0-S0168169922008857-main",
+  "doi_in_text": "10.1016/j.compag.2022.107577",
+  "n_oa_mentions": 2,
+  "oa_max": 93.96,
+  "oa_median": 93.48,
+  "oa_min": 93.0,
+  "oa_values": [
+   93.0,
+   93.96
+  ],
+  "oa_snippets": [
+   "overall accuracy of 93%",
+   "overall accuracy of 93.96%"
+  ],
+  "kappa_max": 0.91,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0168169923003423-main",
+  "paper_no": "1-s2.0-S0168169923003423-main",
+  "doi_in_text": "10.1016/j.compag.2023.107954",
+  "n_oa_mentions": 3,
+  "oa_max": 99.1,
+  "oa_median": 94.0,
+  "oa_min": 93.5,
+  "oa_values": [
+   94.0,
+   93.5,
+   99.1
+  ],
+  "oa_snippets": [
+   "overall accuracy of 94%",
+   "overall accuracy, F1, IoU, and BER of 93.5%",
+   "overall accuracy, F1, IoU and BER scores, receiving 99.1%"
+  ],
+  "kappa_max": 0.88,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 1.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0168169923006154-main",
+  "paper_no": "1-s2.0-S0168169923006154-main",
+  "doi_in_text": "10.1016/j.compag.2023.108227",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.9844,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S016920460900019X-main",
+  "paper_no": "1-s2.0-S016920460900019X-main",
+  "doi_in_text": "10.1016/j.landurbplan.2009.02.002",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "SPOT"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "Japan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0273117711006764-main",
+  "paper_no": "1-s2.0-S0273117711006764-main",
+  "doi_in_text": "10.1016/j.asr.2011.09.011",
+  "n_oa_mentions": 1,
+  "oa_max": 90.1,
+  "oa_median": 90.1,
+  "oa_min": 90.1,
+  "oa_values": [
+   90.1
+  ],
+  "oa_snippets": [
+   "overall accuracy of 90.1%"
+  ],
+  "kappa_max": 0.901,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S030147972501518X-main",
+  "paper_no": "1-s2.0-S030147972501518X-main",
+  "doi_in_text": "10.1016/j.jenvman.2025.125542",
+  "n_oa_mentions": 3,
+  "oa_max": 96.0,
+  "oa_median": 90.0,
+  "oa_min": 80.63,
+  "oa_values": [
+   80.63,
+   96.0,
+   90.0
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of 80.63 %",
+   "OA of the 2020 recovery map was 96 %",
+   "overall accuracy exceeding 90 %"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "body",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "PlanetScope",
+   "TerraSAR-X",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0303243417302325-main",
+  "paper_no": "1-s2.0-S0303243417302325-main",
+  "doi_in_text": "10.1016/j.jag.2017.10.013",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0303243418312145-main",
+  "paper_no": "1-s2.0-S0303243418312145-main",
+  "doi_in_text": "10.1016/j.jag.2019.04.014",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Gaofen",
+   "SPOT",
+   "HJ-1",
+   "HLS"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0303243420309077-main",
+  "paper_no": "1-s2.0-S0303243420309077-main",
+  "doi_in_text": "10.1016/j.jag.2020.102264",
+  "n_oa_mentions": 2,
+  "oa_max": 75.0,
+  "oa_median": 72.0,
+  "oa_min": 69.0,
+  "oa_values": [
+   69.0,
+   75.0
+  ],
+  "oa_snippets": [
+   "OA of 69%",
+   "OA of 75%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0303243420309375-main",
+  "paper_no": "1-s2.0-S0303243420309375-main",
+  "doi_in_text": "10.1016/j.jag.2020.102294",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 97.0,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0303243421001586-main",
+  "paper_no": "1-s2.0-S0303243421001586-main",
+  "doi_in_text": "10.1016/j.jag.2021.102451",
+  "n_oa_mentions": 3,
+  "oa_max": 94.6,
+  "oa_median": 87.0,
+  "oa_min": 74.13,
+  "oa_values": [
+   87.0,
+   74.13,
+   94.6
+  ],
+  "oa_snippets": [
+   "Overall Accuracy of crop mapping in all the target areas exceeded 87%",
+   "Overall Accuracy only reached 74.13%",
+   "Overall Accuracy of the latter reached 94.60%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0303243422000186-main",
+  "paper_no": "1-s2.0-S0303243422000186-main",
+  "doi_in_text": "10.1016/j.jag.2022.102692",
+  "n_oa_mentions": 4,
+  "oa_max": 94.24,
+  "oa_median": 94.12,
+  "oa_min": 83.2,
+  "oa_values": [
+   94.0,
+   94.24,
+   83.2,
+   94.24
+  ],
+  "oa_snippets": [
+   "overall accuracies of 94%",
+   "overall accuracy of 94.24%",
+   "overall accuracy (83.20%",
+   "overall accuracies are 94.24%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271614000446-main",
+  "paper_no": "1-s2.0-S0924271614000446-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2014.02.007",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.7017,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271615001185-main",
+  "paper_no": "1-s2.0-S0924271615001185-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2015.04.008",
+  "n_oa_mentions": 1,
+  "oa_max": 88.7,
+  "oa_median": 88.7,
+  "oa_min": 88.7,
+  "oa_values": [
+   88.7
+  ],
+  "oa_snippets": [
+   "overall accuracy (88.7%"
+  ],
+  "kappa_max": 0.94,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 0.5,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271620303294-main",
+  "paper_no": "1-s2.0-S0924271620303294-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2020.11.022",
+  "n_oa_mentions": 8,
+  "oa_max": 97.0,
+  "oa_median": 92.0,
+  "oa_min": 87.0,
+  "oa_values": [
+   92.0,
+   97.0,
+   95.0,
+   92.0,
+   92.0,
+   97.0,
+   92.0,
+   87.0
+  ],
+  "oa_snippets": [
+   "OA = 92%",
+   "OA = 97%",
+   "OA = 95%",
+   "OA = 92%",
+   "overall accuracy is 92%",
+   "overall accuracy of 97%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271621000502-main",
+  "paper_no": "1-s2.0-S0924271621000502-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2021.02.011",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "Gaofen",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271621000599-main",
+  "paper_no": "1-s2.0-S0924271621000599-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2021.02.018",
+  "n_oa_mentions": 4,
+  "oa_max": 100.0,
+  "oa_median": 92.5,
+  "oa_min": 76.0,
+  "oa_values": [
+   100.0,
+   93.0,
+   76.0,
+   92.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 100%",
+   "OA of 93%",
+   "OA of 76%",
+   "OA of 92%"
+  ],
+  "kappa_max": 0.991,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "Gaofen",
+   "PlanetScope",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271622000855-main",
+  "paper_no": "1-s2.0-S0924271622000855-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2022.03.012",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "RADARSAT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271622002672-main",
+  "paper_no": "1-s2.0-S0924271622002672-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2022.10.005",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR",
+   "Gaofen"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271623000679-main",
+  "paper_no": "1-s2.0-S0924271623000679-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2023.03.007",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271623000850-main",
+  "paper_no": "1-s2.0-S0924271623000850-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2023.04.002",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S0924271625001303-main",
+  "paper_no": "1-s2.0-S0924271625001303-main",
+  "doi_in_text": "10.1016/j.isprsjprs.2025.03.026",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "HJ-1",
+   "HLS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1110982322000059-main",
+  "paper_no": "1-s2.0-S1110982322000059-main",
+  "doi_in_text": "10.1016/j.ejrs.2022.01.004",
+  "n_oa_mentions": 1,
+  "oa_max": 97.16,
+  "oa_median": 97.16,
+  "oa_min": 97.16,
+  "oa_values": [
+   97.16
+  ],
+  "oa_snippets": [
+   "overall accuracy of 97.16%"
+  ],
+  "kappa_max": 0.9599,
+  "f1_max": 74.45,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "1-s2.0-S1569843224000724-main",
+  "paper_no": "1-s2.0-S1569843224000724-main",
+  "doi_in_text": "10.1016/j.jag.2024.103718",
+  "n_oa_mentions": 2,
+  "oa_max": 98.0,
+  "oa_median": 93.5,
+  "oa_min": 89.0,
+  "oa_values": [
+   89.0,
+   98.0
+  ],
+  "oa_snippets": [
+   "OA of 89%",
+   "OA of 98%"
+  ],
+  "kappa_max": null,
+  "f1_max": 90.0,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843224002140-main",
+  "paper_no": "1-s2.0-S1569843224002140-main",
+  "doi_in_text": "10.1016/j.jag.2024.103860",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "Iran",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843224002218-main",
+  "paper_no": "1-s2.0-S1569843224002218-main",
+  "doi_in_text": "10.1016/j.jag.2024.103867",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843224004394-main",
+  "paper_no": "1-s2.0-S1569843224004394-main",
+  "doi_in_text": "10.1016/j.jag.2024.104085",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843224005600-main",
+  "paper_no": "1-s2.0-S1569843224005600-main",
+  "doi_in_text": "10.1016/j.jag.2024.104204",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.9253,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843225000731-main",
+  "paper_no": "1-s2.0-S1569843225000731-main",
+  "doi_in_text": "10.1016/j.jag.2025.104426",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843225003152-main",
+  "paper_no": "1-s2.0-S1569843225003152-main",
+  "doi_in_text": "10.1016/j.jag.2025.104668",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843225003796-main",
+  "paper_no": "1-s2.0-S1569843225003796-main",
+  "doi_in_text": "10.1016/j.jag.2025.104732",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S1569843226002736-main",
+  "paper_no": "1-s2.0-S1569843226002736-main",
+  "doi_in_text": "10.1016/j.jag.2026.105357",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S2214317323000197-main",
+  "paper_no": "1-s2.0-S2214317323000197-main",
+  "doi_in_text": "10.1016/j.inpa.2023.02.009",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "SPOT",
+   "HLS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "1-s2.0-S2352938522000842-main",
+  "paper_no": "1-s2.0-S2352938522000842-main",
+  "doi_in_text": "10.1016/j.rsase.2022.100776",
+  "n_oa_mentions": 1,
+  "oa_max": 96.19,
+  "oa_median": 96.19,
+  "oa_min": 96.19,
+  "oa_values": [
+   96.19
+  ],
+  "oa_snippets": [
+   "overall accuracy of 96.19%"
+  ],
+  "kappa_max": 0.96,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S2352938525000588-main",
+  "paper_no": "1-s2.0-S2352938525000588-main",
+  "doi_in_text": "10.1016/j.rsase.2025.101505",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen"
+  ],
+  "spatial_res_m": 15.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S2666017221000055-main",
+  "paper_no": "1-s2.0-S2666017221000055-main",
+  "doi_in_text": "10.1016/j.srs.2021.100018",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S2667010025002392-main",
+  "paper_no": "1-s2.0-S2667010025002392-main",
+  "doi_in_text": "10.1016/j.envc.2025.101320",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.992,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope",
+   "HLS"
+  ],
+  "spatial_res_m": 3.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1-s2.0-S2772375526004934-main",
+  "paper_no": "1-s2.0-S2772375526004934-main",
+  "doi_in_text": "10.1016/j.atech.2026.102269",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": 100.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "10-1-116-980",
+  "paper_no": "10-1-116-980",
+  "doi_in_text": "10.22271/tpi.2021.v10.i2b.5629",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.88,
+  "f1_max": null,
+  "method_category": "",
+  "method_basis": "none",
+  "methods_all": [],
+  "sensors": [
+   "Sentinel-1",
+   "ENVISAT ASAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 20.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "10.20479-bursauludagziraat.1402043-3587034",
+  "paper_no": "10.20479-bursauludagziraat.1402043-3587034",
+  "doi_in_text": "10.20479/bursauludagziraat.1402043",
+  "n_oa_mentions": 8,
+  "oa_max": 98.0,
+  "oa_median": 90.05,
+  "oa_min": 82.0,
+  "oa_values": [
+   95.0,
+   88.0,
+   87.0,
+   85.0,
+   82.0,
+   92.1,
+   96.93,
+   98.0
+  ],
+  "oa_snippets": [
+   "OA of 95%",
+   "overall accuracy of 88%",
+   "overall accuracy of 87%",
+   "overall accuracy of 85%",
+   "overall accuracy of 82%",
+   "overall accuracy of 92.1%"
+  ],
+  "kappa_max": 0.92,
+  "f1_max": 92.0,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "12_KJ00004557609",
+  "paper_no": "12",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Japan",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "15.+ID5179-Anisya-3153-3172",
+  "paper_no": "15.+ID5179-Anisya-3153-3172",
+  "doi_in_text": "10.52436/1.jutif.2025.6.5.5179",
+  "n_oa_mentions": 3,
+  "oa_max": 71.0,
+  "oa_median": 71.0,
+  "oa_min": 71.0,
+  "oa_values": [
+   71.0,
+   71.0,
+   71.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 71%",
+   "overall accuracy of 71%",
+   "overall accuracy of 71%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "15481603.2019.1646978",
+  "paper_no": "15481603.2019.1646978",
+  "doi_in_text": "10.1080/15481603.2019.1646978",
+  "n_oa_mentions": 1,
+  "oa_max": 91.0,
+  "oa_median": 91.0,
+  "oa_min": 91.0,
+  "oa_values": [
+   91.0
+  ],
+  "oa_snippets": [
+   "overall accuracies ranged from 91%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "Gaofen",
+   "HJ-1",
+   "TerraSAR-X",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "1763-Article Text-2393-1-10-20210409",
+  "paper_no": "1763-Article Text-2393-1-10-20210409",
+  "doi_in_text": "",
+  "n_oa_mentions": 1,
+  "oa_max": 85.0,
+  "oa_median": 85.0,
+  "oa_min": 85.0,
+  "oa_values": [
+   85.0
+  ],
+  "oa_snippets": [
+   "overall accuracy above > 85 %"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "1bda2021-01-05",
+  "paper_no": "1bda2021-01-05",
+  "doi_in_text": "10.26480/bda.01.2021.01.05",
+  "n_oa_mentions": 1,
+  "oa_max": 79.746,
+  "oa_median": 79.75,
+  "oa_min": 79.746,
+  "oa_values": [
+   79.746
+  ],
+  "oa_snippets": [
+   "overall accuracy of the method was found to be 79.746%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 0.44,
+  "region": "Nepal",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "21643-21921944138-1-SM",
+  "paper_no": "21643-21921944138-1-SM",
+  "doi_in_text": "10.53766/rgv/",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.901,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "30-MS-3898_1360+-+1366",
+  "paper_no": "30-MS-3898",
+  "doi_in_text": "10.31018/jans.v14i4.3898",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.766,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "338000-Article Text-784847-1-10-20250829",
+  "paper_no": "338000-Article Text-784847-1-10-20250829",
+  "doi_in_text": "10.15587/1729-4061.2025.338000",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "3617-12782-1-PB",
+  "paper_no": "3617-12782-1-PB",
+  "doi_in_text": "",
+  "n_oa_mentions": 1,
+  "oa_max": 78.5,
+  "oa_median": 78.5,
+  "oa_min": 78.5,
+  "oa_values": [
+   78.5
+  ],
+  "oa_snippets": [
+   "overall accuracy of 78.5%"
+  ],
+  "kappa_max": null,
+  "f1_max": 92.37,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "380 ESTIMATION-OF-RICE-AREA-IN-THIRUVARUR-DISTRICT-USING-SENTINEL-2-SATELLITE-DATA",
+  "paper_no": "380 ESTIMATION-OF-RICE-AREA-IN-THIRUVARUR-DISTRICT-USING-SENTINEL-2-SATELLITE-DATA",
+  "doi_in_text": "10.51470/plantarchives.2025.v25.supplement-1.380",
+  "n_oa_mentions": 3,
+  "oa_max": 91.3,
+  "oa_median": 91.3,
+  "oa_min": 91.3,
+  "oa_values": [
+   91.3,
+   91.3,
+   91.3
+  ],
+  "oa_snippets": [
+   "overall accuracy of 91.3%",
+   "overall accuracy was found to be 91.3%",
+   "overall accuracy of 91.3%"
+  ],
+  "kappa_max": 0.82,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "body",
+  "methods_all": [
+   "Object-Based"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "3D-CTM_Unsupervised_Crop_Type_Mapping_Based_on_3-D_Convolutional_Autoencoder_and_Satellite_Image_Time_Series",
+  "paper_no": "3D-CTM",
+  "doi_in_text": "10.1109/lgrs.2024.3470838",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 3.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "4_Dimitrov",
+  "paper_no": "4",
+  "doi_in_text": "10.3897/arb.v33.e04",
+  "n_oa_mentions": 3,
+  "oa_max": 82.0,
+  "oa_median": 78.0,
+  "oa_min": 74.8,
+  "oa_values": [
+   74.8,
+   82.0,
+   78.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of the map based solely on Sentinel-2 data is 74.8%",
+   "overall accuracy of 82%",
+   "overall accuracy of 78%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "72-12-N998-Irsyam-MAHRUS1d410989-7d09-406a-abaa-476ba0f26d11",
+  "paper_no": "72-12-N998-Irsyam-MAHRUS1d410989-7d09-406a-abaa-476ba0f26d11",
+  "doi_in_text": "10.35633/inmateh-72-12",
+  "n_oa_mentions": 5,
+  "oa_max": 85.82,
+  "oa_median": 85.82,
+  "oa_min": 85.82,
+  "oa_values": [
+   85.82,
+   85.82,
+   85.82,
+   85.82,
+   85.82
+  ],
+  "oa_snippets": [
+   "overall accuracy of 85.82%",
+   "Overall Accuracy = 85.82%",
+   "OA of 85.82%",
+   "overall accuracy obtained was 85.82%",
+   "overall accuracy of about 85.82%"
+  ],
+  "kappa_max": 0.7119,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "PlanetScope",
+   "SPOT"
+  ],
+  "spatial_res_m": 60.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "A_General_Model_for_Large-Scale_Paddy_Rice_Mapping_by_Combining_Biological_Characteristics_Deep_Learning_and_Multisource_Remote_Sensing_Data",
+  "paper_no": "A",
+  "doi_in_text": "10.1109/jstars.2025.3573750",
+  "n_oa_mentions": 1,
+  "oa_max": 99.0,
+  "oa_median": 99.0,
+  "oa_min": 99.0,
+  "oa_values": [
+   99.0
+  ],
+  "oa_snippets": [
+   "overall accuracies are over 99%"
+  ],
+  "kappa_max": 0.77,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "A_Sentinel-2_Multiyear_Multicountry_Benchmark_Dataset_for_Crop_Classification_and_Segmentation_With_Deep_Learning",
+  "paper_no": "A",
+  "doi_in_text": "10.1109/jstars.2022.3164771",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Boiarskii_2020_J._Phys.__Conf._Ser._1679_032046",
+  "paper_no": "Boiarskii",
+  "doi_in_text": "10.1088/1742-6596/1679/3/032046",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Bridging_Temporal_and_SpatialSpectral_Features_With_Satellite_Image_Time_Series_TAS2B-Net_for_Crop_Semantic_Segmentation",
+  "paper_no": "Bridging",
+  "doi_in_text": "10.1109/lgrs.2025.3603294",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "Crop type mapping using LiDAR  Sentinel-2 and aerial imagery with machine learning algorithms",
+  "paper_no": "Crop type mapping using LiDAR  Sentinel-2 and aerial imagery with machine learning algorithms",
+  "doi_in_text": "10.1080/10095020.2020.1782776",
+  "n_oa_mentions": 17,
+  "oa_max": 95.0,
+  "oa_median": 89.1,
+  "oa_min": 50.9,
+  "oa_values": [
+   87.8,
+   84.3,
+   80.0,
+   83.2,
+   95.0,
+   75.0,
+   94.3,
+   85.0,
+   94.1,
+   93.5,
+   93.4,
+   93.2,
+   93.1,
+   89.1,
+   50.9,
+   93.5,
+   75.6
+  ],
+  "oa_snippets": [
+   "overall accuracy of 87.8%",
+   "overall accuracy of 84.3%",
+   "overall accuracies of above 80%",
+   "OA of 83.2%",
+   "OA of 95%",
+   "OA of 75%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": 0.5,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Diem_2021_IOP_Conf._Ser.__Earth_Environ._Sci._652_012015",
+  "paper_no": "Diem",
+  "doi_in_text": "10.1088/1755-1315/652/1/012015",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Efficient paddy field mapping using Landsat-8 imagery and object-based image analysis based on advanced fractel net evolution approach",
+  "paper_no": "Efficient paddy field mapping using Landsat-8 imagery and object-based image analysis based on advanced fractel net evolution approach",
+  "doi_in_text": "10.1080/15481603.2016.1273438",
+  "n_oa_mentions": 2,
+  "oa_max": 93.65,
+  "oa_median": 90.47,
+  "oa_min": 87.28,
+  "oa_values": [
+   87.28,
+   93.65
+  ],
+  "oa_snippets": [
+   "overall accuracy of 87.28%",
+   "Overall accuracy = 93.65%"
+  ],
+  "kappa_max": 0.8699,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "title",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 15.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "GISJ_Volume 12_Issue 4_Pages 73-92",
+  "paper_no": "GISJ",
+  "doi_in_text": "10.52547/gisj.12.4.73",
+  "n_oa_mentions": 1,
+  "oa_max": 91.36,
+  "oa_median": 91.36,
+  "oa_min": 91.36,
+  "oa_values": [
+   91.36
+  ],
+  "oa_snippets": [
+   "overall accuracy of 91.36%"
+  ],
+  "kappa_max": 0.8927,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "Iran",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "IET Computer Vision - 2025 - Finnegan - Temporal Optimisation of Satellite Image\u2010Based Crop Mapping  A Comparison of Deep",
+  "paper_no": "IET Computer Vision - 2025 - Finnegan - Temporal Optimisation of Satellite Image\u2010Based Crop Mapping  A Comparison of Deep",
+  "doi_in_text": "10.1049/cvi2.70014",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.826,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 3.0,
+  "region": "Spain",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Interpretable_Deep_Learning_Method_Combining_Temporal_Backscattering_Coefficients_and_Interferometric_Coherence_for_Rice_Area_Mapping",
+  "paper_no": "Interpretable",
+  "doi_in_text": "10.1109/lgrs.2023.3321770",
+  "n_oa_mentions": 2,
+  "oa_max": 93.43,
+  "oa_median": 93.43,
+  "oa_min": 93.43,
+  "oa_values": [
+   93.43,
+   93.43
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of XFANet reaches 93.43%",
+   "OA of 93.43%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "JARS-210849G_online",
+  "paper_no": "JARS-210849G",
+  "doi_in_text": "10.1117/1.jrs.16",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Kustiyo_2021_IOP_Conf._Ser.__Earth_Environ._Sci._739_012086",
+  "paper_no": "Kustiyo",
+  "doi_in_text": "10.1088/1755-1315/739/1/012086",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": "",
+  "region": "Indonesia",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "Mapping Rice Production Typology Using Sentinel-1 Time Series Similarity Analysis to Support Climate Resilient Agriculture in the Vietnamese Mekong De",
+  "paper_no": "Mapping Rice Production Typology Using Sentinel-1 Time Series Similarity Analysis to Support Climate Resilient Agriculture in the Vietnamese Mekong De",
+  "doi_in_text": "10.1080/07038992.2026.2650851",
+  "n_oa_mentions": 4,
+  "oa_max": 96.0,
+  "oa_median": 86.92,
+  "oa_min": 83.5,
+  "oa_values": [
+   90.1,
+   83.5,
+   83.74,
+   96.0
+  ],
+  "oa_snippets": [
+   "overall accuracy and Kappa coefficient of 90.1%",
+   "Overall accuracy of the rice paddy extent map was 83.5%",
+   "overall accuracy of 83.74%",
+   "overall accuracy between 82 and 96%"
+  ],
+  "kappa_max": 0.901,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "PlanetScope"
+  ],
+  "spatial_res_m": "",
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Munandar_2025_IOP_Conf._Ser.__Earth_Environ._Sci._1438_012088",
+  "paper_no": "Munandar",
+  "doi_in_text": "10.1088/1755-1315/1438/1/012088",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Phenology-guided deep learning for automated rice mapping using SAR time-series imagery",
+  "paper_no": "Phenology-guided deep learning for automated rice mapping using SAR time-series imagery",
+  "doi_in_text": "10.1080/17538947.2026.2620881",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Ramadhani_2022_IOP_Conf._Ser.__Earth_Environ._Sci._1089_012029",
+  "paper_no": "Ramadhani",
+  "doi_in_text": "10.1088/1755-1315/1089/1/012029",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1"
+  ],
+  "spatial_res_m": "",
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "Remote_Sensing_Based_Crop_Type_Classification_Via_Deep_Transfer_Learning",
+  "paper_no": "Remote",
+  "doi_in_text": "10.1109/jstars.2023.3270141",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 1.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Rice-SamPheno_Automated_Generation_of_Phenologically_Representative_Samples_for_Robust_Rice_Mapping_With_Sentinel-1_SAR_Time_Series",
+  "paper_no": "Rice-SamPheno",
+  "doi_in_text": "10.1109/jstars.2025.3599728",
+  "n_oa_mentions": 1,
+  "oa_max": 95.78,
+  "oa_median": 95.78,
+  "oa_min": 95.78,
+  "oa_values": [
+   95.78
+  ],
+  "oa_snippets": [
+   "overall accuracies of 95.78%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "S-9-5-45-829",
+  "paper_no": "S-9-5-45-829",
+  "doi_in_text": "10.33545/26174693.2025.v9.i5sc.4412",
+  "n_oa_mentions": 2,
+  "oa_max": 90.9,
+  "oa_median": 90.9,
+  "oa_min": 90.9,
+  "oa_values": [
+   90.9,
+   90.9
+  ],
+  "oa_snippets": [
+   "overall accuracy of 90.9%",
+   "overall accuracy of 90.9%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "",
+  "method_basis": "none",
+  "methods_all": [],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "Satellite Mapping and Monitoring of Wild Rice",
+  "paper_no": "Satellite Mapping and Monitoring of Wild Rice",
+  "doi_in_text": "10.2747/1548-1603.42.4.358",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "Scientifica - 2021 - Moumni - Machine Learning\u2010Based Classification for Crop\u2010Type Mapping Using the Fusion of",
+  "paper_no": "Scientifica - 2021 - Moumni - Machine Learning\u2010Based Classification for Crop\u2010Type Mapping Using the Fusion of",
+  "doi_in_text": "10.1155/2021/8810279",
+  "n_oa_mentions": 4,
+  "oa_max": 86.0,
+  "oa_median": 83.06,
+  "oa_min": 81.12,
+  "oa_values": [
+   85.0,
+   81.12,
+   86.0,
+   81.12
+  ],
+  "oa_snippets": [
+   "overall accuracies and the Kappa indices, with around 85%",
+   "OA of 81.12%",
+   "OA of about 86%",
+   "OA of 81.12%"
+  ],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "V2N3_IJECBE_08_Isbat_Implementation+of+U-Net+for+Paddy+Field+Mapping+Using+Very+High-Resolution+Satellite+Imagery",
+  "paper_no": "V2N3",
+  "doi_in_text": "10.62146/ijecbe.v2i3.57",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "title",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "aaqr-12-06-oa-0150",
+  "paper_no": "aaqr-12-06-oa-0150",
+  "doi_in_text": "10.4209/aaqr.2012.06.0150",
+  "n_oa_mentions": 3,
+  "oa_max": 98.0,
+  "oa_median": 87.0,
+  "oa_min": 87.0,
+  "oa_values": [
+   87.0,
+   87.0,
+   98.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 87%",
+   "overall accuracy of 87%",
+   "overall accuracy of 98%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS"
+  ],
+  "spatial_res_m": 2.0,
+  "region": "Taiwan",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "agriculture-16-00920",
+  "paper_no": "agriculture-16-00920",
+  "doi_in_text": "10.3390/agriculture16090920",
+  "n_oa_mentions": 3,
+  "oa_max": 93.61,
+  "oa_median": 93.35,
+  "oa_min": 84.67,
+  "oa_values": [
+   93.61,
+   93.35,
+   84.67
+  ],
+  "oa_snippets": [
+   "overall accuracy of 93.61%",
+   "Overall Accuracy of 93.35%",
+   "OA was 84.67%"
+  ],
+  "kappa_max": 0.9166,
+  "f1_max": 85.61,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "agriengineering-07-00122",
+  "paper_no": "agriengineering-07-00122",
+  "doi_in_text": "10.3390/agriengineering7040122",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "PlanetScope"
+  ],
+  "spatial_res_m": "",
+  "region": "Japan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "agronomy-13-02800",
+  "paper_no": "agronomy-13-02800",
+  "doi_in_text": "10.3390/agronomy13112800",
+  "n_oa_mentions": 1,
+  "oa_max": 90.61,
+  "oa_median": 90.61,
+  "oa_min": 90.61,
+  "oa_values": [
+   90.61
+  ],
+  "oa_snippets": [
+   "OA of 90.61%"
+  ],
+  "kappa_max": 0.9062,
+  "f1_max": 90.89,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "agronomy-15-00873",
+  "paper_no": "agronomy-15-00873",
+  "doi_in_text": "10.3390/agronomy15040873",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.97,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "document",
+  "paper_no": "document",
+  "doi_in_text": "10.35603/issue1.1/",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.77,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "MODIS"
+  ],
+  "spatial_res_m": 34.0,
+  "region": "",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "essd-15-1501-2023",
+  "paper_no": "essd-15-1501-2023",
+  "doi_in_text": "10.5194/essd-15-1501-2023",
+  "n_oa_mentions": 1,
+  "oa_max": 80.7,
+  "oa_median": 80.7,
+  "oa_min": 80.7,
+  "oa_values": [
+   80.7
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80.7 %"
+  ],
+  "kappa_max": 0.8425,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "essd-17-6851-2025",
+  "paper_no": "essd-17-6851-2025",
+  "doi_in_text": "10.5194/essd-17-6851-2025",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "frsen-7-1782148",
+  "paper_no": "frsen-7-1782148",
+  "doi_in_text": "10.3389/frsen.2026.1782148",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Sentinel-3",
+   "HLS"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "ijgi-09-00120-v3",
+  "paper_no": "ijgi-09-00120-v3",
+  "doi_in_text": "10.3390/ijgi9020120",
+  "n_oa_mentions": 3,
+  "oa_max": 96.7,
+  "oa_median": 96.69,
+  "oa_min": 91.44,
+  "oa_values": [
+   96.7,
+   96.69,
+   91.44
+  ],
+  "oa_snippets": [
+   "overall accuracy of 96.7%",
+   "Overall Accuracy: 96.69%",
+   "Overall Accuracy: 91.44%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 1.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "informatics-09-00096",
+  "paper_no": "informatics-09-00096",
+  "doi_in_text": "10.3390/informatics9040096",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 95.0,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "PlanetScope"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "isprs-annals-IV-4-W2-161-2017",
+  "paper_no": "isprs-annals-IV-4-W2-161-2017",
+  "doi_in_text": "10.5194/isprs-annals-iv-4-w2-161-2017",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Australia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "isprs-archives-XLI-B8-863-2016",
+  "paper_no": "isprs-archives-XLI-B8-863-2016",
+  "doi_in_text": "10.5194/isprsarchives-xli-b8-863-2016",
+  "n_oa_mentions": 1,
+  "oa_max": 86.2,
+  "oa_median": 86.2,
+  "oa_min": 86.2,
+  "oa_values": [
+   86.2
+  ],
+  "oa_snippets": [
+   "overall accuracy and Kappa coefficient were 86.2%"
+  ],
+  "kappa_max": 0.862,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "isprs-archives-XLIII-B3-2022-1301-2022",
+  "paper_no": "isprs-archives-XLIII-B3-2022-1301-2022",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.824,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "isprsarchives-XL-2-W3-79-2014",
+  "paper_no": "isprsarchives-XL-2-W3-79-2014",
+  "doi_in_text": "10.5194/isprsarchives-xl-2-w3-79-201",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 15.0,
+  "region": "Iran",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "mapping-the-spatial-distribution-of-rice-fields-in-southern-coast-ofcaspian-sea-using-landsat-8-timeseries-images-2167-0587-1000215",
+  "paper_no": "mapping-the-spatial-distribution-of-rice-fields-in-southern-coast-ofcaspian-sea-using-landsat-8-timeseries-images-2167-0587-1000215",
+  "doi_in_text": "10.4172/2167-0587.1000215",
+  "n_oa_mentions": 1,
+  "oa_max": 69.0909,
+  "oa_median": 69.09,
+  "oa_min": 69.0909,
+  "oa_values": [
+   69.0909
+  ],
+  "oa_snippets": [
+   "overall accuracy of the method was 69.0909%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 15.0,
+  "region": "Iran",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "niazmardi2019",
+  "paper_no": "niazmardi2019",
+  "doi_in_text": "10.1080/01431161.2019.1591648",
+  "n_oa_mentions": 2,
+  "oa_max": 86.48,
+  "oa_median": 82.88,
+  "oa_min": 79.27,
+  "oa_values": [
+   86.48,
+   79.27
+  ],
+  "oa_snippets": [
+   "OA = 86.48%",
+   "OA = 79.27%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [],
+  "spatial_res_m": 5.0,
+  "region": "Iran",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "paper_inul",
+  "paper_no": "paper",
+  "doi_in_text": "10.5897/ajar12.148",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "Indonesia",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "rars240003-2",
+  "paper_no": "rars240003-2",
+  "doi_in_text": "10.62880/rars240003",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-06-01938-v2",
+  "paper_no": "remotesensing-06-01938-v2",
+  "doi_in_text": "10.3390/rs6031938",
+  "n_oa_mentions": 1,
+  "oa_max": 94.0,
+  "oa_median": 94.0,
+  "oa_min": 94.0,
+  "oa_values": [
+   94.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 94%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "SPOT"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "Bangladesh",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-07-15805",
+  "paper_no": "remotesensing-07-15805",
+  "doi_in_text": "10.3390/rs71215805",
+  "n_oa_mentions": 1,
+  "oa_max": 78.0,
+  "oa_median": 78.0,
+  "oa_min": 78.0,
+  "oa_values": [
+   78.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 78%"
+  ],
+  "kappa_max": 0.57,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "MODIS",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "Japan",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-11-01370",
+  "paper_no": "remotesensing-11-01370",
+  "doi_in_text": "10.3390/rs11111370",
+  "n_oa_mentions": 5,
+  "oa_max": 81.0,
+  "oa_median": 78.0,
+  "oa_min": 72.0,
+  "oa_values": [
+   72.0,
+   81.0,
+   78.0,
+   75.0,
+   78.0
+  ],
+  "oa_snippets": [
+   "OA of the Sentinel-2-derived crop/land-use maps varied between 72%",
+   "OA = 81%",
+   "OA = 78%",
+   "OA of the maps was 75%",
+   "overall accuracy of 78%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "SPOT",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-11-02034",
+  "paper_no": "remotesensing-11-02034",
+  "doi_in_text": "10.3390/rs11172034",
+  "n_oa_mentions": 3,
+  "oa_max": 93.5,
+  "oa_median": 90.94,
+  "oa_min": 83.9,
+  "oa_values": [
+   83.9,
+   93.5,
+   90.94
+  ],
+  "oa_snippets": [
+   "OA of 83.9%",
+   "OA of 93.5%",
+   "OA = 90.94%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-12-01022-v2",
+  "paper_no": "remotesensing-12-01022-v2",
+  "doi_in_text": "10.3390/rs12061022",
+  "n_oa_mentions": 6,
+  "oa_max": 93.66,
+  "oa_median": 93.31,
+  "oa_min": 88.3,
+  "oa_values": [
+   93.66,
+   92.95,
+   93.66,
+   92.95,
+   88.3,
+   93.66
+  ],
+  "oa_snippets": [
+   "overall accuracy and kappa coe\ufb03cient of the rice paddy planting areas were 93.66%",
+   "overall accuracy and kappa coe\ufb03cient of the multi-cropping regions were 92.95%",
+   "OA = 93.66%",
+   "OA = 92.95%",
+   "OA = 88.30%",
+   "overall accuracy and kappa coe\ufb03cient of the rice paddy planting area were 93.66%"
+  ],
+  "kappa_max": 0.89,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-12-02493-v2",
+  "paper_no": "remotesensing-12-02493-v2",
+  "doi_in_text": "10.3390/rs12152493",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.79,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "RADARSAT",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-12-03196-v2",
+  "paper_no": "remotesensing-12-03196-v2",
+  "doi_in_text": "10.3390/rs12193196",
+  "n_oa_mentions": 1,
+  "oa_max": 85.0,
+  "oa_median": 85.0,
+  "oa_min": 85.0,
+  "oa_values": [
+   85.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 85%"
+  ],
+  "kappa_max": 0.8,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ENVISAT ASAR"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-12-03959",
+  "paper_no": "remotesensing-12-03959",
+  "doi_in_text": "10.3390/rs12233959",
+  "n_oa_mentions": 2,
+  "oa_max": 89.52,
+  "oa_median": 82.14,
+  "oa_min": 74.76,
+  "oa_values": [
+   74.76,
+   89.52
+  ],
+  "oa_snippets": [
+   "overall accuracy of 74.76%",
+   "OA of 89.52%"
+  ],
+  "kappa_max": null,
+  "f1_max": 90.77,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-13-00579",
+  "paper_no": "remotesensing-13-00579",
+  "doi_in_text": "10.3390/rs13040579",
+  "n_oa_mentions": 4,
+  "oa_max": 93.85,
+  "oa_median": 91.05,
+  "oa_min": 83.39,
+  "oa_values": [
+   91.0,
+   93.85,
+   91.1,
+   83.39
+  ],
+  "oa_snippets": [
+   "overall accuracy and Kappa coef\ufb01cient of REDT ranged from 91%",
+   "overall accuracy of the REDT method is 93.85%",
+   "overall accuracy is 91.10%",
+   "overall accuracy and kappa coef\ufb01cient are 83.39%"
+  ],
+  "kappa_max": 0.91,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "Gaofen",
+   "HJ-1"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "remotesensing-13-00911-v2",
+  "paper_no": "remotesensing-13-00911-v2",
+  "doi_in_text": "10.3390/rs13050911",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-13-01360",
+  "paper_no": "remotesensing-13-01360",
+  "doi_in_text": "10.3390/rs13071360",
+  "n_oa_mentions": 3,
+  "oa_max": 89.8,
+  "oa_median": 88.8,
+  "oa_min": 88.8,
+  "oa_values": [
+   88.8,
+   89.8,
+   88.8
+  ],
+  "oa_snippets": [
+   "overall accuracy of the pheno-deep method is 88.8%",
+   "overall accuracy of the pheno-deep method rose to 89.8%",
+   "overall accuracy was 88.8%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split"
+  ]
+ },
+ {
+  "file": "remotesensing-13-01498-v2",
+  "paper_no": "remotesensing-13-01498-v2",
+  "doi_in_text": "10.3390/rs13081498",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "PlanetScope",
+   "TerraSAR-X",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Indonesia",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-13-02790-v2",
+  "paper_no": "remotesensing-13-02790-v2",
+  "doi_in_text": "10.3390/rs13142790",
+  "n_oa_mentions": 1,
+  "oa_max": 85.98,
+  "oa_median": 85.98,
+  "oa_min": 85.98,
+  "oa_values": [
+   85.98
+  ],
+  "oa_snippets": [
+   "OA of Mask GRU-CNNs was 85.98%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-13-04668",
+  "paper_no": "remotesensing-13-04668",
+  "doi_in_text": "10.3390/rs13224668",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-14-00328-v2",
+  "paper_no": "remotesensing-14-00328-v2",
+  "doi_in_text": "10.3390/rs14020328",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.85,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-14-00541-v2",
+  "paper_no": "remotesensing-14-00541-v2",
+  "doi_in_text": "10.3390/rs14030541",
+  "n_oa_mentions": 12,
+  "oa_max": 94.0,
+  "oa_median": 77.6,
+  "oa_min": 72.5,
+  "oa_values": [
+   77.6,
+   86.1,
+   82.7,
+   86.0,
+   74.4,
+   94.0,
+   77.6,
+   77.6,
+   77.6,
+   72.5,
+   82.5,
+   77.6
+  ],
+  "oa_snippets": [
+   "overall accuracy (OA) of 77.6%",
+   "overall accuracy (OA) of 86.1%",
+   "OA of 82.7%",
+   "OA of 86.0%",
+   "OA of 74.4%",
+   "OA of 94%"
+  ],
+  "kappa_max": 0.86,
+  "f1_max": 83.6,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-14-00566",
+  "paper_no": "remotesensing-14-00566",
+  "doi_in_text": "10.3390/rs14030566",
+  "n_oa_mentions": 2,
+  "oa_max": 90.0,
+  "oa_median": 85.0,
+  "oa_min": 80.0,
+  "oa_values": [
+   80.0,
+   90.0
+  ],
+  "oa_snippets": [
+   "OA of ~80%",
+   "overall accuracy of ~90%"
+  ],
+  "kappa_max": null,
+  "f1_max": 96.15,
+  "method_category": "Attention/Transformer",
+  "method_basis": "body",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-14-04437-v2",
+  "paper_no": "remotesensing-14-04437-v2",
+  "doi_in_text": "10.3390/rs14184437",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.789,
+  "f1_max": null,
+  "method_category": "Object-Based",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Gaofen",
+   "SPOT",
+   "HJ-1",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "France",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-15-03414-v2",
+  "paper_no": "remotesensing-15-03414-v2",
+  "doi_in_text": "10.3390/rs15133414",
+  "n_oa_mentions": 4,
+  "oa_max": 91.53,
+  "oa_median": 88.25,
+  "oa_min": 84.9,
+  "oa_values": [
+   91.5,
+   85.0,
+   91.53,
+   84.9
+  ],
+  "oa_snippets": [
+   "overall accuracies ranging from 91.5%",
+   "overall accuracies ranging from 85%",
+   "overall accuracies ranging from 91.53%",
+   "overall accuracies from 84.9%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-16-00127-v2",
+  "paper_no": "remotesensing-16-00127-v2",
+  "doi_in_text": "10.3390/rs16010127",
+  "n_oa_mentions": 9,
+  "oa_max": 96.25,
+  "oa_median": 89.81,
+  "oa_min": 76.68,
+  "oa_values": [
+   96.25,
+   92.56,
+   77.32,
+   76.68,
+   87.58,
+   96.25,
+   90.96,
+   89.81,
+   88.53
+  ],
+  "oa_snippets": [
+   "Overall Accuracy (OA) of 96.25%",
+   "OA of 92.56%",
+   "OA of 77.32%",
+   "OA of 76.68%",
+   "OA of 87.58%",
+   "OA of 96.25%"
+  ],
+  "kappa_max": 0.911,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "body",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "Gaofen",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Iran",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-16-01026",
+  "paper_no": "remotesensing-16-01026",
+  "doi_in_text": "10.3390/rs16061026",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": 75.9,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "PlanetScope"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "France",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-16-02703",
+  "paper_no": "remotesensing-16-02703",
+  "doi_in_text": "10.3390/rs16152703",
+  "n_oa_mentions": 2,
+  "oa_max": 90.24,
+  "oa_median": 90.24,
+  "oa_min": 90.24,
+  "oa_values": [
+   90.24,
+   90.24
+  ],
+  "oa_snippets": [
+   "overall accuracy was up to 90.24%",
+   "OA of 90.24%"
+  ],
+  "kappa_max": 0.9024,
+  "f1_max": 90.24,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Gaofen",
+   "PlanetScope",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-17-00378",
+  "paper_no": "remotesensing-17-00378",
+  "doi_in_text": "10.3390/rs17030378",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Landsat",
+   "MODIS",
+   "SPOT"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-17-01033-v2",
+  "paper_no": "remotesensing-17-01033-v2",
+  "doi_in_text": "10.3390/rs17061033",
+  "n_oa_mentions": 1,
+  "oa_max": 85.0,
+  "oa_median": 85.0,
+  "oa_min": 85.0,
+  "oa_values": [
+   85.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 85%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "TerraSAR-X",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-17-01583",
+  "paper_no": "remotesensing-17-01583",
+  "doi_in_text": "10.3390/rs17091583",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "HLS"
+  ],
+  "spatial_res_m": 250.0,
+  "region": "Vietnam",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-17-01999",
+  "paper_no": "remotesensing-17-01999",
+  "doi_in_text": "10.3390/rs17121999",
+  "n_oa_mentions": 3,
+  "oa_max": 98.33,
+  "oa_median": 98.33,
+  "oa_min": 96.95,
+  "oa_values": [
+   96.95,
+   98.33,
+   98.33
+  ],
+  "oa_snippets": [
+   "overall accuracy of 96.95%",
+   "overall accuracy (98.33%",
+   "OA of 98.33%"
+  ],
+  "kappa_max": 0.9155,
+  "f1_max": 96.95,
+  "method_category": "Attention/Transformer",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "USA",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing-17-03207",
+  "paper_no": "remotesensing-17-03207",
+  "doi_in_text": "10.3390/rs17183207",
+  "n_oa_mentions": 5,
+  "oa_max": 99.12,
+  "oa_median": 93.46,
+  "oa_min": 92.54,
+  "oa_values": [
+   99.12,
+   93.46,
+   93.46,
+   94.76,
+   92.54
+  ],
+  "oa_snippets": [
+   "overall accuracy (99.12%",
+   "OA of 93.46%",
+   "OA of 93.46%",
+   "OA of 94.76%",
+   "overall accuracies of 92.54%"
+  ],
+  "kappa_max": null,
+  "f1_max": 99.14,
+  "method_category": "RNN/LSTM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Gaofen"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Italy",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "remotesensing.1045",
+  "paper_no": "remotesensing.1045",
+  "doi_in_text": "10.34133/remotesensing.1045",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "ALOS/PALSAR",
+   "Gaofen",
+   "PlanetScope",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s10333-022-00901-x",
+  "paper_no": "s10333-022-00901-x",
+  "doi_in_text": "10.1007/s10333-022-00901-x",
+  "n_oa_mentions": 3,
+  "oa_max": 88.0,
+  "oa_median": 88.0,
+  "oa_min": 87.46,
+  "oa_values": [
+   88.0,
+   87.46,
+   88.0
+  ],
+  "oa_snippets": [
+   "overall accuracy and kappa achieved to 88%",
+   "overall accuracy of 87.46%",
+   "Overall accuracy = 88%"
+  ],
+  "kappa_max": 0.88,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "SPOT"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "Iran",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s10661-024-13487-0",
+  "paper_no": "s10661-024-13487-0",
+  "doi_in_text": "10.1007/s10661-024-13487-0",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.745,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s11707-018-0723-y",
+  "paper_no": "s11707-018-0723-y",
+  "doi_in_text": "10.1007/s11707-018-0723-y",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 500.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s12518-025-00659-x",
+  "paper_no": "s12518-025-00659-x",
+  "doi_in_text": "10.1007/s12518-025-00659-x",
+  "n_oa_mentions": 4,
+  "oa_max": 94.8,
+  "oa_median": 93.9,
+  "oa_min": 91.2,
+  "oa_values": [
+   94.8,
+   94.8,
+   93.0,
+   91.2
+  ],
+  "oa_snippets": [
+   "overall accuracy (94.8%",
+   "OA of 94.8%",
+   "overall accuracy of 93%",
+   "overall accuracy of 91.2%"
+  ],
+  "kappa_max": 0.89,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "Gaofen"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s12524-021-01444-0",
+  "paper_no": "s12524-021-01444-0",
+  "doi_in_text": "10.1007/s12524-021-01444-0",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": 0.95,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s1672-6308%2808%2960031-1",
+  "paper_no": "s1672-6308%2808%2960031-1",
+  "doi_in_text": "",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "body",
+  "methods_all": [
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "",
+  "validations_all": []
+ },
+ {
+  "file": "s40808-022-01608-y",
+  "paper_no": "s40808-022-01608-y",
+  "doi_in_text": "10.1007/s40808-022-01608-y",
+  "n_oa_mentions": 13,
+  "oa_max": 99.92,
+  "oa_median": 92.35,
+  "oa_min": 74.39,
+  "oa_values": [
+   86.13,
+   95.78,
+   96.16,
+   99.0,
+   89.23,
+   99.0,
+   83.77,
+   74.39,
+   88.13,
+   92.35,
+   88.13,
+   92.35,
+   99.92
+  ],
+  "oa_snippets": [
+   "overall accuracy of 86.13%",
+   "overall accuracy of 95.78%",
+   "overall accuracy of 96.16%",
+   "overall accuracy greater than 99%",
+   "overall accuracy of 89.23%",
+   "overall accuracy greater than 99%"
+  ],
+  "kappa_max": 0.8215,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM"
+  ],
+  "sensors": [
+   "RADARSAT"
+  ],
+  "spatial_res_m": "",
+  "region": "India",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s41467-025-67549-z",
+  "paper_no": "s41467-025-67549-z",
+  "doi_in_text": "10.1038/s41467-025-67549-z",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS"
+  ],
+  "spatial_res_m": 30.0,
+  "region": "China",
+  "validation": "spatial/independent",
+  "validations_all": [
+   "spatial/independent",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s41597-025-04952-7",
+  "paper_no": "s41597-025-04952-7",
+  "doi_in_text": "10.1038/s41597-025-04952-7",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Foundation Model",
+  "method_basis": "body",
+  "methods_all": [
+   "Foundation Model",
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2"
+  ],
+  "spatial_res_m": "",
+  "region": "France",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "s41748-025-00586-2",
+  "paper_no": "s41748-025-00586-2",
+  "doi_in_text": "10.1007/s41748-025-00586-2",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "Bangladesh",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "sensors-15-00769",
+  "paper_no": "sensors-15-00769",
+  "doi_in_text": "10.3390/s150100769",
+  "n_oa_mentions": 2,
+  "oa_max": 95.7,
+  "oa_median": 92.35,
+  "oa_min": 89.0,
+  "oa_values": [
+   89.0,
+   95.7
+  ],
+  "oa_snippets": [
+   "overall accuracy of 89%",
+   "overall accuracy of 95.7%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "body",
+  "methods_all": [
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "HJ-1"
+  ],
+  "spatial_res_m": "",
+  "region": "China",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "sensors-19-02401-v2",
+  "paper_no": "sensors-19-02401-v2",
+  "doi_in_text": "10.3390/s19102401",
+  "n_oa_mentions": 1,
+  "oa_max": 93.0,
+  "oa_median": 93.0,
+  "oa_min": 93.0,
+  "oa_values": [
+   93.0
+  ],
+  "oa_snippets": [
+   "Overall accuracy = 93%"
+  ],
+  "kappa_max": 0.91,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "TerraSAR-X"
+  ],
+  "spatial_res_m": 5.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "sensors-23-01779-v2",
+  "paper_no": "sensors-23-01779-v2",
+  "doi_in_text": "10.3390/s23041779",
+  "n_oa_mentions": 0,
+  "oa_max": null,
+  "oa_median": null,
+  "oa_min": null,
+  "oa_values": [],
+  "oa_snippets": [],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "CNN/Deep Learning",
+  "method_basis": "abstract",
+  "methods_all": [
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "Sentinel-3"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "sensors-24-02108",
+  "paper_no": "sensors-24-02108",
+  "doi_in_text": "10.3390/s24072108",
+  "n_oa_mentions": 10,
+  "oa_max": 84.0,
+  "oa_median": 67.5,
+  "oa_min": 54.0,
+  "oa_values": [
+   80.0,
+   63.0,
+   84.0,
+   65.0,
+   82.0,
+   63.0,
+   80.0,
+   60.0,
+   70.0,
+   54.0
+  ],
+  "oa_snippets": [
+   "overall accuracy of 80%",
+   "overall accuracy of 63%",
+   "overall accuracy of 84%",
+   "overall accuracy of 65%",
+   "overall accuracy was 82%",
+   "overall accuracy of 63%"
+  ],
+  "kappa_max": null,
+  "f1_max": null,
+  "method_category": "Random Forest/SVM",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Attention/Transformer",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "MODIS"
+  ],
+  "spatial_res_m": "",
+  "region": "",
+  "validation": "random CV/split",
+  "validations_all": [
+   "random CV/split",
+   "ground/field reference"
+  ]
+ },
+ {
+  "file": "sustainability-13-00503",
+  "paper_no": "sustainability-13-00503",
+  "doi_in_text": "10.3390/su13020503",
+  "n_oa_mentions": 13,
+  "oa_max": 96.3,
+  "oa_median": 86.2,
+  "oa_min": 66.0,
+  "oa_values": [
+   93.0,
+   83.0,
+   88.0,
+   85.0,
+   85.3,
+   86.2,
+   96.3,
+   74.0,
+   95.0,
+   93.5,
+   80.0,
+   66.0,
+   94.7
+  ],
+  "oa_snippets": [
+   "overall accuracy is greater than 93%",
+   "overall accuracy is 83%",
+   "overall accuracy was 88%",
+   "overall accuracy of this method is greater than 85%",
+   "overall accuracy of 85.3%",
+   "overall accuracy level of 86.2%"
+  ],
+  "kappa_max": 0.8371,
+  "f1_max": null,
+  "method_category": "Phenology/Threshold",
+  "method_basis": "abstract",
+  "methods_all": [
+   "Foundation Model",
+   "RNN/LSTM",
+   "CNN/Deep Learning",
+   "Random Forest/SVM",
+   "Object-Based",
+   "Phenology/Threshold"
+  ],
+  "sensors": [
+   "Sentinel-2",
+   "Sentinel-1",
+   "Landsat",
+   "MODIS",
+   "RADARSAT",
+   "ALOS/PALSAR",
+   "ENVISAT ASAR",
+   "SPOT",
+   "HJ-1",
+   "TerraSAR-X",
+   "HLS"
+  ],
+  "spatial_res_m": 10.0,
+  "region": "China",
+  "validation": "ground/field reference",
+  "validations_all": [
+   "ground/field reference"
+  ]
+ }
+]

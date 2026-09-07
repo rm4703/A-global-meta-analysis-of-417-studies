@@ -1,0 +1,218 @@
+{
+ "OA ~ method category (all studies, \u00a73.2)": {
+  "test": "Kruskal-Wallis",
+  "n": 409,
+  "k": 7,
+  "H": 6.534,
+  "p": 0.36608544438844937,
+  "eps2": 0.016,
+  "eps2_ci95": [
+   0.0083,
+   0.0612
+  ],
+  "eps2_null_expectation": 0.0147,
+  "eta2_H": 0.0013,
+  "quoted_p": 0.51,
+  "effect_size": "eps2 = 0.016 [0.008,0.061]",
+  "magnitude": "small",
+  "p_recomputed": 0.3661,
+  "p_matches_manuscript": false
+ },
+ "Kappa ~ method category (\u00a73.8)": {
+  "test": "Kruskal-Wallis",
+  "n": 212,
+  "k": 7,
+  "H": 7.332,
+  "p": 0.2912742558399405,
+  "eps2": 0.0347,
+  "eps2_ci95": [
+   0.0204,
+   0.1073
+  ],
+  "eps2_null_expectation": 0.0284,
+  "eta2_H": 0.0065,
+  "quoted_p": 0.26,
+  "effect_size": "eps2 = 0.035 [0.020,0.107]",
+  "magnitude": "small",
+  "p_recomputed": 0.2913,
+  "p_matches_manuscript": false
+ },
+ "OA ~ method, rice-only subset (\u00a73.7)": {
+  "test": "Kruskal-Wallis",
+  "n": 280,
+  "k": 7,
+  "H": 7.689,
+  "p": 0.2617580206717148,
+  "eps2": 0.0276,
+  "eps2_ci95": [
+   0.0139,
+   0.0941
+  ],
+  "eps2_null_expectation": 0.0215,
+  "eta2_H": 0.0062,
+  "quoted_p": 0.28,
+  "effect_size": "eps2 = 0.028 [0.014,0.094]",
+  "magnitude": "small",
+  "p_recomputed": 0.2618,
+  "p_matches_manuscript": true
+ },
+ "OA ~ method, crop-only subset (\u00a73.7)": {
+  "test": "Kruskal-Wallis",
+  "n": 129,
+  "k": 7,
+  "H": 3.717,
+  "p": 0.7148619760300022,
+  "eps2": 0.029,
+  "eps2_ci95": [
+   0.0168,
+   0.1574
+  ],
+  "eps2_null_expectation": 0.0469,
+  "eta2_H": 0.0,
+  "quoted_p": 0.6,
+  "effect_size": "eps2 = 0.029 [0.017,0.157]",
+  "magnitude": "at/below chance",
+  "p_recomputed": 0.7149,
+  "p_matches_manuscript": false
+ },
+ "OA ~ method, N-reporting subset (\u00a73.6)": {
+  "test": "Kruskal-Wallis",
+  "n": 75,
+  "k": 6,
+  "H": 1.741,
+  "p": 0.8836356086876196,
+  "eps2": 0.0235,
+  "eps2_ci95": [
+   0.0127,
+   0.1816
+  ],
+  "eps2_null_expectation": 0.0676,
+  "eta2_H": 0.0,
+  "quoted_p": 0.88,
+  "effect_size": "eps2 = 0.024 [0.013,0.182]",
+  "magnitude": "at/below chance",
+  "p_recomputed": 0.8836,
+  "p_matches_manuscript": true
+ },
+ "OA: rice-only vs crop-only scope (\u00a73.7)": {
+  "test": "Mann-Whitney U",
+  "n1": 283,
+  "n2": 134,
+  "U": 23195.5,
+  "p": 0.00022954378084616127,
+  "rank_biserial": 0.223,
+  "cliffs_delta": 0.223,
+  "quoted_p": 0.0002,
+  "effect_size": "r_rb = +0.223",
+  "magnitude": "small",
+  "p_recomputed": 0.0002,
+  "p_matches_manuscript": true
+ },
+ "OA: N-reporting vs non-reporting studies (\u00a73.5)": {
+  "test": "Mann-Whitney U",
+  "n1": 75,
+  "n2": 342,
+  "U": 11411.5,
+  "p": 0.134933024491935,
+  "rank_biserial": -0.11,
+  "cliffs_delta": -0.11,
+  "quoted_p": 0.15,
+  "effect_size": "r_rb = -0.110",
+  "magnitude": "negligible",
+  "p_recomputed": 0.1349,
+  "p_matches_manuscript": false
+ },
+ "OA: deep vs classical, between studies (\u00a73.2)": {
+  "test": "Mann-Whitney U",
+  "n1": 101,
+  "n2": 308,
+  "U": 17260.5,
+  "p": 0.09795431718890864,
+  "rank_biserial": 0.11,
+  "cliffs_delta": 0.11,
+  "quoted_p": 0.118,
+  "effect_size": "r_rb = +0.110",
+  "magnitude": "negligible",
+  "p_recomputed": 0.098,
+  "p_matches_manuscript": false
+ },
+ "Kappa: deep vs classical, between studies (\u00a73.8)": {
+  "test": "Mann-Whitney U",
+  "n1": 48,
+  "n2": 164,
+  "U": 4380.0,
+  "p": 0.23531264004992736,
+  "rank_biserial": 0.113,
+  "cliffs_delta": 0.113,
+  "quoted_p": 0.21,
+  "effect_size": "r_rb = +0.113",
+  "magnitude": "negligible",
+  "p_recomputed": 0.2353,
+  "p_matches_manuscript": false
+ },
+ "F1 ~ method category (\u00a7S8)": {
+  "test": "Kruskal-Wallis",
+  "n": 27,
+  "k": 5,
+  "H": 5.615,
+  "p": 0.2298102124109751,
+  "eps2": 0.216,
+  "eps2_ci95": [
+   0.0814,
+   0.5416
+  ],
+  "eps2_null_expectation": 0.1538,
+  "eta2_H": 0.0734,
+  "quoted_p": 0.18,
+  "effect_size": "eps2 = 0.216 [0.081,0.542]",
+  "magnitude": "large",
+  "p_recomputed": 0.2298,
+  "p_matches_manuscript": false
+ },
+ "F1: deep vs classical (\u00a7S8)": {
+  "test": "Mann-Whitney U",
+  "n1": 12,
+  "n2": 18,
+  "U": 106.5,
+  "p": 0.9662216720766998,
+  "rank_biserial": -0.014,
+  "cliffs_delta": -0.014,
+  "quoted_p": 0.878,
+  "effect_size": "r_rb = -0.014",
+  "magnitude": "negligible",
+  "p_recomputed": 0.9662,
+  "p_matches_manuscript": false
+ },
+ "Within-study deep - classical, all pairs (\u00a73.3)": {
+  "test": "Wilcoxon signed-rank",
+  "n_pairs": 14,
+  "W": 12.0,
+  "p": 0.008544921875,
+  "rank_biserial": 0.771,
+  "rank_biserial_ci95": [
+   0.352,
+   1.0
+  ],
+  "quoted_p": 0.009,
+  "effect_size": "r_rb = +0.771",
+  "magnitude": "large",
+  "p_recomputed": 0.0085,
+  "p_matches_manuscript": true
+ },
+ "Within-study deep - classical, 3 outliers removed (\u00a73.3)": {
+  "test": "Wilcoxon signed-rank",
+  "n_pairs": 11,
+  "W": 12.0,
+  "p": 0.0673828125,
+  "rank_biserial": 0.636,
+  "rank_biserial_ci95": [
+   0.061,
+   1.0
+  ],
+  "quoted_p": 0.067,
+  "effect_size": "r_rb = +0.636",
+  "magnitude": "large",
+  "p_recomputed": 0.0674,
+  "p_matches_manuscript": true
+ }
+}

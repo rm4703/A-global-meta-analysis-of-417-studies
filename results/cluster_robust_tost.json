@@ -1,0 +1,18 @@
+{
+ "n_deep": 101,
+ "n_classical": 284,
+ "diff_pp": 1.351,
+ "se_naive_pp": 0.795,
+ "se_cluster_pp": 1.23,
+ "se_inflation": 1.55,
+ "n_region_clusters": 27,
+ "n_boot": 4000,
+ "seed": 20240117,
+ "tost_cluster_robust_p": {
+  "2": 0.2989,
+  "3": 0.09,
+  "5": 0.0015
+ },
+ "primary_margin_pp": 5,
+ "note": "Pre-specified primary bound is +/-5 pp (main text 2.7). Tighter margins are sensitivity analyses and do not hold once region clustering is propagated."
+}
